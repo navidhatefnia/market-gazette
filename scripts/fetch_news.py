@@ -64,7 +64,8 @@ def fetch_all_news():
                 continue
 
             # Process items more carefully
-            for item in raw_news[:15]: # Look deeper to find fresh news
+            temp_list = []
+            for item in raw_news[:40]: # Look much deeper
                 try:
                     if not isinstance(item, dict): continue
                     
@@ -77,7 +78,6 @@ def fetch_all_news():
 
                     if content:
                         title = content.get('title', 'No Title')
-                        # Safe navigation for nested fields
                         click_url_obj = content.get('clickThroughUrl') or {}
                         url = click_url_obj.get('url', '#')
                         provider_obj = content.get('provider') or {}
@@ -91,8 +91,8 @@ def fetch_all_news():
                                 date_str = pub_date_dt.strftime('%b %d, %H:%M')
                             except:
                                 date_str = pub_date[:10]
+                                pub_date_dt = None # Fallback
                     else:
-                        # Fallback for simpler structures
                         title = item.get('title', 'No Title')
                         url = item.get('link', '#')
                         source = item.get('publisher', 'Unknown')
@@ -106,20 +106,25 @@ def fetch_all_news():
                             is_recent = True
                     
                     if is_recent:
-                        formatted_news.append({
+                        temp_list.append({
                             "title": title,
                             "summary": "", 
                             "source": source,
                             "url": url,
                             "date": date_str,
-                            "sentiment": get_sentiment(title)
+                            "sentiment": get_sentiment(title),
+                            "_dt": pub_date_dt # Temporary for sorting
                         })
-                    
-                    if len(formatted_news) >= 5: # Show up to 5 fresh items
-                        break
                 except Exception as item_err:
-                    print(f"  Error processing single news item for {sym}: {item_err}")
                     continue
+
+            # Sort by date descending (most recent first)
+            temp_list.sort(key=lambda x: x['_dt'] if x['_dt'] else datetime.min.replace(tzinfo=x['_dt'].tzinfo if x['_dt'] else None), reverse=True)
+            
+            # Clean up and limit to top 10
+            for entry in temp_list[:10]:
+                del entry['_dt']
+                formatted_news.append(entry)
 
             news_data[sym] = formatted_news
             print(f"  Found {len(formatted_news)} fresh items for {sym}")
