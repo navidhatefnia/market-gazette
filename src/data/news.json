@@ -1,15 +1,48 @@
 {
-  "lastUpdated": "03:30 PM",
+  "lastUpdated": "03:35 PM",
   "date": "Thursday, February 26, 2026",
   "news": {
-    "NVDA": [],
-    "AMD": [
+    "NVDA": [
       {
-        "title": "Tech stocks today: Nvidia stock rises as guidance signals AI boom alive and well",
+        "title": "Stock market today: Dow climbs, S&P 500 and Nasdaq slip as Nvidia leaves investors wanting more",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stock-rises-as-guidance-signals-ai-boom-alive-and-well-220259696.html",
-        "date": "Feb 25, 22:02",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-climbs-sp-500-and-nasdaq-slip-as-nvidia-leaves-investors-wanting-more-143538606.html",
+        "date": "Feb 26, 14:35",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-on-tech-jolt-as-nvidia-earnings-loom-210052281.html",
+        "date": "Feb 25, 21:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia Q4 earnings: What Wall Street expects from AI chipmaker",
+        "summary": "",
+        "source": "Yahoo Finance Video",
+        "url": "https://finance.yahoo.com/video/nvidia-q4-earnings-wall-street-161955857.html",
+        "date": "Feb 25, 16:19",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Got $10,000? This Under\u2011the\u2011Radar Medical Device Giant Could Be a Millionaire Maker by 2036.",
+        "summary": "",
+        "source": "Motley Fool",
+        "url": "https://finance.yahoo.com/news/got-10-000-under-radar-142500395.html",
+        "date": "Feb 26, 14:25",
+        "sentiment": "neutral"
+      }
+    ],
+    "AMD": [
+      {
+        "title": "AMD to buy $150M of Nutanix stock, IonQ and Celsius shares soar",
+        "summary": "",
+        "source": "Yahoo Finance Video",
+        "url": "https://finance.yahoo.com/video/amd-buy-150m-nutanix-stock-142741168.html",
+        "date": "Feb 26, 14:27",
         "sentiment": "positive"
       },
       {
@@ -40,7 +73,7 @@
     "MU": [],
     "SMCI": [
       {
-        "title": "Super Micro Shares Jump After Unveiling Nvidia-Backed AI System",
+        "title": "Super Micro Stock Pops After Unveiling Nvidia-Backed AI System",
         "summary": "",
         "source": "GuruFocus.com",
         "url": "https://finance.yahoo.com/news/super-micro-shares-jump-unveiling-133520235.html",
@@ -110,19 +143,19 @@
         "sentiment": "neutral"
       },
       {
+        "title": "UK bets on lighter crypto rules with stablecoin sandbox trials",
+        "summary": "",
+        "source": "Yahoo Finance UK",
+        "url": "https://finance.yahoo.com/news/sandbox-crypto-investors-bitcoin-regulation-fca-060001700.html",
+        "date": "Feb 26, 14:33",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Jest, a marketplace for messaging games, is challenging the app store status quo",
         "summary": "",
         "source": "TechCrunch",
         "url": "https://finance.yahoo.com/news/jest-marketplace-messaging-games-challenging-140000328.html",
         "date": "Feb 26, 14:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple in Talks to Launch Apple Pay in India",
-        "summary": "",
-        "source": "GuruFocus.com",
-        "url": "https://finance.yahoo.com/news/apple-talks-launch-apple-pay-133415509.html",
-        "date": "Feb 26, 13:34",
         "sentiment": "neutral"
       }
     ],

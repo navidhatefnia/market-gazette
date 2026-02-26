@@ -91,12 +91,16 @@ def fetch_all_news():
                     except Exception as e:
                         date_str = pub_date[:10] if pub_date else "Today"
                 
-                # Filter by date (last 48 hours)
+                # Strict filter by date (last 48 hours)
+                is_recent = False
                 if pub_date_dt:
                     now = datetime.now(pub_date_dt.tzinfo)
                     delta = now - pub_date_dt
-                    if delta.days >= 2:
-                        continue # Skip older news
+                    if delta.total_seconds() < 172800: # 48 hours in seconds
+                        is_recent = True
+                
+                if not is_recent:
+                    continue # Skip if not verified as recent
 
                 formatted_news.append({
                     "title": title,
