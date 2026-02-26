@@ -28,8 +28,9 @@ STOCKS = {
 }
 
 def get_sentiment(text):
-    positive_words = ['up', 'growth', 'rise', 'profit', 'buy', 'positive', 'win', 'beat', 'bullish', 'increase']
-    negative_words = ['down', 'fall', 'loss', 'sell', 'negative', 'drop', 'miss', 'bearish', 'decrease', 'warn']
+    if not text: return "neutral"
+    positive_words = ['up', 'growth', 'rise', 'profit', 'buy', 'positive', 'win', 'beat', 'bullish', 'increase', 'deal', 'success']
+    negative_words = ['down', 'fall', 'loss', 'sell', 'negative', 'drop', 'miss', 'bearish', 'decrease', 'warn', 'risk', 'fail']
     
     text = text.lower()
     pos_count = sum(1 for word in positive_words if word in text)
@@ -43,80 +44,88 @@ def get_sentiment(text):
         return "neutral"
 
 def fetch_all_news():
-    print(f"[{datetime.now()}] Starting news fetch for {len(STOCKS)} stocks...")
+    print(f"[{datetime.now()}] Starting robust news fetch for {len(STOCKS)} stocks...")
     news_data = {}
     
     for sym, info in STOCKS.items():
-        print(f"Fetching {sym}...")
+        print(f"Processing {sym}...")
+        formatted_news = []
         try:
             ticker = yf.Ticker(sym)
             try:
                 raw_news = ticker.news
             except Exception as e:
-                print(f"yfinance error for {sym}: {e}")
+                print(f"  yfinance API error for {sym}: {e}")
                 raw_news = []
             
-            formatted_news = []
-            
-            # Use top 4 news items
             if not raw_news:
-                print(f"No news found for {sym}")
+                print(f"  No raw news returned for {sym}")
                 news_data[sym] = []
                 continue
 
-            for item in raw_news[:10]: # Fetch more items since we filter
-                if not isinstance(item, dict):
-                    continue
-                
-                content = item.get('content')
-                pub_date_dt = None
-                
-                if not content:
-                    # Sometimes news structure varies
-                    title = item.get('title', 'No Title')
-                    url = item.get('link', '#')
-                    source = item.get('publisher', 'Unknown')
-                    date_str = "Recent"
-                else:
-                    title = content.get('title', 'No Title')
-                    url = content.get('clickThroughUrl', {}).get('url', '#')
-                    source = content.get('provider', {}).get('displayName', 'Unknown')
+            # Process items more carefully
+            for item in raw_news[:15]: # Look deeper to find fresh news
+                try:
+                    if not isinstance(item, dict): continue
                     
-                    # Handle publication date
-                    pub_date = content.get('pubDate', '')
-                    try:
-                        # e.g. '2026-02-26T11:48:04Z' -> datetime object
-                        pub_date_dt = datetime.strptime(pub_date.replace('Z', '+0000'), '%Y-%m-%dT%H:%M:%S%z')
-                        date_str = pub_date_dt.strftime('%b %d, %H:%M')
-                    except Exception as e:
-                        date_str = pub_date[:10] if pub_date else "Today"
-                
-                # Strict filter by date (last 48 hours)
-                is_recent = False
-                if pub_date_dt:
-                    now = datetime.now(pub_date_dt.tzinfo)
-                    delta = now - pub_date_dt
-                    if delta.total_seconds() < 172800: # 48 hours in seconds
-                        is_recent = True
-                
-                if not is_recent:
-                    continue # Skip if not verified as recent
+                    content = item.get('content')
+                    title = "No Title"
+                    url = "#"
+                    source = "Unknown"
+                    date_str = "Recent"
+                    pub_date_dt = None
 
-                formatted_news.append({
-                    "title": title,
-                    "summary": "", 
-                    "source": source,
-                    "url": url,
-                    "date": date_str,
-                    "sentiment": get_sentiment(title)
-                })
-                
-                if len(formatted_news) >= 4:
-                    break # Only need top 4 fresh items
-            
+                    if content:
+                        title = content.get('title', 'No Title')
+                        # Safe navigation for nested fields
+                        click_url_obj = content.get('clickThroughUrl') or {}
+                        url = click_url_obj.get('url', '#')
+                        provider_obj = content.get('provider') or {}
+                        source = provider_obj.get('displayName', 'Unknown')
+                        
+                        pub_date = content.get('pubDate', '')
+                        if pub_date:
+                            try:
+                                # e.g. '2026-02-26T11:48:04Z' -> datetime object
+                                pub_date_dt = datetime.strptime(pub_date.replace('Z', '+0000'), '%Y-%m-%dT%H:%M:%S%z')
+                                date_str = pub_date_dt.strftime('%b %d, %H:%M')
+                            except:
+                                date_str = pub_date[:10]
+                    else:
+                        # Fallback for simpler structures
+                        title = item.get('title', 'No Title')
+                        url = item.get('link', '#')
+                        source = item.get('publisher', 'Unknown')
+
+                    # Strict 48-hour filter
+                    is_recent = False
+                    if pub_date_dt:
+                        now = datetime.now(pub_date_dt.tzinfo)
+                        delta = now - pub_date_dt
+                        if delta.total_seconds() < 172800: # 48 hours
+                            is_recent = True
+                    
+                    if is_recent:
+                        formatted_news.append({
+                            "title": title,
+                            "summary": "", 
+                            "source": source,
+                            "url": url,
+                            "date": date_str,
+                            "sentiment": get_sentiment(title)
+                        })
+                    
+                    if len(formatted_news) >= 5: # Show up to 5 fresh items
+                        break
+                except Exception as item_err:
+                    print(f"  Error processing single news item for {sym}: {item_err}")
+                    continue
+
             news_data[sym] = formatted_news
-        except Exception as e:
-            print(f"Error fetching {sym}: {e}")
+            print(f"  Found {len(formatted_news)} fresh items for {sym}")
+
+        except Exception as ticker_err:
+            print(f"  Critical error for {sym}: {ticker_err}")
             news_data[sym] = []
 
     output = {
@@ -125,13 +134,11 @@ def fetch_all_news():
         "news": news_data
     }
     
-    # Ensure directory exists
     os.makedirs('src/data', exist_ok=True)
-    
     with open('src/data/news.json', 'w') as f:
         json.dump(output, f, indent=2)
     
-    print(f"[{datetime.now()}] Success! News saved to src/data/news.json")
+    print(f"[{datetime.now()}] Success! Final news saved.")
 
 if __name__ == "__main__":
     fetch_all_news()
