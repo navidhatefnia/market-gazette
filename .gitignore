@@ -1,0 +1,15 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore the production build
+dist/
+
+# Ignore local environment file — NEVER commit this!
+.env
+.env.local
+.env.*.local
+
+# Editor artifacts
+.DS_Store
+*.swp
+*.swo
