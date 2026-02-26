@@ -1,16 +1,17 @@
-name: Deploy Market Gazette to GitHub Pages
+name: Deploy Market Gazette (Free Edition)
 
 on:
   push:
     branches: [main]
-  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 4 hours
+  workflow_dispatch:      # Enable manual run
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Only allow one deployment at a time
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -22,19 +23,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          pip install yfinance
+
+      - name: Fetch News (FREE)
+        run: python scripts/fetch_news.py
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
-      - name: Install dependencies
+      - name: Install Node dependencies
         run: npm ci
 
       - name: Build
-        # Inject the API key from the GitHub repository secret
-        env:
-          VITE_ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run build
 
       - name: Upload Pages artifact

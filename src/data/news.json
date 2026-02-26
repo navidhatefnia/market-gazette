@@ -1,0 +1,257 @@
+{
+  "lastUpdated": "03:13 PM",
+  "date": "Thursday, February 26, 2026",
+  "news": {
+    "NVDA": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Nvidia leaves investors wanting more",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-nvidia-leaves-investors-wanting-more-234839338.html",
+        "date": "Feb 25, 23:48",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia beats on Q4 expectations and offers better-than-anticipated Q1 outlook",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/nvidia-beats-on-q4-expectations-and-offers-better-than-anticipated-q1-outlook-191031308.html",
+        "date": "Feb 23, 19:10",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-on-tech-jolt-as-nvidia-earnings-loom-210052281.html",
+        "date": "Feb 25, 21:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia Q4 earnings: What Wall Street expects from AI chipmaker",
+        "summary": "",
+        "source": "Yahoo Finance Video",
+        "url": "https://finance.yahoo.com/video/nvidia-q4-earnings-wall-street-161955857.html",
+        "date": "Feb 25, 16:19",
+        "sentiment": "neutral"
+      }
+    ],
+    "AMD": [],
+    "MU": [],
+    "SMCI": [
+      {
+        "title": "Super Micro Shares Jump After Unveiling Nvidia-Backed AI System",
+        "summary": "",
+        "source": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/news/super-micro-shares-jump-unveiling-133520235.html",
+        "date": "Feb 26, 13:35",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Why Super Micro (SMCI) Stock Is Trading Up Today",
+        "summary": "",
+        "source": "StockStory",
+        "url": "https://finance.yahoo.com/news/why-super-micro-smci-stock-212135316.html",
+        "date": "Feb 25, 21:21",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Is It Time To Reassess Super Micro Computer (SMCI) After Its 31% One Year Decline?",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/time-reassess-super-micro-computer-181556575.html",
+        "date": "Feb 25, 18:15",
+        "sentiment": "positive"
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Dell, Hewlett-Packard, Cisco Systems and Super Micro Computers",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-dell-150300464.html",
+        "date": "Feb 25, 15:03",
+        "sentiment": "positive"
+      }
+    ],
+    "CENX": [
+      {
+        "title": "Century Aluminum (CENX) Is Up 5.6% After Unveiling Ambitious Oklahoma Smelter and Hub Plans",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/century-aluminum-cenx-5-6-110944864.html",
+        "date": "Feb 26, 11:09",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Century Aluminum CFO Details Mount Holly Restart, $300M EBITDA Run-Rate and Oklahoma Smelter Plan",
+        "summary": "",
+        "source": "MarketBeat",
+        "url": "https://finance.yahoo.com/news/century-aluminum-cfo-details-mount-164726581.html",
+        "date": "Feb 24, 16:47",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Makes Century Aluminum (CENX) a Strong Momentum Stock: Buy Now?",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/makes-century-aluminum-cenx-strong-170005677.html",
+        "date": "Feb 23, 17:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Century Aluminum Q4 Earnings Miss Estimates, Decline Y/Y",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/century-aluminum-q4-earnings-miss-152600873.html",
+        "date": "Feb 23, 15:26",
+        "sentiment": "negative"
+      }
+    ],
+    "WPM": [
+      {
+        "title": "BVN Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/bvn-gears-report-q4-earnings-174800322.html",
+        "date": "Feb 24, 17:48",
+        "sentiment": "positive"
+      },
+      {
+        "title": "BHP, Wheaton Sign Record $4.3 Billion Silver Streamline Deal",
+        "summary": "",
+        "source": "Benzinga",
+        "url": "https://finance.yahoo.com/news/bhp-wheaton-sign-record-4-190053682.html",
+        "date": "Feb 19, 19:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Wheaton Precious Metals Weighs Antamina Expansion Against Rich Valuation And Handover",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/wheaton-precious-metals-weighs-antamina-231225791.html",
+        "date": "Feb 18, 23:12",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Wheaton Precious Metals Maintained at Buy at Stifel Canada After Streaming Buy; Price Target Kept at C$240",
+        "summary": "",
+        "source": "MT Newswires",
+        "url": "https://finance.yahoo.com/news/wheaton-precious-metals-maintained-buy-162002530.html",
+        "date": "Feb 18, 16:20",
+        "sentiment": "positive"
+      }
+    ],
+    "ENR.DE": [],
+    "ASME.DE": [],
+    "HT3.DE": [],
+    "PTX.DE": [],
+    "NS7.DE": [],
+    "CDM1.DE": [
+      {
+        "title": "Coeur Mining Enters New Phase With Record Results And New Gold Deal",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/coeur-mining-enters-phase-record-150900061.html",
+        "date": "Feb 24, 15:09",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Amgen, ETSY, Eldorado Gold, GE Aerospace, Merck, Southern Company, Walmart, Yeti, and More",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "url": "https://finance.yahoo.com/news/friday-top-wall-street-analyst-125929009.html",
+        "date": "Feb 20, 12:59",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Can Coeur Mining Sustain and Expand Its Free Cash Flow in 2026?",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/coeur-mining-sustain-expand-free-120600932.html",
+        "date": "Feb 20, 12:06",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Southern Copper, Freeport-McMoRan, Lundin Mining and Coeur Mining",
+        "summary": "",
+        "source": "Zacks",
+        "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-southern-090300906.html",
+        "date": "Feb 20, 09:03",
+        "sentiment": "neutral"
+      }
+    ],
+    "PA2.DE": [],
+    "RG3.DE": [],
+    "USAU": [
+      {
+        "title": "Is U.S. Gold (USAU) Share Price Outrunning Its Book Value Or DCF Estimate",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/u-gold-usau-share-price-041739467.html",
+        "date": "Jan 25, 04:17",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A Look At U.S. Gold\u2019s (USAU) Valuation After A Sharp Short-Term Share Price Move",
+        "summary": "",
+        "source": "Simply Wall St.",
+        "url": "https://finance.yahoo.com/news/look-u-gold-usau-valuation-080926201.html",
+        "date": "Jan 24, 08:09",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US Gold Corp (USAU): Funding Round, Analyst Upgrade, and Exploration Momentum",
+        "summary": "",
+        "source": "Insider Monkey",
+        "url": "https://finance.yahoo.com/news/us-gold-corp-usau-funding-190028555.html",
+        "date": "Jan 08, 19:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Top Midday Gainers",
+        "summary": "",
+        "source": "MT Newswires",
+        "url": "https://finance.yahoo.com/news/top-midday-gainers-184404532.html",
+        "date": "Dec 23, 18:44",
+        "sentiment": "neutral"
+      }
+    ],
+    "APC.DE": [
+      {
+        "title": "Samsung's new Galaxy S26 smartphone lineup goes big on AI as Apple works to catch up",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/samsungs-new-galaxy-s26-smartphone-lineup-goes-big-on-ai-as-apple-works-to-catch-up-180029904.html",
+        "date": "Feb 25, 18:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Analysts say Apple is an AI 'survivor.' Here's why.",
+        "summary": "",
+        "source": "Yahoo Finance Video",
+        "url": "https://finance.yahoo.com/video/analysts-apple-ai-survivor-heres-155850224.html",
+        "date": "Feb 25, 15:58",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jest, a marketplace for messaging games, is challenging the app store status quo",
+        "summary": "",
+        "source": "TechCrunch",
+        "url": "https://finance.yahoo.com/news/jest-marketplace-messaging-games-challenging-140000328.html",
+        "date": "Feb 26, 14:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Apple in Talks to Launch Apple Pay in India",
+        "summary": "",
+        "source": "GuruFocus.com",
+        "url": "https://finance.yahoo.com/news/apple-talks-launch-apple-pay-133415509.html",
+        "date": "Feb 26, 13:34",
+        "sentiment": "neutral"
+      }
+    ],
+    "ABEC.DE": [],
+    "ABEA.DE": [],
+    "AMS1.DE": [],
+    "AP2.DE": []
+  }
+}
