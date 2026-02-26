@@ -64,11 +64,13 @@ def fetch_all_news():
                 news_data[sym] = []
                 continue
 
-            for item in raw_news[:4]:
+            for item in raw_news[:10]: # Fetch more items since we filter
                 if not isinstance(item, dict):
                     continue
                 
                 content = item.get('content')
+                pub_date_dt = None
+                
                 if not content:
                     # Sometimes news structure varies
                     title = item.get('title', 'No Title')
@@ -83,12 +85,19 @@ def fetch_all_news():
                     # Handle publication date
                     pub_date = content.get('pubDate', '')
                     try:
-                        # e.g. '2026-02-26T11:48:04Z' -> 'Feb 26, 11:48'
-                        dt = datetime.strptime(pub_date.replace('Z', '+0000'), '%Y-%m-%dT%H:%M:%S%z')
-                        date_str = dt.strftime('%b %d, %H:%M')
-                    except:
+                        # e.g. '2026-02-26T11:48:04Z' -> datetime object
+                        pub_date_dt = datetime.strptime(pub_date.replace('Z', '+0000'), '%Y-%m-%dT%H:%M:%S%z')
+                        date_str = pub_date_dt.strftime('%b %d, %H:%M')
+                    except Exception as e:
                         date_str = pub_date[:10] if pub_date else "Today"
                 
+                # Filter by date (last 48 hours)
+                if pub_date_dt:
+                    now = datetime.now(pub_date_dt.tzinfo)
+                    delta = now - pub_date_dt
+                    if delta.days >= 2:
+                        continue # Skip older news
+
                 formatted_news.append({
                     "title": title,
                     "summary": "", 
@@ -97,6 +106,9 @@ def fetch_all_news():
                     "date": date_str,
                     "sentiment": get_sentiment(title)
                 })
+                
+                if len(formatted_news) >= 4:
+                    break # Only need top 4 fresh items
             
             news_data[sym] = formatted_news
         except Exception as e:
