@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 */4 * * *'  # Run every 4 hours
+    - cron: '*/30 * * * *'  # Run every 30 minutes
   workflow_dispatch:      # Enable manual run
 
 permissions:
