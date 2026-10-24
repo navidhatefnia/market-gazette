@@ -1,14 +1,21 @@
-name: Deploy Market Gazette (Free Edition)
+name: Deploy Market Gazette
 
 on:
   push:
     branches: [main]
+  # Every 3 hours between 7:30am and 9:30pm Amsterdam time (UTC+2)
+  # UTC times: 05:30, 08:30, 11:30, 14:30, 17:30, 19:30
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 minutes
-  workflow_dispatch:      # Enable manual run
+    - cron: '30 5 * * *'   # 07:30 Amsterdam
+    - cron: '30 8 * * *'   # 10:30 Amsterdam
+    - cron: '30 11 * * *'  # 13:30 Amsterdam
+    - cron: '30 14 * * *'  # 16:30 Amsterdam
+    - cron: '30 17 * * *'  # 19:30 Amsterdam
+    - cron: '30 19 * * *'  # 21:30 Amsterdam (last one before cutoff)
+  workflow_dispatch:        # Manual trigger
 
 permissions:
-  contents: read
+  contents: write           # Needed to push keep-alive commit
   pages: write
   id-token: write
 
@@ -22,18 +29,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install Python dependencies
-        run: |
-          pip install yfinance
+        run: pip install "yfinance>=0.2.50"
 
-      - name: Fetch News (FREE)
+      - name: Fetch News
         run: python scripts/fetch_news.py
+
+      - name: Keep workflow alive (prevent GitHub auto-disable)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Touch a tiny timestamp file so there is always a recent commit
+          echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > .last_fetch
+          git add .last_fetch src/data/news.json
+          git diff --cached --quiet || git commit -m "chore: auto-update news $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

@@ -108,7 +108,7 @@ export default function App() {
                         <button key={s} className={`filter-pill${filter === s ? " active" : ""}`} onClick={() => setFilter(s)}>{s}</button>
                     ))}
                     <div style={{ marginLeft: "auto", fontFamily: "'DM Mono', monospace", fontSize: "0.6rem", color: "#8b1a1a", letterSpacing: "0.05em" }}>
-                        AUTOREFRESH EVERY 30MIN
+                        UPDATED EVERY 3 HOURS · 07:30–21:30
                     </div>
                 </div>
 
