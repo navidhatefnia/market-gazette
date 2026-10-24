@@ -26,7 +26,7 @@ const stocks = {
 
 const SECTORS = ["All", "Semiconductors", "Precious Metals", "Technology", "Software", "Energy", "Materials", "Servers"];
 
-const sentimentStyle = { positive: "#1a6b2e", negative: "#8b1a1a", neutral: "#5a5040" };
+const sentimentColor = { positive: "#1a7a32", negative: "#c0281e", neutral: "#1a1a1a" };
 const sentimentLabel = { positive: "▲", negative: "▼", neutral: "—" };
 
 export default function App() {
@@ -63,8 +63,8 @@ export default function App() {
         .filter-pill:hover, .filter-pill.active { background: #1a1a1a; color: #f9f6ef; }
         .card-col { break-inside: avoid; }
         .news-headline { font-family: 'Source Serif 4', 'Times New Roman', serif; font-size: 1.0rem; font-weight: 600; line-height: 1.38; }
-        .news-headline a { color: #1a1a1a; }
-        .news-headline a:hover { color: #8b1a1a; }
+        .news-headline a { text-decoration: none; }
+        .news-headline a:hover { filter: brightness(0.7); text-decoration: underline; text-underline-offset: 2px; }
         .news-summary { font-family: 'Source Serif 4', 'Times New Roman', serif; font-size: 0.82rem; color: #4a4030; line-height: 1.5; font-style: italic; }
         .byline { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: #7a6e5a; letter-spacing: 0.06em; }
         .ticker-sym { font-family: 'DM Mono', monospace; font-size: 0.65rem; font-weight: 500; color: #8b1a1a; background: #f9f6ef; border: 1px solid #8b1a1a; padding: 2px 7px; letter-spacing: 0.1em; }
@@ -152,7 +152,12 @@ export default function App() {
                                     <div key={i}>
                                         {i > 0 && <hr style={{ border: "none", borderTop: "1px dashed #c8c0b0", margin: "12px 0" }} />}
                                         <div className="news-headline" style={{ marginBottom: "5px" }}>
-                                            <a href={item.url || "#"} target="_blank" rel="noopener noreferrer">{item.title}</a>
+                                            <a
+                                                href={item.url || "#"}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                style={{ color: sentimentColor[item.sentiment] || "#1a1a1a" }}
+                                            >{item.title}</a>
                                         </div>
                                         {item.summary && (
                                             <div className="news-summary" style={{ marginBottom: "5px" }}>{item.summary}</div>
@@ -161,7 +166,7 @@ export default function App() {
                                             {item.source && <span style={{ fontWeight: 500, textTransform: "uppercase", letterSpacing: "0.08em" }}>{item.source}</span>}
                                             {item.date && <span>· {item.date}</span>}
                                             {item.sentiment && (
-                                                <span style={{ marginLeft: "auto", color: sentimentStyle[item.sentiment] || "#7a6e5a", fontWeight: 600 }}>
+                                                <span style={{ marginLeft: "auto", color: sentimentColor[item.sentiment] || "#7a6e5a", fontWeight: 700, fontSize: "0.75rem" }}>
                                                     {sentimentLabel[item.sentiment] || "—"}
                                                 </span>
                                             )}
