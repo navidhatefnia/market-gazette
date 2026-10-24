@@ -137,14 +137,14 @@ def fetch_all_news():
 
                 pub_date_dt = parsed["pub_date_dt"]
 
-                # 48-hour recency filter
+                # 7-day recency filter (covers weekends when no new articles are published)
                 is_recent = False
                 if pub_date_dt:
                     # Make sure both sides are timezone-aware
                     if pub_date_dt.tzinfo is None:
                         pub_date_dt = pub_date_dt.replace(tzinfo=timezone.utc)
                     delta = now_utc - pub_date_dt
-                    is_recent = delta.total_seconds() < 172800  # 48 h
+                    is_recent = delta.total_seconds() < 604800  # 7 days
 
                 # If no date at all, include it anyway (better than nothing)
                 if is_recent or pub_date_dt is None:
