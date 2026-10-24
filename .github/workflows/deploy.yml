@@ -38,7 +38,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python dependencies
-        run: pip install "yfinance>=0.2.50"
+        run: pip install requests
 
       - name: Fetch News
         run: python scripts/fetch_news.py
