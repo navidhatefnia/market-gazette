@@ -1,71 +1,71 @@
 {
-  "lastUpdated": "05:44 PM",
+  "lastUpdated": "07:50 PM",
   "date": "Sunday, October 25, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+        "title": "Here's the Average Social Security Benefit at 62 vs. 70",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html?.tsrc=rss",
-        "date": "Oct 25, 17:39",
+        "url": "https://www.fool.com/retirement/social-security/2026/10/25/heres-the-average-social-security-benefit-at-62-vs-70/?.tsrc=rss",
+        "date": "Oct 25, 19:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Vanguard flags a hidden AI risk in your value fund",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/vanguard-flags-a-hidden-ai-risk-in-your-value-fund?.tsrc=rss",
+        "date": "Oct 25, 19:13",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html?.tsrc=rss",
+        "date": "Oct 25, 19:06",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Oklo Is Down 86% From Its High. Screaming Bargain or More Downside Ahead?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/oklo-is-down-86-from-its-high-screaming-bargain-or/?.tsrc=rss",
+        "date": "Oct 25, 19:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/up-over-100-in-2026-is-crowdstrike-still-a-buy/?.tsrc=rss",
+        "date": "Oct 25, 19:02",
         "sentiment": "positive"
       },
       {
-        "title": "If I Could Only Own 1 ETF for the Next 20 Years, Here's Exactly What I'd Pick and Why",
+        "title": "Archer Aviation Stock Is Down 50%. Is Now Finally the Time to Buy?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/if-only-own-1-etf-for-20-years-pick-vgt-why/?.tsrc=rss",
-        "date": "Oct 25, 17:22",
+        "url": "https://www.fool.com/investing/2026/10/25/archer-stock-is-down-50-is-now-finally-time/?.tsrc=rss",
+        "date": "Oct 25, 18:43",
         "sentiment": "neutral"
       },
       {
-        "title": "3 Superior Growth Stocks to Buy Now and Hold for 10 Years",
+        "title": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Investment Produces in Yearly Dividends.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/3-superior-growth-stocks-buy-hold-10-years/?.tsrc=rss",
-        "date": "Oct 25, 17:05",
+        "url": "https://www.fool.com/investing/2026/10/25/realty-income-yields-more-than-quintuple-the-sp-50/?.tsrc=rss",
+        "date": "Oct 25, 18:31",
         "sentiment": "positive"
       },
       {
-        "title": "I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2.",
+        "title": "Is It Too Late to Buy Energy Transfer After a 25% Rally? History Has a Clear Answer.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/i-said-palantir-stock-would-top-220-this-year-here/?.tsrc=rss",
-        "date": "Oct 25, 17:03",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-delivers-zero-financial-payoff-165732723.html?.tsrc=rss",
-        "date": "Oct 25, 16:57",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Can Walmart's New Bundled Subscription Beat Amazon?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/can-walmarts-new-bundled-subscription-beat-amazon/?.tsrc=rss",
-        "date": "Oct 25, 16:47",
+        "url": "https://www.fool.com/investing/2026/10/25/is-it-too-late-to-buy-energy-transfer-after-a-25-r/?.tsrc=rss",
+        "date": "Oct 25, 18:25",
         "sentiment": "positive"
-      },
-      {
-        "title": "2 Quantum Computing Stocks That Could Help Make You a Fortune",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/2-quantum-computing-stocks-that-could-help-make-yo/?.tsrc=rss",
-        "date": "Oct 25, 16:31",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Should You Still Invest if a Bear Market Is Coming? History Offers a Clear Answer.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/should-invest-if-bear-market-coming-history-says/?.tsrc=rss",
-        "date": "Oct 25, 16:25",
-        "sentiment": "neutral"
       }
     ],
     "AMD": [
@@ -202,6 +202,14 @@
     ],
     "SMCI": [
       {
+        "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html?.tsrc=rss",
+        "date": "Oct 25, 19:06",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Top 3 Insider Owned Growth Stocks To Watch In October 2026",
         "summary": "",
         "source": "Yahoo Finance",
@@ -255,14 +263,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/2026/10/23/hewlett-packard-enterprise-climbs-4-while-ai-server-peers-lag-dell-rises-2-super-micro-unchanged/?.tsrc=rss",
         "date": "Oct 23, 17:09",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Will Super Micro (SMCI) Beat Estimates Again in Its Next Earnings Report?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-beat-estimates-151002569.html?.tsrc=rss",
-        "date": "Oct 23, 15:10",
         "sentiment": "positive"
       }
     ],
@@ -667,6 +667,22 @@
     ],
     "GOOGL": [
       {
+        "title": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-with.html?.tsrc=rss",
+        "date": "Oct 25, 19:33",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Google's next TV gadget may do much more than stream",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/googles-next-tv-gadget-may-do-much-more-than-stream?.tsrc=rss",
+        "date": "Oct 25, 18:17",
+        "sentiment": "neutral"
+      },
+      {
         "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
         "summary": "",
         "source": "Yahoo Finance",
@@ -712,22 +728,6 @@
         "source": "Yahoo Finance",
         "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp?.tsrc=rss",
         "date": "Oct 25, 15:27",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Alphabet Stock Is Up 26.5% Over the Past Year. Still a Buy at $320?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/alphabet-stock-is-up-26-5-over-the-past-year-still-a-buy-at-320?ref=yahoofinance&.tsrc=rss",
-        "date": "Oct 25, 15:25",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Dow Jones Futures Due For Doom-And-Bloom Market; Microsoft, Google, Amazon Ahead",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-for.html?.tsrc=rss",
-        "date": "Oct 25, 15:22",
         "sentiment": "neutral"
       }
     ],
