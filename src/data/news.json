@@ -1,74 +1,82 @@
 {
-  "lastUpdated": "07:50 PM",
+  "lastUpdated": "09:59 PM",
   "date": "Sunday, October 25, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Here's the Average Social Security Benefit at 62 vs. 70",
+        "title": "Stock-Split Watch: Is Sandisk Next?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/retirement/social-security/2026/10/25/heres-the-average-social-security-benefit-at-62-vs-70/?.tsrc=rss",
-        "date": "Oct 25, 19:20",
+        "url": "https://www.fool.com/investing/2026/10/25/stock-split-watch-is-sandisk-next/?.tsrc=rss",
+        "date": "Oct 25, 21:49",
         "sentiment": "neutral"
       },
       {
-        "title": "Vanguard flags a hidden AI risk in your value fund",
+        "title": "3 Genius Quantum Computing Stocks to Buy Now",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/vanguard-flags-a-hidden-ai-risk-in-your-value-fund?.tsrc=rss",
-        "date": "Oct 25, 19:13",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html?.tsrc=rss",
-        "date": "Oct 25, 19:06",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oklo Is Down 86% From Its High. Screaming Bargain or More Downside Ahead?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/oklo-is-down-86-from-its-high-screaming-bargain-or/?.tsrc=rss",
-        "date": "Oct 25, 19:05",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/up-over-100-in-2026-is-crowdstrike-still-a-buy/?.tsrc=rss",
-        "date": "Oct 25, 19:02",
+        "url": "https://www.fool.com/investing/2026/10/25/3-genius-quantum-computing-stocks-to-buy-now/?.tsrc=rss",
+        "date": "Oct 25, 21:05",
         "sentiment": "positive"
       },
       {
-        "title": "Archer Aviation Stock Is Down 50%. Is Now Finally the Time to Buy?",
+        "title": "5 Insurance Stocks to Buy for a Decade of Rising Dividends",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/archer-stock-is-down-50-is-now-finally-time/?.tsrc=rss",
-        "date": "Oct 25, 18:43",
+        "url": "https://www.fool.com/investing/2026/10/25/5-insurance-stocks-to-buy-for-a-decade-of/?.tsrc=rss",
+        "date": "Oct 25, 20:50",
+        "sentiment": "positive"
+      },
+      {
+        "title": "NuScale Power Trades Below $6 With the Only NRC-Certified Small Modular Reactor Design. Here's Why That Still Isn't Enough.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/nuscale-power-trades-below-6-with-the-only-nrc/?.tsrc=rss",
+        "date": "Oct 25, 20:35",
         "sentiment": "neutral"
       },
       {
-        "title": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Investment Produces in Yearly Dividends.",
+        "title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters for Tesla and SpaceX Shareholders.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/realty-income-yields-more-than-quintuple-the-sp-50/?.tsrc=rss",
-        "date": "Oct 25, 18:31",
+        "url": "https://www.fool.com/investing/2026/10/25/elon-musk-became-the-first-person-ever-confirmed-w/?.tsrc=rss",
+        "date": "Oct 25, 20:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/apples-market-cap-grew-from-350-billion-to-46-tril/?.tsrc=rss",
+        "date": "Oct 25, 20:05",
         "sentiment": "positive"
       },
       {
-        "title": "Is It Too Late to Buy Energy Transfer After a 25% Rally? History Has a Clear Answer.",
+        "title": "Nu Holdings Earned More Than $1 Billion in a Quarter for the First Time. Now It's Launching in the U.S.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/is-it-too-late-to-buy-energy-transfer-after-a-25-r/?.tsrc=rss",
-        "date": "Oct 25, 18:25",
-        "sentiment": "positive"
+        "url": "https://www.fool.com/investing/2026/10/25/nu-holdings-1-billion-quarter-launching-us/?.tsrc=rss",
+        "date": "Oct 25, 20:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Realty Income Yields 5.7%. Here's What $2,500 in Yearly Dividend Income Would Cost You.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/realty-income-yields-57-heres-what-2500-in-yearly/?.tsrc=rss",
+        "date": "Oct 25, 19:50",
+        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/8444185/dell-lenovo-cisco-hpe-supermicro-why-amds-new-ai-blueprint-has-everyone-signing-on?.tsrc=rss",
+        "date": "Oct 25, 14:00",
+        "sentiment": "positive"
+      },
       {
         "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030",
         "summary": "",
@@ -124,14 +132,6 @@
         "url": "https://www.tikr.com/blog/amd-stock-fell-8-in-a-day-as-lam-researchs-supply-warning-sank-chip-stocks-heres-where-the-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
         "date": "Oct 23, 20:34",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/23/taiwan-semiconductor-posted-record-profit-and-the/?.tsrc=rss",
-        "date": "Oct 23, 17:35",
-        "sentiment": "positive"
       }
     ],
     "MU": [
@@ -210,6 +210,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/8444185/dell-lenovo-cisco-hpe-supermicro-why-amds-new-ai-blueprint-has-everyone-signing-on?.tsrc=rss",
+        "date": "Oct 25, 14:00",
+        "sentiment": "positive"
+      },
+      {
         "title": "Top 3 Insider Owned Growth Stocks To Watch In October 2026",
         "summary": "",
         "source": "Yahoo Finance",
@@ -255,14 +263,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.tikr.com/blog/credo-soars-7-as-super-micros-4-billion-forecast-hike-signals-increased-demand-for-ai-platforms?ref=yahoofinance&.tsrc=rss",
         "date": "Oct 23, 17:30",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Hewlett Packard Enterprise Climbs 4% While AI Server Peers Lag; Dell Rises 2%, Super Micro Unchanged",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/10/23/hewlett-packard-enterprise-climbs-4-while-ai-server-peers-lag-dell-rises-2-super-micro-unchanged/?.tsrc=rss",
-        "date": "Oct 23, 17:09",
         "sentiment": "positive"
       }
     ],
@@ -601,6 +601,14 @@
     "USAU": [],
     "AAPL": [
       {
+        "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/apples-market-cap-grew-from-350-billion-to-46-tril/?.tsrc=rss",
+        "date": "Oct 25, 20:05",
+        "sentiment": "positive"
+      },
+      {
         "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
         "summary": "",
         "source": "Yahoo Finance",
@@ -655,23 +663,39 @@
         "url": "https://www.fool.com/coverage/better-buy/2026/10/24/broadcom-vs-dell-technologies-which-stock-is-ai-powering-to-be-a-better-buy-in-2026/?.tsrc=rss",
         "date": "Oct 24, 17:40",
         "sentiment": "positive"
-      },
-      {
-        "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/24/apple-nvidia-5-trillion-club-which-stock-10/?.tsrc=rss",
-        "date": "Oct 24, 17:37",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "3 Genius Quantum Computing Stocks to Buy Now",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/25/3-genius-quantum-computing-stocks-to-buy-now/?.tsrc=rss",
+        "date": "Oct 25, 21:05",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Stock Futures Set to Trade Ahead of Fed Decision",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-set-to-trade.html?.tsrc=rss",
+        "date": "Oct 25, 19:44",
+        "sentiment": "neutral"
+      },
       {
         "title": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-with.html?.tsrc=rss",
         "date": "Oct 25, 19:33",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/0d4242d7-b2c9-3bd4-9e03-715369986b85/the-fed%2C-inflation%2C-verizon%2C.html?.tsrc=rss",
+        "date": "Oct 25, 19:12",
         "sentiment": "neutral"
       },
       {
@@ -704,30 +728,6 @@
         "source": "Yahoo Finance",
         "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks?.tsrc=rss",
         "date": "Oct 25, 16:01",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/does-enough-capital-exist-finance-155732075.html?.tsrc=rss",
-        "date": "Oct 25, 15:57",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% Last Quarter While the Gemini App Reached 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/25/sundar-pichai-alphabets-cloud-revenue-grew-82/?.tsrc=rss",
-        "date": "Oct 25, 15:29",
-        "sentiment": "positive"
-      },
-      {
-        "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp?.tsrc=rss",
-        "date": "Oct 25, 15:27",
         "sentiment": "neutral"
       }
     ],
@@ -800,6 +800,14 @@
     ],
     "GLD": [
       {
+        "title": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/etf/2026/10/25/selling-300000-of-gld-bought-five-years-ago-means-a-162713-gain-taxed-as-a-collectible-not-a-stock/?.tsrc=rss",
+        "date": "Oct 25, 20:03",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Gold Just Fell Below $4,000 After Its Worst Week in Five Months",
         "summary": "",
         "source": "Yahoo Finance",
@@ -853,14 +861,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
         "date": "Oct 19, 22:47",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "China's Treasury Pile Is Shrinking on Paper. The Custody Data Tell a Different Story",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/chinas-treasury-pile-shrinking-paper-121500428.html?.tsrc=rss",
-        "date": "Oct 19, 12:15",
         "sentiment": "neutral"
       }
     ]
