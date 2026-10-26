@@ -1,74 +1,82 @@
 {
-  "lastUpdated": "09:45 PM",
+  "lastUpdated": "11:15 PM",
   "date": "Monday, October 26, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Will Palantir Technologies Stock Hit $300 Before the End of 2026?",
+        "title": "Anthropic Just Filed to Go Public. Should You Buy the Stock?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/26/will-palantir-technologies-stock-hit-300-before-the-end-of-2026/?.tsrc=rss",
-        "date": "Oct 26, 21:36",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Arcos Dorados Stock Got Socked Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/26/why-arcos-dorados-stock-got-socked-today/?.tsrc=rss",
-        "date": "Oct 26, 21:23",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Nasdaq Crashed 700 Points in a Day Last Week. One Major Wall Street Firm is Predicting the Correction Will End After Midterms.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/videos/the-nasdaq-crashed-700-points-in-a-day-last-week-one-major-wall-street-firm-is-predicting-the-correction-will-end-after-midterms/?.tsrc=rss",
-        "date": "Oct 26, 21:18",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel P\u00e9rez-L\u00f3pez as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ipronics-names-co-founder-photonics-211600156.html?.tsrc=rss",
-        "date": "Oct 26, 21:16",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vertiv Simplifies High-Density AI Infrastructure Deployment Across Data Center Environments",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-simplifies-high-density-ai-211200507.html?.tsrc=rss",
-        "date": "Oct 26, 21:12",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Arista Networks (ANET) Is Winning AI Data Center Network Share",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-winning-ai-210715608.html?.tsrc=rss",
-        "date": "Oct 26, 21:07",
+        "url": "https://www.fool.com/investing/2026/10/26/anthropic-just-filed-to-go-public-should-you-buy-the-stock/?.tsrc=rss",
+        "date": "Oct 26, 22:55",
         "sentiment": "positive"
       },
       {
-        "title": "Business First Bancshares, Inc. Q3 2026 Earnings Call Summary",
+        "title": "Why Range Resources Stock Surged Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-business-first-bancshares-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 26, 21:00",
+        "url": "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss",
+        "date": "Oct 26, 22:47",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Berkshire Hathaway: Is the Stock Still a Safe Buy Without Warren Buffett?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/26/berkshire-hathaway-is-the-stock-still-a-safe-buy-without-warren-buffett/?.tsrc=rss",
+        "date": "Oct 26, 22:46",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Why Nu Holdings Stock Got Crushed on Monday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/26/why-nu-holdings-stock-got-crushed-on-monday/?.tsrc=rss",
+        "date": "Oct 26, 22:34",
         "sentiment": "neutral"
       },
       {
-        "title": "Verizon Communications Inc. Q3 2026 Earnings Call Summary",
+        "title": "Will Alphabet Stock Surge After Oct. 28?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-verizon-communications-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 26, 21:00",
+        "url": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
+        "date": "Oct 26, 22:25",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
+        "date": "Oct 26, 22:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Should You Forget Clorox Stock Near a 52-Week Low?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/26/should-you-forget-clorox-stock-near-a-52-week-low/?.tsrc=rss",
+        "date": "Oct 26, 22:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why JetBlue Stock Dived by Almost 10% on Monday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/26/why-jetblue-stock-dived-by-almost-10-on-monday/?.tsrc=rss",
+        "date": "Oct 26, 22:03",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-rises-204503858.html?.tsrc=rss",
+        "date": "Oct 26, 20:45",
+        "sentiment": "positive"
+      },
       {
         "title": "Marvell Stock Is Bouncing Back From a Near 9% Drop. Its COO Says It Has \u201cAll the Demand and the Supply\u201d to Hit $20 Billion in Revenue Next Year",
         "summary": "",
@@ -124,17 +132,17 @@
         "url": "https://finance.yahoo.com/m/6e74f4c4-febd-3840-9b9c-12bddc474477/meta-stock-dips-on-massive.html?.tsrc=rss",
         "date": "Oct 26, 15:03",
         "sentiment": "positive"
-      },
-      {
-        "title": "Meta Is Moving Quickly to Build an AI War Chest. Convertible Stock Could Yield 6%.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/51c0fa15-09b5-374f-9d58-4890557c7f17/meta-is-moving-quickly-to.html?.tsrc=rss",
-        "date": "Oct 26, 14:37",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
+        "date": "Oct 26, 22:05",
+        "sentiment": "neutral"
+      },
       {
         "title": "Stocks higher by year-end: George Seay on where to deploy cash now",
         "summary": "",
@@ -190,14 +198,6 @@
         "url": "https://finance.yahoo.com/m/8d4d1ea6-fb8d-34bb-85e2-4a1690a07add/micron-stock-finds-its.html?.tsrc=rss",
         "date": "Oct 26, 14:51",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Micron Rises as Bank of America Gets \u201cIncrementally More Positive on Memory\u201d After Executive Meetings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/micron-rises-as-bank-of-america-gets-incrementally-more-positive-on-memory-after-executive-meetings?ref=yahoofinance&.tsrc=rss",
-        "date": "Oct 26, 14:45",
-        "sentiment": "positive"
       }
     ],
     "SMCI": [
@@ -422,19 +422,19 @@
     ],
     "PLTR": [
       {
+        "title": "Anthropic\u2019s 7 Founders Will Use New Stock Class to Take  Control of the Business",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/2c95fa38-17ca-3767-aadc-3985c6ab4039/anthropic%E2%80%99s-7-founders-will.html?.tsrc=rss",
+        "date": "Oct 26, 22:32",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Will Palantir Technologies Stock Hit $300 Before the End of 2026?",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://www.fool.com/investing/2026/10/26/will-palantir-technologies-stock-hit-300-before-the-end-of-2026/?.tsrc=rss",
         "date": "Oct 26, 21:36",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic\u2019s 7 Founders Will Use New Stock Class to Take  Control of the Business",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/2c95fa38-17ca-3767-aadc-3985c6ab4039/anthropic%E2%80%99s-7-founders-will.html?.tsrc=rss",
-        "date": "Oct 26, 20:24",
         "sentiment": "neutral"
       },
       {
@@ -512,14 +512,6 @@
         "url": "https://www.trefis.com/articles/619341/how-big-could-coeur-mining-stocks-next-fall-be/2026-10-20?.tsrc=rss",
         "date": "Oct 20, 17:48",
         "sentiment": "negative"
-      },
-      {
-        "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-stock-looks-221948382.html?.tsrc=rss",
-        "date": "Oct 19, 22:19",
-        "sentiment": "neutral"
       }
     ],
     "PAAS": [
@@ -593,6 +585,30 @@
     "USAU": [],
     "AAPL": [
       {
+        "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm \u2014 MSFT, AAPL, CART, VZ In Focus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-begin-week-higher-as-anthropic-ipo-filing-rekindles-ai-enthusiasm-msft-aapl-cart-vz-in-focus/cZU3LuaRBz7?.tsrc=rss",
+        "date": "Oct 26, 22:35",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
+        "date": "Oct 26, 22:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Apple (AAPL) Stock Falls Amid Market Uptick: What Investors Need to Know",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-falls-amid-204503686.html?.tsrc=rss",
+        "date": "Oct 26, 20:45",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Billionaire predicts 'unhinged' future for iPhone Duo",
         "summary": "",
         "source": "Yahoo Finance",
@@ -631,33 +647,41 @@
         "url": "https://finance.yahoo.com/markets/article/anthropic-makes-more-per-employee-than-every-magnificent-seven-company-but-nvidia-171110780.html?.tsrc=rss",
         "date": "Oct 26, 17:11",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Big Tech Earnings Roll On With More Mag 7 Results Coming",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.investopedia.com/market-update-big-tech-earnings-roll-on-more-mag-7-results-amzn-msft-googl-goog-12194610?.tsrc=rss",
-        "date": "Oct 26, 15:51",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Buying Apple Stock Before Q4 Earnings Could Be Risky",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.barchart.com/story/news/8456402/why-buying-apple-stock-before-q4-earnings-could-be-risky?.tsrc=rss",
-        "date": "Oct 26, 15:35",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Microsoft\u2019s $2,599 Laptop Is a Distraction. Copilot Is the Real Test for MSFT Stock.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.barchart.com/story/news/8455932/microsofts-2-599-laptop-is-a-distraction-copilot-is-the-real-test-for-msft-stock?.tsrc=rss",
-        "date": "Oct 26, 15:05",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Will Alphabet Stock Surge After Oct. 28?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/26/will-alphabet-stock-surge-after-oct-28/?.tsrc=rss",
+        "date": "Oct 26, 22:25",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
+        "date": "Oct 26, 22:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
+        "date": "Oct 26, 22:03",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Don't Miss This Week's 5 Most Important Earnings Charts",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dont-miss-weeks-5-most-214800268.html?.tsrc=rss",
+        "date": "Oct 26, 21:48",
+        "sentiment": "negative"
+      },
       {
         "title": "Tech Earnings Are the Market\u2019s Biggest Story This Week: Here\u2019s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market\u2019s Next Move",
         "summary": "",
@@ -675,14 +699,6 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
-        "date": "Oct 26, 20:57",
-        "sentiment": "neutral"
-      },
-      {
         "title": "Tesla Isn\u2019t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
         "summary": "",
         "source": "Yahoo Finance",
@@ -697,34 +713,18 @@
         "url": "https://finance.yahoo.com/video/quantum-computing-could-brute-force-break-most-banks-encryption-204807753.html?.tsrc=rss",
         "date": "Oct 26, 20:48",
         "sentiment": "neutral"
-      },
-      {
-        "title": "OpenAI's GPT-6.1 Terra Is Fast and Cheap but Trails Leading AI Models on Accounting Work, DualEntry Benchmark Finds",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openais-gpt-6-1-terra-204100837.html?.tsrc=rss",
-        "date": "Oct 26, 20:41",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Fear vs. greed: How investors should react to Anthropic-fueled market moves",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/fear-vs-greed-how-investors-should-react-to-anthropic-fueled-market-moves-203314625.html?.tsrc=rss",
-        "date": "Oct 26, 20:33",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Earnings live updates: Whirlpool stock drops on softer quarter as inflation weighs on sales",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-whirlpool-stock-drops-on-softer-quarter-as-inflation-weighs-on-sales-202758962.html?.tsrc=rss",
-        "date": "Oct 26, 20:27",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [],
     "AMAT": [
+      {
+        "title": "KLA Corporation (KLAC) vs. AMAT and LRCX: Can Rising Semiconductor Complexity Create Another Growth Cycle?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-vs-amat-214032145.html?.tsrc=rss",
+        "date": "Oct 26, 21:40",
+        "sentiment": "positive"
+      },
       {
         "title": "Is Lam Research Stock Cheap Enough Yet?",
         "summary": "",
@@ -732,6 +732,14 @@
         "url": "https://www.trefis.com/stock/lrcx/articles/620506/is-lam-research-stock-cheap-enough-yet/2026-10-26?.tsrc=rss",
         "date": "Oct 26, 21:15",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Applied Materials (AMAT) Surpasses Market Returns: Some Facts Worth Knowing",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-surpasses-market-204503068.html?.tsrc=rss",
+        "date": "Oct 26, 20:45",
+        "sentiment": "positive"
       },
       {
         "title": "Applied Materials to Increase its Strategic Investment in BE Semiconductor Industries",
@@ -772,22 +780,6 @@
         "url": "https://www.fool.com/coverage/charts/2026/10/25/intel-vs-sk-hynix-revenue-trends-to-help-investors-weigh-which-artificial-intelligence-stock-to-buy/?.tsrc=rss",
         "date": "Oct 25, 17:25",
         "sentiment": "positive"
-      },
-      {
-        "title": "3 High Quality Stocks With ROE Over 30%",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-quality-stocks-roe-070753990.html?.tsrc=rss",
-        "date": "Oct 25, 07:07",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Applied Materials Sinks 17% in a Week After a Forecast-Free Investor Day: \u201cTremendous Confidence\u201d",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/applied-materials-sinks-17-in-a-week-after-a-forecast-free-investor-day-tremendous-confidence?ref=yahoofinance&.tsrc=rss",
-        "date": "Oct 24, 09:06",
-        "sentiment": "neutral"
       }
     ],
     "GLD": [
