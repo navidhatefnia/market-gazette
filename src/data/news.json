@@ -1,74 +1,82 @@
 {
-  "lastUpdated": "09:26 PM",
+  "lastUpdated": "11:04 PM",
   "date": "Tuesday, October 27, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
+        "title": "History Says the Stock Market's Best 6 Months Start Nov. 1. Here's How Often They've Paid Off Since 1950.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/7d167cef-0d25-3286-b089-63b73b0f9470/nvidia%2C-amd-get-their-jollies.html?.tsrc=rss",
-        "date": "Oct 27, 21:08",
+        "url": "https://www.fool.com/investing/2026/10/27/history-says-the-stock-market-s-best-6-months-start-nov-1-here-s-how-often-they-ve-paid-off-since-1950/?.tsrc=rss",
+        "date": "Oct 27, 22:39",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Brown & Brown Stock Slumped by 5% Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/27/why-brown-and-brown-stock-slumped-by-5-today/?.tsrc=rss",
+        "date": "Oct 27, 22:25",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Investing $1,000 in Each of These 3 Stocks 20 Years Ago Would Have Created a Portfolio Worth $674,000 Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/27/investing-1-000-in-each-of-these-3-stocks-20-years-ago-would-have-created-a-portfolio-worth-usd674-000-today/?.tsrc=rss",
+        "date": "Oct 27, 22:21",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Accenture (ACN) Launches Physical AI Safety Suite For Factories And Warehouses",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-launches-physical-ai-220915299.html?.tsrc=rss",
+        "date": "Oct 27, 22:09",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Cerebras Systems Stock Jumped on Tuesday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/27/why-cerebras-systems-stock-jumped-on-tuesday/?.tsrc=rss",
+        "date": "Oct 27, 22:06",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Billionaire Stanley Druckenmiller Added to Revolution Medicines Before Its FDA Win. Is the Stock Still a Buy After a 134% Run?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/27/billionaire-stanley-druckenmiller-added-to-revolut/?.tsrc=rss",
+        "date": "Oct 27, 22:01",
         "sentiment": "positive"
       },
       {
-        "title": "S&P Global Inc. Q3 2026 Earnings Call Summary",
+        "title": "CoreWeave Stock Surges 6%, But Investors Are Still Worried",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sp-global-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 27, 21:05",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Simply Good Foods Company Q4 2026 Earnings Call Summary",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-simply-good-foods-company-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 27, 21:05",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, Dell, NVIDIA and Cisco",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/global-edge-infrastructure-market-report-210400243.html?.tsrc=rss",
-        "date": "Oct 27, 21:04",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Global Emerging Technologies Market Report 2026: Size, Trends and Forecast to 2030 | Capitalize on 16% CAGR as AWS, Nvidia, Microsoft and OpenAI Accelerate AI, Cloud and Automation",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/global-emerging-technologies-market-report-210300416.html?.tsrc=rss",
-        "date": "Oct 27, 21:03",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Royal Caribbean Cruises Ltd. Q3 2026 Earnings Call Summary",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-royal-caribbean-cruises-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 27, 20:58",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "If You're Worried Inflation Will Wreck Your Retirement, Here Are 3 Must-Dos",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/retirement/2026/10/27/if-you-re-worried-inflation-will-wreck-your-retirement-here-are-3-must-dos/?.tsrc=rss",
-        "date": "Oct 27, 20:56",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Armstrong World Industries, Inc. Q3 2026 Earnings Call Summary",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-armstrong-world-industries-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Oct 27, 20:55",
+        "url": "https://beincrypto.com/coreweave-stock-jumps-jim-cramer-nvidia-debt-challenge/?.tsrc=rss",
+        "date": "Oct 27, 22:00",
         "sentiment": "positive"
+      },
+      {
+        "title": "Nvidia\u2019s New $3 Billion AI Bet Is on One of Its Own Customers",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/27/nvidias-new-3-billion-ai-bet-is-on-one-of-its-own-customers/?.tsrc=rss",
+        "date": "Oct 27, 21:40",
+        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-broadcom-formfactor-lattice-222247675.html?.tsrc=rss",
+        "date": "Oct 27, 22:22",
+        "sentiment": "positive"
+      },
       {
         "title": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
         "summary": "",
@@ -83,6 +91,14 @@
         "source": "Yahoo Finance",
         "url": "https://www.fool.com/investing/2026/10/27/i-d-own-a-small-position-in-amd-stock-through-2030-but-i-wouldn-t-expect-it-to-triple-again/?.tsrc=rss",
         "date": "Oct 27, 20:43",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Nasdaq Jumps 308 Points on Broadcom's Big Anthropic Deal: Stock Market Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-jumps-308-points-on-broadcoms-big-gains-stock-market-today?.tsrc=rss",
+        "date": "Oct 27, 20:14",
         "sentiment": "positive"
       },
       {
@@ -116,25 +132,17 @@
         "url": "https://finance.yahoo.com/technology/articles/rosenblatt-names-top-semiconductor-picks-184254049.html?.tsrc=rss",
         "date": "Oct 27, 18:42",
         "sentiment": "neutral"
-      },
-      {
-        "title": "3 Magnificent Stocks Trading Near Their 52-Week Lows",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/27/3-magnificent-stocks-trading-near-their-52-week-lows/?.tsrc=rss",
-        "date": "Oct 27, 18:25",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Broadcom Drops 6% in a Month: Buy, Sell or Hold the AVGO Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-drops-6-month-buy-181000365.html?.tsrc=rss",
-        "date": "Oct 27, 18:10",
-        "sentiment": "negative"
       }
     ],
     "MU": [
+      {
+        "title": "Nasdaq Jumps 308 Points on Broadcom's Big Anthropic Deal: Stock Market Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-jumps-308-points-on-broadcoms-big-gains-stock-market-today?.tsrc=rss",
+        "date": "Oct 27, 20:14",
+        "sentiment": "positive"
+      },
       {
         "title": "Stocks Climbed Again, Buoyed by Chipmakers Ahead of the Fed's Policy Decision",
         "summary": "",
@@ -190,14 +198,6 @@
         "url": "https://finance.yahoo.com/m/b0f951ad-0007-3f46-b955-d434bdc85134/micron%2C-musk%2C-and-memory.-a.html?.tsrc=rss",
         "date": "Oct 27, 17:56",
         "sentiment": "neutral"
-      },
-      {
-        "title": "1 of Wall Street\u2019s favorite stocks worth your attention and 2 we turn down",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-172647572.html?.tsrc=rss",
-        "date": "Oct 27, 17:26",
-        "sentiment": "negative"
       }
     ],
     "SMCI": [
@@ -454,6 +454,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "PLTR Stock Earnings Preview: What to Expect From Palantir's Q3 Report",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/8479726/pltr-stock-earnings-preview-what-to-expect-from-palantir-s-q3-report?.tsrc=rss",
+        "date": "Oct 27, 15:22",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Palantir\u2019s Growth Looks Unstoppable. There\u2019s 1 Major Risk.",
         "summary": "",
         "source": "Yahoo Finance",
@@ -476,14 +484,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-holdings-inc-docn-expected-130016621.html?.tsrc=rss",
         "date": "Oct 27, 13:00",
         "sentiment": "positive"
-      },
-      {
-        "title": "Better Defense Stock to Own Through 2030: Palantir vs. RTX Corporation",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/27/better-defense-stock-to-own-through-2030-palantir/?.tsrc=rss",
-        "date": "Oct 27, 12:35",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [
@@ -515,6 +515,14 @@
       }
     ],
     "PAAS": [
+      {
+        "title": "Is Pan American Silver (TSX:PAAS) Undervalued After A 205% Run?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-tsx-paas-221029415.html?.tsrc=rss",
+        "date": "Oct 27, 22:10",
+        "sentiment": "neutral"
+      },
       {
         "title": "Can Pan American Silver Stock Jump 50%?",
         "summary": "",
@@ -632,8 +640,16 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
-        "date": "Oct 27, 21:11",
+        "date": "Oct 27, 22:32",
         "sentiment": "positive"
+      },
+      {
+        "title": "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/?.tsrc=rss",
+        "date": "Oct 27, 21:36",
+        "sentiment": "neutral"
       },
       {
         "title": "Artificial Intelligence (AI) in Pharmacovigilance Global Market Report 2026 | Capitalize on 19.6% CAGR to 2030 as Oracle, Microsoft, Google and IQVIA Accelerate Automation",
@@ -681,14 +697,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/video/amazon-has-a-muse-problem-is-a-deal-with-openai-a-solution-203942441.html?.tsrc=rss",
         "date": "Oct 27, 20:39",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, Has $114.4 Billion Invested in These 3 Tech Stocks. None Is a Pure-Play Artificial Intelligence (AI) Company.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/27/warren-buffetts-successor-greg-abel-has-1144-billi/?.tsrc=rss",
-        "date": "Oct 27, 20:35",
         "sentiment": "positive"
       }
     ],
