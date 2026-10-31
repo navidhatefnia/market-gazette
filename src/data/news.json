@@ -1,74 +1,98 @@
 {
-  "lastUpdated": "11:02 AM",
+  "lastUpdated": "02:38 PM",
   "date": "Saturday, October 31, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Wall Street Thinks Archer Aviation Stock Is a Buy. Here's Why I Don't",
+        "title": "Rocket Lab's Backlog Is $2.36 Billion -- More Than Double Its 2026 Revenue -- and the Stock Still Fell 38% This Month. Here's the Disconnect.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/wall-street-thinks-archer-aviation-stock-is-a-buy/?.tsrc=rss",
-        "date": "Oct 31, 10:44",
+        "url": "https://www.fool.com/investing/2026/10/31/rocket-lab-backlog-is-236-billion-more-than-double/?.tsrc=rss",
+        "date": "Oct 31, 14:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "If I Were In My 30s, I'd Make This 1 Investing Move and Never Look Back",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/if-i-were-in-my-30s-id-make-this-1-investing-move/?.tsrc=rss",
+        "date": "Oct 31, 14:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent Transactions.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/will-ai-provide-a-boost-for-xrp-the-xrp-blockchain/?.tsrc=rss",
+        "date": "Oct 31, 13:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Big Tech\u2019s Capex Needs \u201ca Trillion Dollars of Revenue\u201d by 2028. Barclays Sees About $400 Billion",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/barclays-ai-capex-trillion-dollars-revenue-2028-amazon-stock?ref=yahoofinance&tlnk=yf-261031-xfcr4c53&.tsrc=rss",
+        "date": "Oct 31, 13:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "4 Words From Fed Chair Kevin Warsh Should Have Wall Street and Investors Quaking in Their Boots",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/4-words-fed-chair-kevin-warsh-have-wall-street-investors-quaking-in-their-boots/?.tsrc=rss",
+        "date": "Oct 31, 13:26",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/jensen-huang-just-announced-fantastic-news-for-nvidia-stock-investors/?.tsrc=rss",
+        "date": "Oct 31, 13:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Pfizer Just Hit a 52-Week High. Is the Turnaround Finally Real?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/pfizer-just-hit-52-week-high-turnaround-real/?.tsrc=rss",
+        "date": "Oct 31, 12:50",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Coca-Cola and Procter & Gamble Are Up This Month. Which Dow Dividend Stock Is the Better Buy Now?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/10/31/coca-cola-and-procter-gamble-are-up-this-mont/?.tsrc=rss",
+        "date": "Oct 31, 12:40",
         "sentiment": "positive"
-      },
-      {
-        "title": "If You Invest $5,000 in SOXX Today and Never Touch It, History Says It Could Be Worth This Much in 20 Years",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/if-invest-5000-soxx-etf-history-says-worth-this/?.tsrc=rss",
-        "date": "Oct 31, 10:35",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "5 Dividend Stocks to Buy and Hold for the Next 5 Years",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/dividend-stocks-buy-and-hold-next-5-year-uvv/?.tsrc=rss",
-        "date": "Oct 31, 10:20",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Down 33.3% This Year, Is Netflix the Best Value Stock to Buy in November?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/down-big-this-year-is-netflix-the-best-value-stock/?.tsrc=rss",
-        "date": "Oct 31, 10:20",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Volkswagen (XTRA:VOW3) Puts New Vehicle Software And AV Data Partnerships To Work",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/volkswagen-xtra-vow3-puts-vehicle-100801350.html?.tsrc=rss",
-        "date": "Oct 31, 10:08",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Here's Why I'm Buying Bitcoin Right Now",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/heres-why-im-buying-bitcoin-right-now/?.tsrc=rss",
-        "date": "Oct 31, 10:05",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Here's What $10,000 Invested Equally in SpaceX and Nvidia Could Be Worth in 2030",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/what-10k-invested-equally-spacex-nvidia-stock/?.tsrc=rss",
-        "date": "Oct 31, 09:35",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tech Stocks Are Selling Off. Here's Why I'd Rather Own MercadoLibre Than Any \"Magnificent Seven\" Stock.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/tech-stocks-are-selling-off-heres-why-id-rather-ow/?.tsrc=rss",
-        "date": "Oct 31, 09:25",
-        "sentiment": "negative"
       }
     ],
     "AMD": [
+      {
+        "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+        "date": "Oct 31, 12:41",
+        "sentiment": "negative"
+      },
+      {
+        "title": "AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or Load Up?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/amd-just-dropped-11-in-a-day-as-intels-pc-warning-rattles-chips-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-f65r9mpm&.tsrc=rss",
+        "date": "Oct 31, 11:44",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Intel Is Down 45% in October, Its Worst Month Ever",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/10/31/intel-is-down-45-in-october-its-worst-month-ever/?.tsrc=rss",
+        "date": "Oct 31, 11:18",
+        "sentiment": "negative"
+      },
       {
         "title": "AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Center Jump Matters More to AMD Than Its PC Warning",
         "summary": "",
@@ -108,33 +132,17 @@
         "url": "https://finance.yahoo.com/m/9aa518a9-bace-3e02-a215-82b14364d8d4/big-homes%2C-big-loans.html?.tsrc=rss",
         "date": "Oct 30, 22:51",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-momentum-rising-revisions-221400708.html?.tsrc=rss",
-        "date": "Oct 30, 22:14",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Stock Market Today, Oct. 30: Intel Plunges Nearly 29% as Weak Outlook Rattles Wall Street",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/10/30/stock-market-today-oct-30-intel-plunges-nearly-29-as-weak-outlook-rattles-wall-street/?.tsrc=rss",
-        "date": "Oct 30, 21:20",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Former SEC Chair: Broadcom\u2019s $63 Billion Package Feels Like \u201cThat 08 Off-Balance Sheet Craze\u201d",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/former-sec-chair-broadcoms-63-billion-package-feels-like-that-08-off-balance-sheet-craze?ref=yahoofinance&tlnk=yf-261030-qmxqxqv3&.tsrc=rss",
-        "date": "Oct 30, 20:52",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "OpenAI\u2019s CEO Thinks Your Laptop\u2019s Memory Should Be in a Data Center",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/10/31/openais-ceo-thinks-your-laptops-memory-should-be-in-a-data-center/?.tsrc=rss",
+        "date": "Oct 31, 13:49",
+        "sentiment": "neutral"
+      },
       {
         "title": "Prediction: 2 Under $1 Trillion Stocks That Will Be Worth More Than Micron 5 Years From Now",
         "summary": "",
@@ -150,6 +158,14 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-momentum-rising-revisions-221400708.html?.tsrc=rss",
         "date": "Oct 30, 22:14",
         "sentiment": "positive"
+      },
+      {
+        "title": "The selloff in tech stocks is shifting into overdrive",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?.tsrc=rss",
+        "date": "Oct 30, 20:26",
+        "sentiment": "negative"
       },
       {
         "title": "2 AI Stocks Poised to Surge on the Halloween Effect",
@@ -182,22 +198,6 @@
         "url": "https://www.fool.com/investing/2026/10/30/why-intel-is-down-today/?.tsrc=rss",
         "date": "Oct 30, 17:09",
         "sentiment": "negative"
-      },
-      {
-        "title": "Micron Became One of the 10 Biggest Holdings in S&P 500 Index Funds. What Does That Mean for the Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/30/micron-became-one-of-the-10-biggest-holdings-in-s-and-p-500-index-funds-what-does-that-mean-for-the-stock/?.tsrc=rss",
-        "date": "Oct 30, 17:01",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Sandisk Sinks 12% Despite Earnings Beat and 8-for-1 Split as Memory Stocks Slide: \u201cIt\u2019s Absurd\u201d",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/sandisk-sinks-12-despite-earnings-beat-and-8-for-1-split-as-memory-stocks-slide-its-absurd?ref=yahoofinance&.tsrc=rss",
-        "date": "Oct 30, 16:47",
-        "sentiment": "positive"
       }
     ],
     "SMCI": [
@@ -346,6 +346,14 @@
     ],
     "ASML": [
       {
+        "title": "ASML\u2019s CEO is putting his paycheck on the line for employee morale. It could help retain talent that\u2019s nearly impossible to replace",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/asml-ceo-putting-paycheck-line-104200620.html?.tsrc=rss",
+        "date": "Oct 31, 10:42",
+        "sentiment": "neutral"
+      },
+      {
         "title": "ASML vs. Applied Materials: One Is Growing Twice as Fast, but I\u2019d Buy The Other Instead",
         "summary": "",
         "source": "Yahoo Finance",
@@ -400,14 +408,6 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-why-tsmc-stock-180000531.html?.tsrc=rss",
         "date": "Oct 28, 18:00",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Chip Equipment Stocks Rally as SK Hynix Signals Memory Shortage Into 2030: Lam Research Jumps 5%, Applied Materials Climbs 4%, KLA Gains 3%",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/?.tsrc=rss",
-        "date": "Oct 28, 16:03",
-        "sentiment": "positive"
       }
     ],
     "AU": [
@@ -421,6 +421,30 @@
       }
     ],
     "PLTR": [
+      {
+        "title": "3 Low Risk Stocks With At Least 21% ROE",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-low-risk-stocks-least-130955405.html?.tsrc=rss",
+        "date": "Oct 31, 13:09",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+        "date": "Oct 31, 12:41",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Palantir Called Q2 \u201cOtherworldly.\u201d Monday\u2019s Report Has to Top a $2.18 Billion Consensus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/palantir-called-q2-otherworldly-mondays-report-has-to-top-a-2-18-billion-consensus?ref=yahoofinance&tlnk=yf-261031-6g7g3g6v&.tsrc=rss",
+        "date": "Oct 31, 11:53",
+        "sentiment": "neutral"
+      },
       {
         "title": "Michael Burry Is Still Short Palantir. Here's What Its Nov. 2 Report Has to Show.",
         "summary": "",
@@ -446,14 +470,6 @@
         "sentiment": "positive"
       },
       {
-        "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
-        "date": "Oct 30, 20:51",
-        "sentiment": "negative"
-      },
-      {
         "title": "Palantir Stock Tests Key Level As Earnings Loom",
         "summary": "",
         "source": "Yahoo Finance",
@@ -467,22 +483,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d3ec971d-88fe-3b98-aa2c-d71ab16315ff/apple%2C-super-micro%2C-amd%2C.html?.tsrc=rss",
         "date": "Oct 30, 17:44",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Will Top-Line Improvement Benefit Palantir in Q3 Earnings?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-line-improvement-benefit-palantir-171100939.html?.tsrc=rss",
-        "date": "Oct 30, 17:11",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Should Palantir Stock Be in Your Portfolio Before Q3 Earnings?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-portfolio-q3-earnings-165300648.html?.tsrc=rss",
-        "date": "Oct 30, 16:53",
         "sentiment": "neutral"
       }
     ],
@@ -617,6 +617,22 @@
     ],
     "AAPL": [
       {
+        "title": "Texas Instruments Has Raised Its Dividend for 23 Years. Here Are 3 More Tech Income Stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/10/31/texas-instruments-has-raised-its-dividend-for-23-years-here-are-3-more-tech-income-stocks/?.tsrc=rss",
+        "date": "Oct 31, 12:47",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
+        "date": "Oct 31, 12:41",
+        "sentiment": "negative"
+      },
+      {
         "title": "What Apple Doubters Got Wrong",
         "summary": "",
         "source": "Yahoo Finance",
@@ -663,13 +679,55 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-momentum-rising-revisions-221400708.html?.tsrc=rss",
         "date": "Oct 30, 22:14",
         "sentiment": "positive"
-      },
+      }
+    ],
+    "GOOGL": [
       {
-        "title": "Apple overtakes Nvidia to become world\u2019s most valuable company amid tech selloff",
+        "title": "Reddit stock plunges 28% as Google AI cuts US traffic",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-214753575.html?.tsrc=rss",
-        "date": "Oct 30, 21:47",
+        "url": "https://www.thestreet.com/technology/reddit-stock-plunges-28-as-google-ai-cuts-us-traffic?.tsrc=rss",
+        "date": "Oct 31, 14:07",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Big Tech\u2019s Capex Needs \u201ca Trillion Dollars of Revenue\u201d by 2028. Barclays Sees About $400 Billion",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/barclays-ai-capex-trillion-dollars-revenue-2028-amazon-stock?ref=yahoofinance&tlnk=yf-261031-xfcr4c53&.tsrc=rss",
+        "date": "Oct 31, 13:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alphabet (GOOGL) Stock Sees Fair Value Cut After Q3 Miss And Higher AI Spending",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-sees-fair-131300291.html?.tsrc=rss",
+        "date": "Oct 31, 13:13",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/10/31/trumpflation-is-getting-worse-and-it-could-trigger-a-wall-street-nightmare/?.tsrc=rss",
+        "date": "Oct 31, 13:10",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/9f64f875-35a4-3cac-86e3-a7d06eb54605/openai-cuts-funding-target.html?.tsrc=rss",
+        "date": "Oct 31, 12:57",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html?.tsrc=rss",
+        "date": "Oct 31, 12:44",
         "sentiment": "negative"
       },
       {
@@ -677,73 +735,15 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures%3A-stock.html?.tsrc=rss",
-        "date": "Oct 30, 20:51",
-        "sentiment": "negative"
-      }
-    ],
-    "GOOGL": [
-      {
-        "title": "Reddit (and everyone else) faces a bleak internet without Google traffic",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/article/reddit-and-everyone-else-faces-a-bleak-internet-without-google-traffic-100000669.html?.tsrc=rss",
-        "date": "Oct 31, 10:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AppLovin, 8x8, Elastic, Shopify, and F5 shares are falling, what you need to know",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-8x8-elastic-shopify-f5-095529415.html?.tsrc=rss",
-        "date": "Oct 31, 09:55",
+        "date": "Oct 31, 12:41",
         "sentiment": "negative"
       },
       {
-        "title": "Zeta Global and Commerce stocks trade down, what you need to know",
+        "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Google Search Shift",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-commerce-stocks-trade-093129865.html?.tsrc=rss",
-        "date": "Oct 31, 09:31",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-fastly-oracle-jfrog-okta-092329601.html?.tsrc=rss",
-        "date": "Oct 31, 09:23",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-datadog-snowflake-bandwidth-digitalocean-091529883.html?.tsrc=rss",
-        "date": "Oct 31, 09:15",
-        "sentiment": "negative"
-      },
-      {
-        "title": "2 Stocks Billionaires Can't Stop Buying",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/10/31/2-stocks-billionaires-cant-stop-buying/?.tsrc=rss",
-        "date": "Oct 31, 09:04",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Nvidia Just Dropped 11% in a Month. Is It Time to Sell, or Load Up?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/nvidia-just-dropped-11-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-fqffr232&.tsrc=rss",
-        "date": "Oct 31, 08:06",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Datadog Stock Fell Nearly 12% as AI Spending Fears Hit Cloud Stocks. Its Earnings Estimates Didn\u2019t Move",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/datadog-stock-fell-nearly-12-as-ai-spending-fears-hit-cloud-stocks-its-earnings-estimates-didnt-move?ref=yahoofinance&tlnk=yf-261031-f9v7747q&.tsrc=rss",
-        "date": "Oct 31, 07:18",
+        "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-121029257.html?.tsrc=rss",
+        "date": "Oct 31, 12:10",
         "sentiment": "neutral"
       }
     ],
@@ -878,14 +878,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.marketbeat.com/articles/market-volatility-playbook-trade-the-noise-get-paid-to-ignore-the-rest/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
         "date": "Oct 25, 11:55",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Gold Just Fell Below $4,000 After Its Worst Week in Five Months",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/10/24/gold-just-fell-below-4000-after-its-worst-week-in-five-months/?.tsrc=rss",
-        "date": "Oct 24, 12:27",
         "sentiment": "neutral"
       }
     ]
