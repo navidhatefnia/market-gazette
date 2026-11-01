@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "09:19 PM",
+  "lastUpdated": "10:57 PM",
   "date": "Sunday, November 01, 2026",
   "news": {
     "NVDA": [
+      {
+        "title": "Netflix Stock Is Trading at a Historically Low Valuation. Is This a Generational Buying Opportunity?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/01/netflix-stock-is-trading-at-a-historically-low-valuation-is-this-a-generational-buying-opportunity/?.tsrc=rss",
+        "date": "Nov 01, 22:48",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Stocks Are Entering Their Historically Strongest Stretch -- But There May Be a Catch This Year",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/01/stocks-are-entering-their-historically-strongest-s/?.tsrc=rss",
+        "date": "Nov 01, 22:20",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Stellantis Stock Is Soaring. Europe Is Crashing the Party.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/01/stellantis-stock-is-soaring-europe-is-crashing-the/?.tsrc=rss",
+        "date": "Nov 01, 22:07",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/01/mplx-reports-earnings-on-nov-3-2026-heres-what-investors-should-be-watching/?.tsrc=rss",
+        "date": "Nov 01, 21:28",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/01/starlink-subscriber-growth-explosive-spacex-growth/?.tsrc=rss",
+        "date": "Nov 01, 21:22",
+        "sentiment": "positive"
+      },
       {
         "title": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
         "summary": "",
@@ -26,46 +66,6 @@
         "url": "https://www.fool.com/investing/2026/11/01/prediction-nvidia-stock-is-going-to-soar-after-dat/?.tsrc=rss",
         "date": "Nov 01, 20:49",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Intuitive Surgical Stock Just Fell Despite a 22% Revenue Jump. Here's What Investors Are Missing.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/01/intuitive-surgical-stock-just-fell-despite-a-22-re/?.tsrc=rss",
-        "date": "Nov 01, 20:35",
-        "sentiment": "negative"
-      },
-      {
-        "title": "BWX Technologies Reports Earnings on Nov. 2 2026. Here's What Investors Should Be Watching.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/01/bwx-technologies-reports-earnings-on-nov-2-2026-heres-what-investors-should-be-watching/?.tsrc=rss",
-        "date": "Nov 01, 20:34",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Energy Transfer's Next Earnings Report Could Send the Stock Higher",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/01/energy-transfer-s-next-earnings-report-could-send-the-stock-higher/?.tsrc=rss",
-        "date": "Nov 01, 20:20",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "SpaceX Stock Is Nearly 30% Below Its Post-IPO High. Here's What Facebook's Stock Did From the Same Spot.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/01/spacex-stock-is-nearly-30-below-its-post-ipo-high-here-s-what-facebook-s-stock-did-from-the-same-spot/?.tsrc=rss",
-        "date": "Nov 01, 20:03",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Is Nebius Stock a Buy After Its 36% Pullback?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/01/is-nebius-stock-a-buy-after-its-36-pullback/?.tsrc=rss",
-        "date": "Nov 01, 19:35",
-        "sentiment": "positive"
       }
     ],
     "AMD": [
@@ -74,7 +74,7 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
-        "date": "Nov 01, 21:01",
+        "date": "Nov 01, 22:49",
         "sentiment": "neutral"
       },
       {
@@ -426,7 +426,7 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
-        "date": "Nov 01, 21:01",
+        "date": "Nov 01, 22:49",
         "sentiment": "neutral"
       },
       {
@@ -621,7 +621,23 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
-        "date": "Nov 01, 21:01",
+        "date": "Nov 01, 22:49",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Instinct's WhatsApp replies fail, AI agent blames billing",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/crypto/artificial-intelligence/instincts-whatsapp-replies-fail-ai-agent-blames-billing?.tsrc=rss",
+        "date": "Nov 01, 22:33",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Apple earnings: what to look for from AAPL",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-look-aapl-222407504.html?.tsrc=rss",
+        "date": "Nov 01, 22:24",
         "sentiment": "neutral"
       },
       {
@@ -663,22 +679,6 @@
         "url": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now?.tsrc=rss",
         "date": "Nov 01, 16:30",
         "sentiment": "neutral"
-      },
-      {
-        "title": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923?.tsrc=rss",
-        "date": "Nov 01, 14:06",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "5 Best Tech Stocks for the Next 5 Years According to Financial Media",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html?.tsrc=rss",
-        "date": "Nov 01, 14:05",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
@@ -687,7 +687,7 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
-        "date": "Nov 01, 21:01",
+        "date": "Nov 01, 22:49",
         "sentiment": "neutral"
       },
       {
@@ -739,11 +739,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track",
+        "title": "AI Stocks Are Getting a Reality Check, But Don\u2019t Count the Trade Out Just Yet. Here\u2019s Why.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.barchart.com/story/news/8580741/applovin-stock-is-struggling-3-things-to-watch-in-q3-earnings-that-could-get-app-back-on-track?.tsrc=rss",
-        "date": "Nov 01, 15:00",
+        "url": "https://www.barchart.com/story/news/8580824/ai-stocks-are-getting-a-reality-check-but-dont-count-the-trade-out-just-yet-heres-why?.tsrc=rss",
+        "date": "Nov 01, 15:15",
         "sentiment": "neutral"
       }
     ],
