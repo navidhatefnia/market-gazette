@@ -1,140 +1,148 @@
 {
-  "lastUpdated": "08:33 PM",
+  "lastUpdated": "10:26 PM",
   "date": "Tuesday, November 03, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "3 Dirt Cheap Dividend Stocks to Buy in November 2026",
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/3-dirt-cheap-dividend-stocks-to-buy-in-november-2026/?.tsrc=rss",
-        "date": "Nov 03, 20:23",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-        "date": "Nov 03, 20:19",
-        "sentiment": "positive"
-      },
-      {
-        "title": "STMicroelectronics Unveils STM32A, Edge AI Chips for Automotive and Robotics",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.marketbeat.com/instant-alerts/event-stmicroelectronics-unveils-stm32a-edge-ai-chips-for-automotive-and-robotics-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-        "date": "Nov 03, 20:14",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Ibotta, Inc. Rallied Over 30% Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/why-ibotta-inc-rallied-over-30-today/?.tsrc=rss",
-        "date": "Nov 03, 20:13",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "This Under-the-Radar AI Infrastructure Stock Just Crushed Estimates and Raised Guidance",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/this-under-the-radar-ai-infrastructure-stock-just-crushed-estimates-and-raised-guidance/?.tsrc=rss",
-        "date": "Nov 03, 20:08",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "IonQ Just Dropped 32% In a Month: Is IONQ Stock Hopeless or Ready for a Rebound?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/ionq-just-dropped-32-in-a-month-is-ionq-stock-hopeless-or-ready-for-a-rebound/?.tsrc=rss",
-        "date": "Nov 03, 20:05",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html?.tsrc=rss",
+        "date": "Nov 03, 22:18",
         "sentiment": "negative"
       },
       {
-        "title": "Bill Ackman Sees 'Half a Trillion' of Value in Fannie and Freddie. Should Investors Follow Him?",
+        "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/bill-ackman-sees-half-a-trillion-of-value-in-fannie-and-freddie-should-investors-follow-him/?.tsrc=rss",
-        "date": "Nov 03, 19:57",
+        "url": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+        "date": "Nov 03, 22:12",
+        "sentiment": "positive"
+      },
+      {
+        "title": "JBT Marel Corporation Q3 2026 Earnings Call Summary",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-jbt-marel-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 03, 22:10",
         "sentiment": "neutral"
       },
       {
-        "title": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively",
+        "title": "Hagerty, Inc. Q3 2026 Earnings Call Summary",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/3-stocks-that-did-well-the-last-time-the-fed-raised-rates-aggressively/?.tsrc=rss",
-        "date": "Nov 03, 19:51",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-hagerty-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 03, 22:09",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Recursion Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-recursion-pharmaceuticals-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 03, 22:08",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "USA Compression Partners, LP Q3 2026 Earnings Call Summary",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-usa-compression-partners-lp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 03, 22:02",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Pinnacle West Capital Corporation Q3 2026 Earnings Call Summary",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pinnacle-west-capital-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 03, 22:01",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "DATA GLOBAL PTY LTD Enters Australian Market with DGX B300 AI Server Cluster at Micron21 Data Centre",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/data-global-pty-ltd-enters-220000365.html?.tsrc=rss",
+        "date": "Nov 03, 22:00",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
       {
-        "title": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-        "date": "Nov 03, 20:19",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html?.tsrc=rss",
+        "date": "Nov 03, 22:18",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+        "date": "Nov 03, 22:12",
         "sentiment": "positive"
       },
       {
-        "title": "PureVoltage Hosting Pre-Black Friday Dedicated Server Sale Featuring AMD Ryzen",
+        "title": "AMD Posts Beat-And-Raise Report On Record AI Data-Center Sales",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/purevoltage-hosting-pre-black-friday-200100930.html?.tsrc=rss",
-        "date": "Nov 03, 20:01",
+        "url": "https://finance.yahoo.com/m/2bba823c-0f6d-37bf-b886-26409be285d8/amd-posts-beat-and-raise.html?.tsrc=rss",
+        "date": "Nov 03, 22:07",
+        "sentiment": "positive"
+      },
+      {
+        "title": "AMD Issues Upbeat Fourth-Quarter Revenue Guidance Following Third-Quarter Beat",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-issues-upbeat-fourth-quarter-215721442.html?.tsrc=rss",
+        "date": "Nov 03, 21:57",
+        "sentiment": "positive"
+      },
+      {
+        "title": "AMD Earnings 'Met the Bar,' Wedbush's Bryson Says",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/amd-earnings-met-bar-wedbushs-215307888.html?.tsrc=rss",
+        "date": "Nov 03, 21:53",
         "sentiment": "neutral"
       },
       {
-        "title": "CoreWeave Soars 5%, Oracle Up 4% as Oracle\u2019s $20 Billion Raise Is \u201cExactly What They Previewed\u201d",
+        "title": "AMD Forecasts 66% Q4 Growth on AI Chip Demand: Rapid Earnings Reaction",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/coreweave-soars-5-oracle-up-4-as-oracles-20-billion-raise-is-exactly-what-they-previewed?ref=yahoofinance&tlnk=yf-261103-xfg2jvrc&.tsrc=rss",
-        "date": "Nov 03, 19:55",
+        "url": "https://www.fool.com/investing/2026/11/03/amd-forecasts-66-q4-growth-on-ai-chip-demand-rapid-earnings-reaction/?.tsrc=rss",
+        "date": "Nov 03, 21:47",
         "sentiment": "positive"
       },
       {
-        "title": "NVIDIA Rises 3% Despite AI CEO\u2019s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3%",
+        "title": "AMD data center revenue nearly doubles as Q4 outlook beats expectations",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/nvidia-rises-3-despite-ai-ceos-warning-on-chinese-chip-competition-amd-climbs-5-broadcom-gains-3/?.tsrc=rss",
-        "date": "Nov 03, 18:48",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101178/amd-data-center-revenue-nearly-doubles-as-q4-outlook-beats-expectations-1101178.html?.tsrc=rss",
+        "date": "Nov 03, 21:36",
         "sentiment": "positive"
       },
       {
-        "title": "Sector Update: Tech Stocks Rise Tuesday Afternoon",
+        "title": "AMD (NASDAQ:AMD) surprises with Q3 sales, stock soars",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-tuesday-182519139.html?.tsrc=rss",
-        "date": "Nov 03, 18:25",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-nasdaq-amd-surprises-q3-213046300.html?.tsrc=rss",
+        "date": "Nov 03, 21:30",
         "sentiment": "positive"
-      },
-      {
-        "title": "Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/samsung-secures-amd-nvidia-orders-182115321.html?.tsrc=rss",
-        "date": "Nov 03, 18:21",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Is Advanced Micro Devices (AMD) Backing A $6 Billion AI Assistant Startup?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-180651035.html?.tsrc=rss",
-        "date": "Nov 03, 18:06",
-        "sentiment": "positive"
-      },
-      {
-        "title": "AMD and Sandisk Both Suffered Massive Price Swings But Sandisk is Absolutely Riskier",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/amd-and-sandisk-both-suffered-massive-price-swings-but-sandisk-is-absolutely-riskier/?.tsrc=rss",
-        "date": "Nov 03, 17:45",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html?.tsrc=rss",
+        "date": "Nov 03, 22:18",
+        "sentiment": "negative"
+      },
       {
         "title": "Micron Pops but Markets and Wall Street Are Poles Apart on the Stock",
         "summary": "",
@@ -190,80 +198,72 @@
         "url": "https://www.trefis.com/stock/sndk/articles/622333/what-did-sandisk-stock-investors-miss-before-the-run/2026-11-03?.tsrc=rss",
         "date": "Nov 03, 15:02",
         "sentiment": "negative"
-      },
-      {
-        "title": "SIMO Earnings Surge as Enterprise and AI Storage Drive New Momentum",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/simo-earnings-surge-enterprise-ai-144900986.html?.tsrc=rss",
-        "date": "Nov 03, 14:49",
-        "sentiment": "positive"
       }
     ],
     "SMCI": [
       {
-        "title": "Super Micro Computer (SMCI) Unveils SN50 AI Inference Racks",
+        "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-unveils-201230756.html?.tsrc=rss",
-        "date": "Nov 03, 20:12",
+        "url": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+        "date": "Nov 03, 22:12",
         "sentiment": "positive"
       },
       {
-        "title": "CoreWeave Soars 5%, Oracle Up 4% as Oracle\u2019s $20 Billion Raise Is \u201cExactly What They Previewed\u201d",
+        "title": "Supermicro's Sales Quadruple as Cash Drains: Rapid Earnings Reaction",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/coreweave-soars-5-oracle-up-4-as-oracles-20-billion-raise-is-exactly-what-they-previewed?ref=yahoofinance&tlnk=yf-261103-xfg2jvrc&.tsrc=rss",
-        "date": "Nov 03, 19:55",
+        "url": "https://www.fool.com/investing/2026/11/03/supermicro-s-sales-quadruple-as-cash-drains-rapid-earnings-reaction/?.tsrc=rss",
+        "date": "Nov 03, 22:06",
         "sentiment": "positive"
       },
       {
-        "title": "Super Micro to report Q1 earnings as AI trade attempts comeback",
+        "title": "Super Micro Computer surges 6% as earnings, guidance top estimates",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/article/super-micro-to-report-q1-earnings-as-ai-trade-attempts-comeback-195315844.html?.tsrc=rss",
-        "date": "Nov 03, 19:53",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-surges-6-214320298.html?.tsrc=rss",
+        "date": "Nov 03, 21:43",
         "sentiment": "positive"
       },
       {
-        "title": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively",
+        "title": "Super Micro shares jump as revenue surges, and full-year outlook tops estimates",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/03/3-stocks-that-did-well-the-last-time-the-fed-raised-rates-aggressively/?.tsrc=rss",
-        "date": "Nov 03, 19:51",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101179/super-micro-shares-jump-as-revenue-surges-and-full-year-outlook-tops-estimates-1101179.html?.tsrc=rss",
+        "date": "Nov 03, 21:38",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Super Micro (NASDAQ:SMCI) beats expectations in strong Q3 CY2026, stock soars",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-nasdaq-smci-beats-213745408.html?.tsrc=rss",
+        "date": "Nov 03, 21:37",
+        "sentiment": "positive"
+      },
+      {
+        "title": "SMCI earnings preview: margins and guidance in focus as pre-announced revenue tops old targets",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/smci-earnings-preview-margins-guidance-212213482.html?.tsrc=rss",
+        "date": "Nov 03, 21:22",
         "sentiment": "neutral"
       },
       {
-        "title": "Only Exemplary Super Micro Earnings Can Protect It from AI Fears",
+        "title": "Super Micro: Fiscal Q1 Earnings Snapshot",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/e923ed8d-5389-3bf9-bb73-298578567780/only-exemplary-super-micro.html?.tsrc=rss",
-        "date": "Nov 03, 18:42",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-fiscal-q1-earnings-211954474.html?.tsrc=rss",
+        "date": "Nov 03, 21:19",
         "sentiment": "positive"
-      },
-      {
-        "title": "Super Micro Fell 7% on a Memory Shortage Warning. Its Margin Has to Answer November 3",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/super-micro-fell-7-on-a-memory-shortage-warning-its-margin-has-to-answer-november-3?ref=yahoofinance&tlnk=yf-261103-82cj5w93&.tsrc=rss",
-        "date": "Nov 03, 18:10",
-        "sentiment": "neutral"
       },
       {
         "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/128f1048-6ad1-33df-9ddf-897d7e346cbb/apple%2C-palantir%2C-pfizer%2C.html?.tsrc=rss",
-        "date": "Nov 03, 17:39",
+        "date": "Nov 03, 21:16",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Bernstein Picks AMD Over Super Micro Ahead of Earnings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-picks-amd-over-super-162712471.html?.tsrc=rss",
-        "date": "Nov 03, 16:27",
-        "sentiment": "positive"
       }
     ],
     "CENX": [
@@ -470,11 +470,51 @@
     ],
     "PLTR": [
       {
-        "title": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
+        "title": "Stock Market Today, Nov. 3: Palantir Falls After Q3 Results as Valuation Stays in Focus",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-        "date": "Nov 03, 20:19",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-palantir-falls-after-q3-results-as-valuation-stays-in-focus/?.tsrc=rss",
+        "date": "Nov 03, 22:17",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Stock Market Today: Dow Dips Amid Midterm Elections; Palantir Slips, DuPont Surges Past Entry",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+        "date": "Nov 03, 21:27",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/128f1048-6ad1-33df-9ddf-897d7e346cbb/apple%2C-palantir%2C-pfizer%2C.html?.tsrc=rss",
+        "date": "Nov 03, 21:16",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Palantir's Report Moved My Buy Price for the Stock. Here's the New Number.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/03/palantir-s-report-moved-my-buy-price-for-the-stock-here-s-the-new-number/?.tsrc=rss",
+        "date": "Nov 03, 21:07",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/hiding-inside-palantir-skyrocketing-quarter-210555581.html?.tsrc=rss",
+        "date": "Nov 03, 21:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Buy the Dip in Apple or Palantir Stock After Earnings?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-apple-palantir-stock-202500414.html?.tsrc=rss",
+        "date": "Nov 03, 20:25",
         "sentiment": "positive"
       },
       {
@@ -492,46 +532,6 @@
         "url": "https://www.proactiveinvestors.com/companies/news/1101173/palantir-s-ai-demand-is-accelerating-but-its-backlog-tells-a-more-complicated-story-1101173.html?.tsrc=rss",
         "date": "Nov 03, 19:15",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Palantir\u2019s CEO Just Sent Wall Street a Message It Won\u2019t Soon Forget",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/palantirs-ceo-just-sent-wall-street-a-message-it-wont-soon-forget/?.tsrc=rss",
-        "date": "Nov 03, 19:09",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Are Stocks Falling When Earnings Beat the Street?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/e4eea73e-d71b-3701-9f38-5602716636f7/why-are-stocks-falling-when.html?.tsrc=rss",
-        "date": "Nov 03, 19:07",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Palantir Stock Falls Despite Earnings Beat as Contract Growth Raises Concerns",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.ibtimes.com/palantir-revenue-growth-contracts-shares-fall-3809340?.tsrc=rss",
-        "date": "Nov 03, 19:01",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Palantir Stock: Buy, Hold or Sell After 96% Revenue Growth?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-buy-hold-sell-190000853.html?.tsrc=rss",
-        "date": "Nov 03, 19:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Palantir\u2019s 96% Revenue Growth Drives Analyst Optimism as Price Targets Rise",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/palantirs-96-revenue-growth-drives-analyst-optimism-as-price-targets-rise/?.tsrc=rss",
-        "date": "Nov 03, 18:33",
-        "sentiment": "positive"
       }
     ],
     "NST.AX": [
@@ -618,14 +618,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-reports-130010104.html?.tsrc=rss",
         "date": "Oct 28, 13:00",
         "sentiment": "positive"
-      },
-      {
-        "title": "Is Pan American Silver (TSX:PAAS) Undervalued After A 205% Run?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-tsx-paas-221029415.html?.tsrc=rss",
-        "date": "Oct 27, 22:10",
-        "sentiment": "neutral"
       }
     ],
     "RGLD": [
@@ -698,71 +690,103 @@
     ],
     "AAPL": [
       {
-        "title": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-        "date": "Nov 03, 20:19",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html?.tsrc=rss",
+        "date": "Nov 03, 22:18",
+        "sentiment": "negative"
+      },
+      {
+        "title": "What Just Happened To Copart Stock?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/cprt/articles/622235/what-just-happened-to-copart-stock/2026-11-03?.tsrc=rss",
+        "date": "Nov 03, 21:50",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stock Market Today: Dow Dips Amid Midterm Elections; Palantir Slips, DuPont Surges Past Entry",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+        "date": "Nov 03, 21:27",
         "sentiment": "positive"
       },
       {
-        "title": "Apple CEO signals surprising change for iPhone users",
+        "title": "US Equity Markets Mixed Ahead of US Midterm Election Results",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/technology/apple-ceo-iphone-siri-ai-usage-limits-software-change?.tsrc=rss",
-        "date": "Nov 03, 20:13",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-ahead-211924945.html?.tsrc=rss",
+        "date": "Nov 03, 21:19",
         "sentiment": "neutral"
       },
       {
-        "title": "Apple Growth, Margins Likely Face Pressure in 2027, UBS Says",
+        "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-growth-margins-likely-face-200013801.html?.tsrc=rss",
-        "date": "Nov 03, 20:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Even Apple Can\u2019t Outrun Big Tech\u2019s Selloff. The Stock Still Looks Like a Buy.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/b54314e7-00a0-32ab-8b0e-3ff4f718791b/even-apple-can%E2%80%99t-outrun-big.html?.tsrc=rss",
-        "date": "Nov 03, 19:19",
+        "url": "https://finance.yahoo.com/m/128f1048-6ad1-33df-9ddf-897d7e346cbb/apple%2C-palantir%2C-pfizer%2C.html?.tsrc=rss",
+        "date": "Nov 03, 21:16",
         "sentiment": "neutral"
       },
       {
-        "title": "Update: US Equity Indexes Mixed as Apple's Fiscal Q4 Disappoints While Investors Await Midterm Election Results",
+        "title": "How major US stock indexes fared Tuesday 11/3/2026",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-191440044.html?.tsrc=rss",
-        "date": "Nov 03, 19:14",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Ferrari\u2019s controversial Luce EV is sold out for 2027",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-controversial-luce-ev-sold-185133138.html?.tsrc=rss",
-        "date": "Nov 03, 18:51",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211437939.html?.tsrc=rss",
+        "date": "Nov 03, 21:14",
         "sentiment": "neutral"
       },
       {
-        "title": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
+        "title": "Apple Stock Undercuts Key Support Level After Mixed Report",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/apple-fails-to-impress-wall-street-bear-market-chatter-heats-up-and-ai-assessing-job-productivity-185021345.html?.tsrc=rss",
-        "date": "Nov 03, 18:50",
+        "url": "https://finance.yahoo.com/m/f8f7e1fc-502f-3216-b7c4-b48d1ccc08b8/apple-stock-undercuts-key.html?.tsrc=rss",
+        "date": "Nov 03, 21:11",
         "sentiment": "neutral"
       },
       {
-        "title": "NVIDIA Rises 3% Despite AI CEO\u2019s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3%",
+        "title": "Buy the Dip in Apple or Palantir Stock After Earnings?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/03/nvidia-rises-3-despite-ai-ceos-warning-on-chinese-chip-competition-amd-climbs-5-broadcom-gains-3/?.tsrc=rss",
-        "date": "Nov 03, 18:48",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-apple-palantir-stock-202500414.html?.tsrc=rss",
+        "date": "Nov 03, 20:25",
         "sentiment": "positive"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/?.tsrc=rss",
+        "date": "Nov 03, 21:49",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alphabet's Free Cash Flow Just Turned Negative. Should Investors Sell the Stock Now?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/03/alphabets-free-cash-flow-just-turned-negative/?.tsrc=rss",
+        "date": "Nov 03, 21:29",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Uber president Jill Hazelbaker joins OpenAI as communications chief",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/uber-president-jill-hazelbaker-joins-204431583.html?.tsrc=rss",
+        "date": "Nov 03, 20:44",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Did Reddit's Quarter Change For Its Stock?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/rddt/articles/622319/what-did-reddits-quarter-change-for-its-stock/2026-11-03?.tsrc=rss",
+        "date": "Nov 03, 20:20",
+        "sentiment": "neutral"
+      },
       {
         "title": "What People Incorporated Common Stock (PPLI) Said on Its Q3 Earnings Call",
         "summary": "",
@@ -794,38 +818,6 @@
         "url": "https://www.fool.com/investing/2026/11/03/alphabet-stock-tanks-after-earnings-should-investors-buy-the-dip/?.tsrc=rss",
         "date": "Nov 03, 19:20",
         "sentiment": "positive"
-      },
-      {
-        "title": "Even Apple Can\u2019t Outrun Big Tech\u2019s Selloff. The Stock Still Looks Like a Buy.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/b54314e7-00a0-32ab-8b0e-3ff4f718791b/even-apple-can%E2%80%99t-outrun-big.html?.tsrc=rss",
-        "date": "Nov 03, 19:19",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Would you let AI chatbots smear your competitors?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/would-you-let-ai-chatbots-smear-your-competitors-191420766.html?.tsrc=rss",
-        "date": "Nov 03, 19:14",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Xcel Energy (XEL) Faces Community Pushback Over 780 MW AI Data Center Plan",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/xcel-energy-xel-faces-community-191153010.html?.tsrc=rss",
-        "date": "Nov 03, 19:11",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Western Digital\u2019s (WDC) Massive Quarter Is Only the Beginning (ready)",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-massive-185737464.html?.tsrc=rss",
-        "date": "Nov 03, 18:57",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
@@ -863,6 +855,14 @@
       }
     ],
     "AMAT": [
+      {
+        "title": "Lam Research Lost 34% in a Month. Bernstein Sees 53% Upside From Here",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/lam-research-lost-34-in-a-month-bernstein-sees-53-upside-from-here?ref=yahoofinance&tlnk=yf-261103-mpcjjq3h&.tsrc=rss",
+        "date": "Nov 03, 20:24",
+        "sentiment": "positive"
+      },
       {
         "title": "Applied Materials Just Dropped 29% In a Month: Will November 12 Earnings Rescue or Break AMAT Stock?",
         "summary": "",
@@ -917,14 +917,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/uctts-q3-beat-strong-q4-153900109.html?.tsrc=rss",
         "date": "Nov 02, 15:39",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Is UCTT Worth Buying as Growth Accelerates but Cash Flow Weakens?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/uctt-worth-buying-growth-accelerates-153700531.html?.tsrc=rss",
-        "date": "Nov 02, 15:37",
         "sentiment": "positive"
       }
     ],
