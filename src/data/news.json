@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "11:58 PM",
-  "date": "Monday, November 02, 2026",
+  "lastUpdated": "01:44 AM",
+  "date": "Tuesday, November 03, 2026",
   "news": {
     "NVDA": [
+      {
+        "title": "Why Keel Infrastructure Stock Got Mashed on Monday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/02/why-keel-infrastructure-stock-got-mashed-on-monday/?.tsrc=rss",
+        "date": "Nov 03, 01:12",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Amazon's Report Passed Both Tests I Set for It. I'd Buy More of the Stock Now.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/02/amazon-s-report-passed-both-tests-i-set-for-it-i-d-buy-more-of-the-stock-now/?.tsrc=rss",
+        "date": "Nov 03, 01:07",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Why RH Stock Jumped 20% in October",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/02/why-rh-stock-jumped-20-in-october/?.tsrc=rss",
+        "date": "Nov 03, 00:35",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "5 Key Earnings Charts to Watch This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-key-earnings-charts-watch-002000682.html?.tsrc=rss",
+        "date": "Nov 03, 00:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Intel (INTC) Joined A $700 Million AI Startup Funding Round",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-joined-700-million-001701528.html?.tsrc=rss",
+        "date": "Nov 03, 00:17",
+        "sentiment": "positive"
+      },
       {
         "title": "Anthropic Just Released Updated Numbers Ahead of Its Nov. IPO. Revenue Growth Slowed Sharply.",
         "summary": "",
@@ -26,49 +66,17 @@
         "url": "https://www.fool.com/investing/2026/11/02/palantirs-us-revenue-soars-119-as-commercial-revenue-surpasses-government-revenue-for-the-first-time-heres-why-its-growth-is-still-surging-even-as-other-ai-stocks-falter/?.tsrc=rss",
         "date": "Nov 02, 23:34",
         "sentiment": "positive"
-      },
-      {
-        "title": "Prediction: This Will Be SpaceX\u2019s Stock Price by the End of 2027",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/02/prediction-this-will-be-spacex-s-stock-price-by-the-end-of-2027/?.tsrc=rss",
-        "date": "Nov 02, 23:27",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Eli Lilly Stock: Is It Still a Buy at $1,400?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/02/eli-lilly-stock-is-it-still-a-buy-at-1-400/?.tsrc=rss",
-        "date": "Nov 02, 23:20",
-        "sentiment": "positive"
-      },
-      {
-        "title": "ServiceNow (NOW) Rolls Out Control Tower Alliance In Big Enterprise AI Push",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-rolls-control-tower-231907090.html?.tsrc=rss",
-        "date": "Nov 02, 23:19",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Why Capri Holdings Stock Crushed it Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/02/why-capri-holdings-stock-crushed-it-today/?.tsrc=rss",
-        "date": "Nov 02, 23:01",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nike\u2019s Fall, Netflix Growth, and What We Learned in Q3",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/02/nikes-fall-netflix-growth-and-what-we-learned-in-q3/?.tsrc=rss",
-        "date": "Nov 02, 22:55",
-        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "5 Key Earnings Charts to Watch This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-key-earnings-charts-watch-002000682.html?.tsrc=rss",
+        "date": "Nov 03, 00:20",
+        "sentiment": "neutral"
+      },
       {
         "title": "AMD Reports Tuesday. Here's the Number That Will Show Whether It's Gaining on Nvidia",
         "summary": "",
@@ -83,6 +91,14 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html?.tsrc=rss",
         "date": "Nov 02, 22:28",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Earnings Calendar and Analysis for This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks?.tsrc=rss",
+        "date": "Nov 02, 22:19",
         "sentiment": "neutral"
       },
       {
@@ -116,22 +132,6 @@
         "url": "https://finance.yahoo.com/technology/article/amd-to-report-q3-results-following-disappointing-showing-from-intel-190327545.html?.tsrc=rss",
         "date": "Nov 02, 19:03",
         "sentiment": "positive"
-      },
-      {
-        "title": "Active Fund Managers Staged a Big Comeback. Can It Last?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/a846b60e-6197-3dc2-ad09-3f876aca94a8/active-fund-managers-staged-a.html?.tsrc=rss",
-        "date": "Nov 02, 18:53",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Heads Into Earnings With AI Guidance in the Spotlight",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-heads-earnings-ai-guidance-184427144.html?.tsrc=rss",
-        "date": "Nov 02, 18:44",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
@@ -326,14 +326,6 @@
         "url": "https://finance.yahoo.com/energy/articles/ballard-launches-hpu-agile-h-113000195.html?.tsrc=rss",
         "date": "Oct 28, 11:30",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Siemens Energy (XTRA:ENR) Stock Looks Above Fair Value On Cash Flow",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/siemens-energy-xtra-enr-stock-011234843.html?.tsrc=rss",
-        "date": "Oct 27, 01:12",
-        "sentiment": "neutral"
       }
     ],
     "ASML": [
@@ -438,20 +430,36 @@
     ],
     "PLTR": [
       {
+        "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
+        "date": "Nov 03, 01:28",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Palantir Technologies (PLTR) Said on Its Q3 Earnings Call",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-palantir-technologies-pltr-said-on-its-q3-earnings-call-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 03, 01:14",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope \u2014  ORCL, META, PLTR, AAPL In Focus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD?.tsrc=rss",
+        "date": "Nov 03, 00:22",
+        "sentiment": "negative"
+      },
+      {
         "title": "Palantir Blows Past Expectations In Q3 On Strong Commercial Sales, But Valuation Concerns Dampen Sentiment",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://stocktwits.com/news-articles/markets/equity/palantir-blows-past-expectations-in-q3-on-strong-commercial-sales-but-valuation-concerns-dampen-sentiment/cNGaXtiR9Pv?.tsrc=rss",
         "date": "Nov 02, 23:46",
         "sentiment": "positive"
-      },
-      {
-        "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
-        "date": "Nov 02, 23:40",
-        "sentiment": "neutral"
       },
       {
         "title": "Palantir's U.S. Revenue Soars 119% as Commercial Revenue Surpasses Government Revenue for the First Time. Here's Why Its Growth Is Still Surging, Even as Other AI Stocks Falter",
@@ -470,36 +478,20 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Palantir Stock Tumbles Despite Soaring Commercial Sales",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/3dcc0779-0da6-36d6-b849-4512aa2119af/palantir-stock-tumbles.html?.tsrc=rss",
+        "date": "Nov 02, 23:14",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Palantir Earnings Top Views. Revenue Beat Slightly Smaller.",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/653d34ac-6dcc-3569-a2a1-603f6b130c9b/palantir-earnings-top-views..html?.tsrc=rss",
         "date": "Nov 02, 22:22",
         "sentiment": "positive"
-      },
-      {
-        "title": "Big Quarterly Beats After the Close: AAPL, PLTR, LSCC, ROKU",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/big-quarterly-beats-close-aapl-221900745.html?.tsrc=rss",
-        "date": "Nov 02, 22:19",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Palantir Moves Beyond Government Reliance as Commercial Sales Soar",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/3dcc0779-0da6-36d6-b849-4512aa2119af/palantir-moves-beyond.html?.tsrc=rss",
-        "date": "Nov 02, 22:06",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Here's What Key Metrics Tell Us About Palantir Technologies (PLTR) Q3 Earnings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-220002490.html?.tsrc=rss",
-        "date": "Nov 02, 22:00",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [
@@ -658,11 +650,59 @@
     ],
     "AAPL": [
       {
+        "title": "U.S. stock futures steady; Apple dips after mixed earnings",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-apple-013106272.html?.tsrc=rss",
+        "date": "Nov 03, 01:31",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
-        "date": "Nov 02, 23:40",
+        "date": "Nov 03, 01:28",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Match Group Q3 Earnings Call Highlights",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-match-group-q3-earnings-call-highlights-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 03, 01:14",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Apple Q4 Earnings Call Highlights",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-apple-q4-earnings-call-highlights-2026-11-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 03, 01:14",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope \u2014  ORCL, META, PLTR, AAPL In Focus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD?.tsrc=rss",
+        "date": "Nov 03, 00:22",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Amazon Prime Video beats Apple TV",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/retail/amazon-makes-money-in-an-area-where-apple-loses-billions?.tsrc=rss",
+        "date": "Nov 03, 00:07",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Jim Cramer explains the 'AI cheat code' driving Apple stock higher",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-apple-stock-ai-strategy?.tsrc=rss",
+        "date": "Nov 03, 00:00",
         "sentiment": "neutral"
       },
       {
@@ -672,57 +712,17 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/apple-beats-sales-profit-expectations-233407139.html?.tsrc=rss",
         "date": "Nov 02, 23:34",
         "sentiment": "positive"
-      },
-      {
-        "title": "Apple says it\u2019s \u2018hard to predict\u2019 when iPhone Duo constraints will improve",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/apple-says-hard-predict-iphone-232532837.html?.tsrc=rss",
-        "date": "Nov 02, 23:25",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inventory-surges-154-memory-230457382.html?.tsrc=rss",
-        "date": "Nov 02, 23:04",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Apple: Fiscal Q4 Earnings Snapshot",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-fiscal-q4-earnings-snapshot-230205666.html?.tsrc=rss",
-        "date": "Nov 02, 23:02",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ternus touts Apple's $600B US manufacturing pledge on Q4 earnings call",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/ternus-touts-apples-600b-us-manufacturing-pledge-on-q4-earnings-call-225322516.html?.tsrc=rss",
-        "date": "Nov 02, 22:53",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/apple-sales-meet-estimates-china-225022457.html?.tsrc=rss",
-        "date": "Nov 02, 22:50",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Memory Headwinds Are 'Unprecedented'",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/be35924e-2c7f-3409-8d4a-d5d213cff29a/memory-headwinds-are.html?.tsrc=rss",
-        "date": "Nov 02, 22:48",
-        "sentiment": "positive"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Jim Cramer explains the 'AI cheat code' driving Apple stock higher",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-apple-stock-ai-strategy?.tsrc=rss",
+        "date": "Nov 03, 00:00",
+        "sentiment": "neutral"
+      },
       {
         "title": "Alphabet Lost $500 Billion in Market Value. Should You Really Buy AI Stocks Now?",
         "summary": "",
@@ -778,14 +778,6 @@
         "url": "https://finance.yahoo.com/video/stocks-kick-off-november-lower-as-ai-sell-off-hits-tech-213023708.html?.tsrc=rss",
         "date": "Nov 02, 21:30",
         "sentiment": "negative"
-      },
-      {
-        "title": "Investors Shoot for the Moon",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/02/investors-shoot-for-the-moon/?.tsrc=rss",
-        "date": "Nov 02, 21:28",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
