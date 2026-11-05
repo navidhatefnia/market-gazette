@@ -1,74 +1,98 @@
 {
-  "lastUpdated": "10:44 PM",
-  "date": "Wednesday, November 04, 2026",
+  "lastUpdated": "12:29 AM",
+  "date": "Thursday, November 05, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Why AI investors may need Nvidia and application stocks",
+        "title": "Why Alphabet Stock Popped on Wednesday",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/why-ai-investors-may-need-nvidia-and-application-stocks?.tsrc=rss",
-        "date": "Nov 04, 22:32",
+        "url": "https://www.fool.com/investing/2026/11/04/why-alphabet-stock-popped-on-wednesday/?.tsrc=rss",
+        "date": "Nov 05, 00:13",
         "sentiment": "neutral"
       },
       {
-        "title": "Why Wayfair Stock Is Up Today",
+        "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here\u2019s Who Could Get Hurt",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/why-wayfair-stock-is-up-today/?.tsrc=rss",
-        "date": "Nov 04, 22:30",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Smith Douglas Homes Corp. Q3 2026 Earnings Call Summary",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-smith-douglas-homes-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 04, 22:29",
+        "url": "https://247wallst.com/investing/2026/11/04/steve-weiss-says-the-midterms-just-put-a-lid-on-ai-spending-heres-who-could-get-hurt/?.tsrc=rss",
+        "date": "Nov 05, 00:09",
         "sentiment": "neutral"
       },
       {
-        "title": "Reservoir Media, Inc. Q2 2027 Earnings Call Summary",
+        "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-reservoir-media-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 04, 22:25",
+        "url": "https://www.fool.com/investing/2026/11/04/if-youd-invested-5000-in-voo-15-years-ago-heres-wh/?.tsrc=rss",
+        "date": "Nov 04, 23:50",
         "sentiment": "neutral"
       },
       {
-        "title": "MFA Financial, Inc. Q3 2026 Earnings Call Summary",
+        "title": "Nuvectis Pharma, Inc. Q3 2026 Earnings Call Summary",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-mfa-financial-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 04, 22:20",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-nuvectis-pharma-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 04, 23:24",
         "sentiment": "neutral"
       },
       {
-        "title": "Cushman & Wakefield plc Q3 2026 Earnings Call Summary",
+        "title": "Natural Resource Partners L.P. Q3 2026 Earnings Call Summary",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cushman-wakefield-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 04, 22:20",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-natural-resource-partners-lp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 04, 23:22",
         "sentiment": "neutral"
       },
       {
-        "title": "How Much Is SpaceX's AI Business Really Worth? Here's the Math.",
+        "title": "Royalty Pharma plc Q3 2026 Earnings Call Summary",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/how-much-is-spacexs-ai-business-really-worth-heres/?.tsrc=rss",
-        "date": "Nov 04, 22:19",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-royalty-pharma-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 04, 23:21",
         "sentiment": "neutral"
       },
       {
-        "title": "Haverty Furniture Companies, Inc. Q3 2026 Earnings Call Summary",
+        "title": "NNN REIT, Inc. Q3 2026 Earnings Call Summary",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-haverty-furniture-companies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 04, 22:17",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-nnn-reit-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 04, 23:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Navios Maritime Partners L.P. Q3 2026 Earnings Call Summary",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-navios-maritime-partners-lp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "date": "Nov 04, 23:20",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "The Deal With Meta & OpenAI Just Cost AMD $1.1 Billion",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.ibtimes.com/amd-1-1-billion-charge-openai-meta-deals-3809435?.tsrc=rss",
+        "date": "Nov 05, 00:14",
+        "sentiment": "positive"
+      },
+      {
+        "title": "5 Best Performing AI Stocks in 2026",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html?.tsrc=rss",
+        "date": "Nov 04, 23:31",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AMD (AMD) Q3 Results Fuel AI Optimism But Valuation Caps Gains",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-q3-results-fuel-232151959.html?.tsrc=rss",
+        "date": "Nov 04, 23:21",
+        "sentiment": "positive"
+      },
       {
         "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
         "summary": "",
@@ -94,47 +118,31 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Dow Rallies 1,590 Points on Midterm Relief: Stock Market Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.kiplinger.com/investing/stocks/dow-rallies-1-570-points-on-midterm-relief-stock-market-today?.tsrc=rss",
+        "date": "Nov 04, 21:12",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Goldman Sachs\u2019 $675 Target Says AMD\u2019s Selloff Went Too Far",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://www.tikr.com/blog/goldman-sachs-675-target-says-amds-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261104-vgrv8cc8&.tsrc=rss",
         "date": "Nov 04, 20:19",
         "sentiment": "negative"
-      },
-      {
-        "title": "AMD\u2019s Data Center Sales Nearly Doubled, but Its Own Stock Rally Just Cost It $1.1 Billion",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/amds-data-center-sales-nearly-doubled-but-its-own-stock-rally-just-cost-it-1-1-billion?ref=yahoofinance&tlnk=yf-261104-35wwpgrp&.tsrc=rss",
-        "date": "Nov 04, 20:08",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Stock: Buy, Hold or Sell After 97% AI Data Center Growth?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-hold-sell-190000660.html?.tsrc=rss",
-        "date": "Nov 04, 19:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Market reaction to changes in Congress, AMD earnings, and where to find value in healthcare stocks",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/market-reaction-to-changes-in-congress-amd-earnings-and-where-to-find-value-in-healthcare-stocks-185012443.html?.tsrc=rss",
-        "date": "Nov 04, 18:50",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Stock Rebounds. Is Its AI Edge Built to Last?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/amd-stock-rebounds-is-its-ai-edge-built-to-last/?.tsrc=rss",
-        "date": "Nov 04, 18:46",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "5 Best Performing AI Stocks in 2026",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html?.tsrc=rss",
+        "date": "Nov 04, 23:31",
+        "sentiment": "neutral"
+      },
       {
         "title": "Why AI investors may need Nvidia and application stocks",
         "summary": "",
@@ -150,6 +158,14 @@
         "url": "https://finance.yahoo.com/m/a945593c-d697-3ab1-a864-eea8376eb6d4/spacex%2C-tesla%2C-micron%2C-amd%2C.html?.tsrc=rss",
         "date": "Nov 04, 21:51",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-sinks-market-214502384.html?.tsrc=rss",
+        "date": "Nov 04, 21:45",
+        "sentiment": "positive"
       },
       {
         "title": "These AI Data Center Stocks Are Rising, Bucking the Post-Election Slump",
@@ -182,22 +198,6 @@
         "url": "https://www.fool.com/investing/2026/11/04/prediction-micron-stock-will-triple-in-2027/?.tsrc=rss",
         "date": "Nov 04, 20:50",
         "sentiment": "neutral"
-      },
-      {
-        "title": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html?.tsrc=rss",
-        "date": "Nov 04, 20:32",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Why Micron Stock Is Falling Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/why-micron-stock-is-falling-today/?.tsrc=rss",
-        "date": "Nov 04, 20:19",
-        "sentiment": "negative"
       }
     ],
     "SMCI": [
@@ -674,20 +674,44 @@
     ],
     "AAPL": [
       {
-        "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+        "title": "What Cirrus Logic (CRUS) Said on Its Q2 Earnings Call",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
-        "date": "Nov 04, 22:29",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-cirrus-logic-crus-said-on-its-q2-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 05, 00:14",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-after.html?.tsrc=rss",
+        "date": "Nov 05, 00:14",
         "sentiment": "positive"
       },
       {
-        "title": "Qualcomm\u2019s Stock Falls as Supply Costs Eat Into Profit Outlook",
+        "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil \u2014 AAPL, SNAP, INTC, CRWV, QCOM In Focus",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-stock-falls-as.html?.tsrc=rss",
-        "date": "Nov 04, 21:45",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-surge-ahead-after-democratic-sweep/cNGLApkR9ET?.tsrc=rss",
+        "date": "Nov 04, 23:32",
         "sentiment": "positive"
+      },
+      {
+        "title": "Why an equal-weight S&P 500 fund can reduce Big Tech risk",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/why-an-equal-weight-sp-500-fund-can-reduce-big-tech-risk?.tsrc=rss",
+        "date": "Nov 04, 22:54",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Qualcomm\u2019s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-stock-falls-after.html?.tsrc=rss",
+        "date": "Nov 04, 22:27",
+        "sentiment": "negative"
       },
       {
         "title": "Apple Reportedly Tightens The Belt On Employee AI Budgets Amid Cost-Cutting Drive",
@@ -712,40 +736,32 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/apple-siri-ai-could-become-213018500.html?.tsrc=rss",
         "date": "Nov 04, 21:30",
         "sentiment": "positive"
-      },
-      {
-        "title": "The Apple Supply Chain Faces Its Biggest Test Yet",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/bc49a9ba-6921-3e49-8174-aed50fc0fcf9/the-apple-supply-chain-faces.html?.tsrc=rss",
-        "date": "Nov 04, 21:10",
-        "sentiment": "positive"
-      },
-      {
-        "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/the-nasdaq-100-is-outperforming-nvidia-microsoft-a/?.tsrc=rss",
-        "date": "Nov 04, 21:05",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Dow Heads for Best Post-Midterm Peformance in Decades",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-heads-for-best.html?.tsrc=rss",
-        "date": "Nov 04, 20:34",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
       {
-        "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+        "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
-        "date": "Nov 04, 22:29",
+        "url": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-after.html?.tsrc=rss",
+        "date": "Nov 05, 00:14",
         "sentiment": "positive"
+      },
+      {
+        "title": "Why Alphabet Stock Popped on Wednesday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/04/why-alphabet-stock-popped-on-wednesday/?.tsrc=rss",
+        "date": "Nov 05, 00:13",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "'The First Victim': Chamath Palihapitiya Warns AI Startups are In the Crosshairs as OpenAI, Google Move Into Software",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/first-victim-chamath-palihapitiya-warns-223011087.html?.tsrc=rss",
+        "date": "Nov 04, 22:30",
+        "sentiment": "neutral"
       },
       {
         "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
@@ -786,25 +802,17 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-brings-cx-enterprise-211230372.html?.tsrc=rss",
         "date": "Nov 04, 21:12",
         "sentiment": "positive"
-      },
-      {
-        "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/04/the-nasdaq-100-is-outperforming-nvidia-microsoft-a/?.tsrc=rss",
-        "date": "Nov 04, 21:05",
-        "sentiment": "positive"
-      },
-      {
-        "title": "OpenAI Says ChatGPT\u2019s Search Volume Is Now a Fifth of Google\u2019s",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/04/openai-says-chatgpts-search-volume-is-now-a-fifth-of-googles/?.tsrc=rss",
-        "date": "Nov 04, 20:47",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
+      {
+        "title": "American Superconductor: Fiscal Q2 Earnings Snapshot",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/american-superconductor-fiscal-q2-earnings-224340147.html?.tsrc=rss",
+        "date": "Nov 04, 22:43",
+        "sentiment": "positive"
+      },
       {
         "title": "American Superconductor\u2019s (NASDAQ:AMSC) Q3 CY2026 sales beat estimates",
         "summary": "",
@@ -847,6 +855,14 @@
       }
     ],
     "AMAT": [
+      {
+        "title": "Cirrus Logic (CRUS) Q2 Earnings and Revenues Surpass Estimates",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-q2-earnings-215004794.html?.tsrc=rss",
+        "date": "Nov 04, 21:50",
+        "sentiment": "neutral"
+      },
       {
         "title": "Intel Joins Semiconductor Pathways Fund to Strengthen The U.S. Engineering Talent Pipeline",
         "summary": "",
@@ -901,14 +917,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/2026/11/03/applied-materials-just-dropped-29-in-a-month-will-november-12-earnings-rescue-or-break-amat-stock/?.tsrc=rss",
         "date": "Nov 03, 20:05",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Is Lam Research Stock's Fall A Bargain Or A Warning?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/lrcx/articles/622263/is-lam-research-stocks-fall-a-bargain-or-a-warning/2026-11-03?.tsrc=rss",
-        "date": "Nov 03, 13:18",
         "sentiment": "negative"
       }
     ],
