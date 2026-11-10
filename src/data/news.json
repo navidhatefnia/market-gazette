@@ -1,74 +1,82 @@
 {
-  "lastUpdated": "12:48 AM",
+  "lastUpdated": "02:21 AM",
   "date": "Tuesday, November 10, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Texas Paused Data Center Permits Before the Election. Here's Why That Context Matters for AI Investors.",
+        "title": "Banks that raced to fund neoclouds like CoreWeave are now hesitating",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/texas-paused-data-center-permits-before-the-electi/?.tsrc=rss",
-        "date": "Nov 10, 00:25",
+        "url": "https://www.thestreet.com/investing/banks-hesitate-fund-neoclouds-coreweave-nebius-oracle-debt?.tsrc=rss",
+        "date": "Nov 10, 02:03",
         "sentiment": "neutral"
       },
       {
-        "title": "Shopify Is Down 10% in 1 Month. Here's Why I'd Still Buy and Hold It for the Next Decade.",
+        "title": "Is Wall Street Turning on AI?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/shopify-is-down-10-in-1-month-heres-why-id-still-b/?.tsrc=rss",
-        "date": "Nov 10, 00:20",
+        "url": "https://www.fool.com/investing/2026/11/09/is-wall-street-turning-on-ai/?.tsrc=rss",
+        "date": "Nov 10, 01:53",
         "sentiment": "neutral"
       },
       {
-        "title": "The Trade Desk Stock is Suddenly on Fire. Here\u2019s Why.",
+        "title": "We Are Witnessing the Stock Market Do Something for Only the 2nd Time in 136 Years, and History Is Clear What Comes Next for Stocks",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/the-trade-desk-stock-is-suddenly-on-fire-heres-why/?.tsrc=rss",
-        "date": "Nov 10, 00:03",
+        "url": "https://www.fool.com/investing/2026/11/09/we-are-witnessing-the-stock-market-do-something-fo/?.tsrc=rss",
+        "date": "Nov 10, 01:50",
         "sentiment": "neutral"
       },
       {
-        "title": "Goldman Sachs sees something Wall Street may be missing on Nvidia",
+        "title": "Why Lincoln Educational Stock Surged Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-nvidia-rating-stock-analysis?.tsrc=rss",
-        "date": "Nov 10, 00:00",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Berkshire Kept Buying Back Stock as Shares Hit Records. Here\u2019s What the Price It Paid Tells You.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/berkshire-kept-buying-back-stock-as-shares-hit-records-heres-what-the-price-it-paid-tells-you/?.tsrc=rss",
-        "date": "Nov 09, 23:52",
+        "url": "https://www.fool.com/investing/2026/11/09/why-lincoln-educational-stock-surged-today/?.tsrc=rss",
+        "date": "Nov 10, 01:20",
         "sentiment": "positive"
       },
       {
-        "title": "Why AST SpaceMobile Stock Jumped 14.1% Today",
+        "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/why-ast-spacemobile-stock-jumped-14-1-today/?.tsrc=rss",
-        "date": "Nov 09, 23:35",
+        "url": "https://www.fool.com/investing/2026/11/09/the-ai-trade-looks-like-its-falling-apart-amds-ear/?.tsrc=rss",
+        "date": "Nov 10, 01:20",
+        "sentiment": "negative"
+      },
+      {
+        "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-prove-ai-011637196.html?.tsrc=rss",
+        "date": "Nov 10, 01:16",
         "sentiment": "neutral"
       },
       {
-        "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+        "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.cryptoprowl.com/releases/securitize-to-acquire-river-one-expanding-into-6-trillion-asset-backed-finance-market-7783?.tsrc=rss",
-        "date": "Nov 09, 23:31",
+        "url": "https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss",
+        "date": "Nov 10, 01:12",
         "sentiment": "neutral"
       },
       {
-        "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+        "title": "Over 50? 3 Things You Should Be Doing to Prepare for Retirement Already",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/silicon-valley-trump-rally-behind-164235068.html?.tsrc=rss",
-        "date": "Nov 09, 23:30",
+        "url": "https://www.fool.com/retirement/2026/11/09/over-50-3-things-you-should-be-doing-to-prepare-for-retirement-already/?.tsrc=rss",
+        "date": "Nov 10, 01:03",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/the-ai-trade-looks-like-its-falling-apart-amds-ear/?.tsrc=rss",
+        "date": "Nov 10, 01:20",
+        "sentiment": "negative"
+      },
       {
         "title": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
         "summary": "",
@@ -124,17 +132,17 @@
         "url": "https://finance.yahoo.com/m/8ff940db-1410-329b-a621-969229eccd32/unless-nvidia-removes-jensen.html?.tsrc=rss",
         "date": "Nov 09, 21:25",
         "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/amd-surges-13-wall-street-212417276.html?.tsrc=rss",
-        "date": "Nov 09, 21:24",
-        "sentiment": "positive"
       }
     ],
     "MU": [
+      {
+        "title": "Western Digital or Micron? Jim Cramer Says \u201cI Think Micron\u2019s a Better Company.\u201d Here\u2019s the Test",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/western-digital-or-micron-jim-cramer-says-i-think-microns-a-better-company-heres-the-test?ref=yahoofinance&tlnk=yf-261109-x6xcjv7g&.tsrc=rss",
+        "date": "Nov 10, 00:32",
+        "sentiment": "neutral"
+      },
       {
         "title": "Why Micron Technology Stock Gained On Monday",
         "summary": "",
@@ -190,14 +198,6 @@
         "url": "https://247wallst.com/investing/2026/11/09/micron-rises-6-as-bulls-tout-its-bargain-valuation-and-buyback-firepower-seagate-and-western-digital-jump-11/?.tsrc=rss",
         "date": "Nov 09, 17:52",
         "sentiment": "positive"
-      },
-      {
-        "title": "Taiwan Semiconductor Wants to Enter Into Advanced Memory Production",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/09/taiwan-semiconductor-wants-to-enter-into-advanced-memory-production/?.tsrc=rss",
-        "date": "Nov 09, 16:35",
-        "sentiment": "neutral"
       }
     ],
     "SMCI": [
@@ -268,6 +268,14 @@
     ],
     "CENX": [
       {
+        "title": "Century Aluminum (CENX) Moved Higher, So What Is Behind The Attention?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/century-aluminum-cenx-moved-higher-011559791.html?.tsrc=rss",
+        "date": "Nov 10, 01:15",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Century Aluminum CEO says Oklahoma project \u2018on track\u2019 despite community concerns",
         "summary": "",
         "source": "Yahoo Finance",
@@ -321,14 +329,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/century-q3-earnings-snapshot-224706676.html?.tsrc=rss",
         "date": "Nov 05, 22:47",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Century Aluminum Company Reports Third Quarter 2026 Results",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/century-aluminum-company-reports-third-210500429.html?.tsrc=rss",
-        "date": "Nov 05, 21:05",
         "sentiment": "neutral"
       }
     ],
@@ -426,6 +426,14 @@
     ],
     "ASML": [
       {
+        "title": "ASML (ENXTAM:ASML) Stock May Be Priced For Perfection After 125% Run",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-stock-may-012112495.html?.tsrc=rss",
+        "date": "Nov 10, 01:21",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Top Research Reports for ASML, Alibaba & Intuitive Surgical",
         "summary": "",
         "source": "Yahoo Finance",
@@ -480,14 +488,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/lrcx-gains-8-25b-buyback-120600225.html?.tsrc=rss",
         "date": "Nov 09, 12:06",
         "sentiment": "positive"
-      },
-      {
-        "title": "14 ETFs Add to ASML (ASML) Holdings on Nov. 5",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/14-etfs-add-asml-asml-110126676.html?.tsrc=rss",
-        "date": "Nov 09, 11:01",
-        "sentiment": "neutral"
       }
     ],
     "AU": [
@@ -558,6 +558,14 @@
     ],
     "PLTR": [
       {
+        "title": "Forget Palantir? This IPO Candidate May Be the New \"Autonomy Giant\" in Defense.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/forget-palantir-ipo-candidate-new-autonomy-giant/?.tsrc=rss",
+        "date": "Nov 10, 00:50",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Palantir Stocks Rise 5.96% as Former Senator Jon Tester Joins as Adviser",
         "summary": "",
         "source": "Yahoo Finance",
@@ -612,14 +620,6 @@
         "url": "https://www.fool.com/investing/2026/11/09/these-3-stocks-fell-after-strong-earnings-here-s-the-one-i-d-buy-right-now/?.tsrc=rss",
         "date": "Nov 09, 14:11",
         "sentiment": "positive"
-      },
-      {
-        "title": "Palantir\u2019s Commercial AI Business Just Changed the Story, But It\u2019s Stock Could Be Too Expensive",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.barchart.com/story/news/8735033/palantirs-commercial-ai-business-just-changed-the-story-but-its-stock-could-be-too-expensive?.tsrc=rss",
-        "date": "Nov 09, 14:00",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [],
@@ -890,6 +890,38 @@
     ],
     "GOOGL": [
       {
+        "title": "Is Wall Street Turning on AI?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/is-wall-street-turning-on-ai/?.tsrc=rss",
+        "date": "Nov 10, 01:53",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "ASTS Stock Retreats On Q3 Sales Miss \u2013 But AST SpaceMobile\u2019s $1B Revenue Opportunity, AI Partnerships Keep Growth In Focus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/asts-q3-sales-miss-1b-revenue-opportunity-ai-partnerships-growth-focus/cNGuGazR97f?.tsrc=rss",
+        "date": "Nov 10, 01:30",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-prove-ai-011637196.html?.tsrc=rss",
+        "date": "Nov 10, 01:16",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alphabet Almost Sets a Record No One Wants",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/alphabet-almost-sets-a-record-no-one-wants/?.tsrc=rss",
+        "date": "Nov 10, 00:43",
+        "sentiment": "positive"
+      },
+      {
         "title": "\u2018Big Short\u2019 Investor Steve Eisman Says OpenAI\u2019s Collapse Could Trigger an Immediate Recession",
         "summary": "",
         "source": "Yahoo Finance",
@@ -920,38 +952,6 @@
         "url": "https://finance.yahoo.com/m/0aae3af7-cc7f-3af0-af9a-6d803d85246a/trade-desk%E2%80%99s-earnings-beat.html?.tsrc=rss",
         "date": "Nov 09, 22:06",
         "sentiment": "positive"
-      },
-      {
-        "title": "Berkshire Hathaway May Have Sold More Bank of America Stock in the Third Quarter",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/f199ef30-e7f6-3cf2-aeb5-2a1564162340/berkshire-hathaway-may-have.html?.tsrc=rss",
-        "date": "Nov 09, 21:54",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Alphabet Stock Was Moving Higher Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/why-alphabet-stock-was-moving-higher-today/?.tsrc=rss",
-        "date": "Nov 09, 21:44",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/544d9f43-0b7f-3c42-b942-64d1474d8198/amd-stock-rises-on-google.html?.tsrc=rss",
-        "date": "Nov 09, 21:39",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Fervo now has $12B in orders for its geothermal power tech",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/fervo-now-12b-orders-geothermal-205534908.html?.tsrc=rss",
-        "date": "Nov 09, 20:55",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
