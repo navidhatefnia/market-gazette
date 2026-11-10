@@ -1,14 +1,62 @@
 {
-  "lastUpdated": "11:29 PM",
-  "date": "Monday, November 09, 2026",
+  "lastUpdated": "12:48 AM",
+  "date": "Tuesday, November 10, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Why Cloudflare Stock Soared on Monday",
+        "title": "Texas Paused Data Center Permits Before the Election. Here's Why That Context Matters for AI Investors.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/why-cloudflare-stock-soared-on-monday/?.tsrc=rss",
-        "date": "Nov 09, 23:19",
+        "url": "https://www.fool.com/investing/2026/11/09/texas-paused-data-center-permits-before-the-electi/?.tsrc=rss",
+        "date": "Nov 10, 00:25",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shopify Is Down 10% in 1 Month. Here's Why I'd Still Buy and Hold It for the Next Decade.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/shopify-is-down-10-in-1-month-heres-why-id-still-b/?.tsrc=rss",
+        "date": "Nov 10, 00:20",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Trade Desk Stock is Suddenly on Fire. Here\u2019s Why.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/the-trade-desk-stock-is-suddenly-on-fire-heres-why/?.tsrc=rss",
+        "date": "Nov 10, 00:03",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Goldman Sachs sees something Wall Street may be missing on Nvidia",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-nvidia-rating-stock-analysis?.tsrc=rss",
+        "date": "Nov 10, 00:00",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Berkshire Kept Buying Back Stock as Shares Hit Records. Here\u2019s What the Price It Paid Tells You.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/berkshire-kept-buying-back-stock-as-shares-hit-records-heres-what-the-price-it-paid-tells-you/?.tsrc=rss",
+        "date": "Nov 09, 23:52",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Why AST SpaceMobile Stock Jumped 14.1% Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/09/why-ast-spacemobile-stock-jumped-14-1-today/?.tsrc=rss",
+        "date": "Nov 09, 23:35",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.cryptoprowl.com/releases/securitize-to-acquire-river-one-expanding-into-6-trillion-asset-backed-finance-market-7783?.tsrc=rss",
+        "date": "Nov 09, 23:31",
         "sentiment": "neutral"
       },
       {
@@ -16,56 +64,8 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/technology/articles/silicon-valley-trump-rally-behind-164235068.html?.tsrc=rss",
-        "date": "Nov 09, 23:14",
+        "date": "Nov 09, 23:30",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Prediction: This Will Be the Price of Bitcoin by the End of 2030",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/prediction-this-will-be-the-price-of-bitcoin-2030/?.tsrc=rss",
-        "date": "Nov 09, 23:13",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "\u2018Big Short\u2019 Investor Steve Eisman Says OpenAI\u2019s Collapse Could Trigger an Immediate Recession",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/09/big-short-investor-steve-eisman-says-openais-collapse-could-trigger-an-immediate-recession/?.tsrc=rss",
-        "date": "Nov 09, 23:07",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Micron Technology Stock Gained On Monday",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/why-micron-technology-stock-gained-on-monday/?.tsrc=rss",
-        "date": "Nov 09, 23:07",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there\u2019s no clear successor \u2014 could chaos hit portfolios?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-6-p-500-jensen-230000817.html?.tsrc=rss",
-        "date": "Nov 09, 23:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "A Blue Tsunami in State and Local Government Elections May Have Just Driven a Dagger Through the Artificial Intelligence (AI) Data Center Trade",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/09/a-blue-tsunami-in-state-and-local-government-elect/?.tsrc=rss",
-        "date": "Nov 09, 22:50",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/short-seller-flagged-nvidia-ceo-224609300.html?.tsrc=rss",
-        "date": "Nov 09, 22:46",
-        "sentiment": "negative"
       }
     ],
     "AMD": [
@@ -824,6 +824,14 @@
     "USAU": [],
     "AAPL": [
       {
+        "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.cryptoprowl.com/releases/securitize-to-acquire-river-one-expanding-into-6-trillion-asset-backed-finance-market-7783?.tsrc=rss",
+        "date": "Nov 09, 23:31",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there\u2019s no clear successor \u2014 could chaos hit portfolios?",
         "summary": "",
         "source": "Yahoo Finance",
@@ -877,14 +885,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.fool.com/investing/2026/11/09/huang-s-actions-prompt-nvidia-board-to-launch-investigation-here-s-what-investors-need-to-know/?.tsrc=rss",
         "date": "Nov 09, 17:25",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Fox looks to sell $8B of high-grade bonds for Roku deal",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fox-looks-sell-8-billion-171553501.html?.tsrc=rss",
-        "date": "Nov 09, 17:15",
         "sentiment": "neutral"
       }
     ],
