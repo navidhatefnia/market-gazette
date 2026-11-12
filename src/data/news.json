@@ -1,81 +1,105 @@
 {
-  "lastUpdated": "11:35 PM",
-  "date": "Wednesday, November 11, 2026",
+  "lastUpdated": "01:38 AM",
+  "date": "Thursday, November 12, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+        "title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here\u2019s What Investors Need to Know.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/11/nvidia-board-may-vote-to-remove-jensen-huang-as-ceo-tonight-here-s-what-investors-need-to-know/?.tsrc=rss",
+        "date": "Nov 12, 01:25",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures%3A-techs.html?.tsrc=rss",
-        "date": "Nov 11, 23:28",
+        "date": "Nov 12, 01:15",
         "sentiment": "neutral"
       },
       {
-        "title": "Nasdaq Sell-Off: 2 Stocks to Buy on the Dip and Hold for 5 Years",
+        "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/11/nasdaq-sell-off-2-stocks-to-buy-on-the-dip-and-hold-for-5-years/?.tsrc=rss",
-        "date": "Nov 11, 23:26",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia\u2019s Board Is Reportedly Planning To Oust Jensen Huang Over Chinese Spy, Employee Misconduct Investigation",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-board-is-reportedly-planning-to-oust-jensen-huang-over-chinese-spy-employee-misconduct-investigation/cNGx5ivR994?.tsrc=rss",
-        "date": "Nov 11, 23:21",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Who is Nvidia executive Kimberly Powell?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/who-is-nvidia-executive-kimberly-powell-231652963.html?.tsrc=rss",
-        "date": "Nov 11, 23:16",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-nvidia-011540333.html?.tsrc=rss",
+        "date": "Nov 12, 01:15",
         "sentiment": "negative"
       },
       {
-        "title": "NVIDIA expected to oust Jensen Huang  - report",
+        "title": "Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen Huang",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expected-oust-jensen-huang-231004453.html?.tsrc=rss",
-        "date": "Nov 11, 23:10",
+        "url": "https://247wallst.com/investing/2026/11/11/meet-ian-buck-the-nvidia-executive-insiders-believe-is-the-one-man-who-can-replace-jensen-huang/?.tsrc=rss",
+        "date": "Nov 12, 01:11",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Why Globant Stock Wilted by 5% on Wednesday",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/11/why-globant-stock-wilted-by-5-on-wednesday/?.tsrc=rss",
+        "date": "Nov 12, 01:10",
         "sentiment": "neutral"
       },
       {
-        "title": "Wall Street\u2019s Newest Teradyne Bull Just Sent a $2 Billion Signal That the Stock\u2019s 56% Crash Went Too Far",
+        "title": "Nvidia Preparing to Oust CEO Jensen Huang After He\u2019s Accused of Another Affair",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/11/wall-streets-newest-teradyne-bull-just-sent-a-2-billion-signal-that-the-stocks-56-crash-went-too-far/?.tsrc=rss",
-        "date": "Nov 11, 23:07",
+        "url": "https://firstformoney.com/nvidia-preparing-to-oust-ceo-jensen-huang-after-hes-accused-of-another-affair/?.tsrc=rss",
+        "date": "Nov 12, 01:09",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price",
+        "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/?.tsrc=rss",
-        "date": "Nov 11, 23:07",
-        "sentiment": "positive"
+        "url": "https://finance.yahoo.com/m/3d72c4df-c159-3f9f-bf8f-967cb1e59a7f/nvidia-stock-tumbles.-jensen.html?.tsrc=rss",
+        "date": "Nov 12, 01:06",
+        "sentiment": "neutral"
       },
       {
-        "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+        "title": "Market Chatter: House Republicans Press Nvidia's Huang to Testify, Float Subpoena",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/?.tsrc=rss",
-        "date": "Nov 11, 23:04",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-house-republicans-press-010005071.html?.tsrc=rss",
+        "date": "Nov 12, 01:00",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
       {
-        "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+        "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures%3A-techs.html?.tsrc=rss",
-        "date": "Nov 11, 23:28",
+        "date": "Nov 12, 01:15",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen Huang",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/11/meet-ian-buck-the-nvidia-executive-insiders-believe-is-the-one-man-who-can-replace-jensen-huang/?.tsrc=rss",
+        "date": "Nov 12, 01:11",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html?.tsrc=rss",
+        "date": "Nov 12, 00:25",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/11/more-bad-news-for-nvidia-with-board-planning-to-boot-jensen-huang-sam-altman-reveals-master-plan-to-stop-buying-their-chips/?.tsrc=rss",
+        "date": "Nov 12, 00:19",
+        "sentiment": "positive"
       },
       {
         "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
@@ -108,33 +132,25 @@
         "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html?.tsrc=rss",
         "date": "Nov 11, 21:43",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/84883771-24d1-36d3-b83b-c42cc62afe67/chip-stocks-rally-after.html?.tsrc=rss",
-        "date": "Nov 11, 21:36",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic\u2019s IPO Prospectus by the Head-Spinning Numbers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/40e7f0a4-3aa4-386d-be14-5d08d2f6ba9f/anthropic%E2%80%99s-ipo-prospectus-by.html?.tsrc=rss",
-        "date": "Nov 11, 20:32",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia Just Had Its Worst 5 Days Since 2022, Worse Than the DeepSeek Crash",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/11/nvidia-just-had-its-worst-5-days-since-2022-worse-than-the-deepseek-crash/?.tsrc=rss",
-        "date": "Nov 11, 19:27",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "3 Growth Stocks With Earnings Growth Over 20%",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-011311704.html?.tsrc=rss",
+        "date": "Nov 12, 01:13",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Q3 Earnings Results Reconfirm Broad-Based Strength as Outlook Improves",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-results-reconfirm-broad-233700093.html?.tsrc=rss",
+        "date": "Nov 11, 23:37",
+        "sentiment": "neutral"
+      },
       {
         "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
         "summary": "",
@@ -181,22 +197,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/84883771-24d1-36d3-b83b-c42cc62afe67/chip-stocks-rally-after.html?.tsrc=rss",
         "date": "Nov 11, 21:36",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Micron, Sandisk Soar as CoreWeave CEO Says AI Demand Outpaces World's Capacity",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63169587/ai-memory-stocks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-        "date": "Nov 11, 21:25",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple Shares (AAPL) Look Expensive Heading into 2027",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-aapl-look-expensive-211500629.html?.tsrc=rss",
-        "date": "Nov 11, 21:15",
         "sentiment": "neutral"
       }
     ],
@@ -253,7 +253,7 @@
         "title": "Supermicro Now Shipping Next-Generation Servers Powered by 6th Gen AMD EPYC\u2122 9006 Series CPUs for Cloud, HPC, and Agentic AI Workloads",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-next-generation-140500238.html?.tsrc=rss",
+        "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-next-generation-140500879.html?.tsrc=rss",
         "date": "Nov 11, 14:05",
         "sentiment": "positive"
       },
@@ -399,6 +399,14 @@
       }
     ],
     "ENR.DE": [
+      {
+        "title": "Siemens Energy AG (SMEGF) (Q4 2026) Earnings Call Highlights: Record Results, EUR164 Billion ...",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/siemens-energy-ag-smegf-q4-010453023.html?.tsrc=rss",
+        "date": "Nov 12, 01:04",
+        "sentiment": "positive"
+      },
       {
         "title": "Siemens Energy Has Become One of AI\u2019s Most Unexpected Winners",
         "summary": "",
@@ -590,6 +598,14 @@
     ],
     "PLTR": [
       {
+        "title": "3 Growth Stocks With Earnings Growth Over 20%",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-011311704.html?.tsrc=rss",
+        "date": "Nov 12, 01:13",
+        "sentiment": "positive"
+      },
+      {
         "title": "3 Possible Paths Forward for AI Stocks (Bull Case, Bear Case, Base Case) -- and How to Invest for Each",
         "summary": "",
         "source": "Yahoo Finance",
@@ -644,14 +660,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110406148.html?.tsrc=rss",
         "date": "Nov 11, 11:04",
         "sentiment": "positive"
-      },
-      {
-        "title": "Can Palantir Technologies (PLTR) Still Match Its Price With Cash Flow?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-still-match-061306878.html?.tsrc=rss",
-        "date": "Nov 11, 06:13",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [],
@@ -777,17 +785,17 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-q3-020002002.html?.tsrc=rss",
         "date": "Nov 05, 02:00",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Pan American Silver (PAAS) Surpasses Q3 Earnings Estimates",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-surpasses-234507245.html?.tsrc=rss",
-        "date": "Nov 04, 23:45",
-        "sentiment": "neutral"
       }
     ],
     "RGLD": [
+      {
+        "title": "Is Royal Gold Stock Paying You Enough For The Swings?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/rgld/articles/624321/is-royal-gold-stock-paying-you-enough-for-the-swings/2026-11-11?.tsrc=rss",
+        "date": "Nov 12, 00:37",
+        "sentiment": "positive"
+      },
       {
         "title": "Why Did Agnico Eagle Stock Fall?",
         "summary": "",
@@ -843,14 +851,6 @@
         "url": "https://www.marketbeat.com/instant-alerts/transcript-what-royal-gold-rgld-said-on-its-q3-earnings-call-2026-11-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
         "date": "Nov 06, 13:14",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Royal Gold (RGLD) As Strong Q3 Results Revive The Undervalued Narrative",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-strong-q3-042917400.html?.tsrc=rss",
-        "date": "Nov 06, 04:29",
-        "sentiment": "positive"
       }
     ],
     "USAU": [
@@ -864,6 +864,14 @@
       }
     ],
     "AAPL": [
+      {
+        "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/3d72c4df-c159-3f9f-bf8f-967cb1e59a7f/nvidia-stock-tumbles.-jensen.html?.tsrc=rss",
+        "date": "Nov 12, 01:06",
+        "sentiment": "neutral"
+      },
       {
         "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
         "summary": "",
@@ -919,17 +927,17 @@
         "url": "https://247wallst.com/investing/2026/11/11/cramer-says-apple-investors-who-sold-after-steve-jobs-missed-years-of-gains-the-stock-is-up-nearly-3000-since-now-hes-asking-if-nvidia-needs-jensen-huang/?.tsrc=rss",
         "date": "Nov 11, 18:46",
         "sentiment": "positive"
-      },
-      {
-        "title": "The Only 3 Tech Stocks I'd Buy With $5,000 and Never Sell",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/11/the-only-3-tech-stocks-id-buy-with-5000-and-never/?.tsrc=rss",
-        "date": "Nov 11, 18:46",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Q3 Earnings Results Reconfirm Broad-Based Strength as Outlook Improves",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-results-reconfirm-broad-233700093.html?.tsrc=rss",
+        "date": "Nov 11, 23:37",
+        "sentiment": "neutral"
+      },
       {
         "title": "Zelda remake becomes fastest-selling Nintendo Switch 2 game ever",
         "summary": "",
@@ -945,6 +953,22 @@
         "url": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/?.tsrc=rss",
         "date": "Nov 11, 23:07",
         "sentiment": "positive"
+      },
+      {
+        "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/fusions-next-race-over-superconducting-230000192.html?.tsrc=rss",
+        "date": "Nov 11, 23:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Big Tech's expected big payday with Anthropic IPO, and Nintendo's big week with Zelda",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/big-techs-expected-big-payday-with-anthropic-ipo-and-nintendos-big-week-with-zelda-222911332.html?.tsrc=rss",
+        "date": "Nov 11, 22:29",
+        "sentiment": "neutral"
       },
       {
         "title": "GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?",
@@ -968,30 +992,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html?.tsrc=rss",
         "date": "Nov 11, 21:43",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tech round-up: A closer look at Anthropic, Nvidia, CoreWeave, and next week",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/tech-round-up-a-closer-look-at-anthropic-nvidia-coreweave-and-next-week-211955539.html?.tsrc=rss",
-        "date": "Nov 11, 21:19",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Amazon and Google Are Sitting on a $411 Billion Anthropic Windfall",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/11/amazon-and-google-are-sitting-on-a-411-billion-anthropic-windfall/?.tsrc=rss",
-        "date": "Nov 11, 20:47",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic\u2019s IPO Prospectus by the Head-Spinning Numbers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/40e7f0a4-3aa4-386d-be14-5d08d2f6ba9f/anthropic%E2%80%99s-ipo-prospectus-by.html?.tsrc=rss",
-        "date": "Nov 11, 20:32",
         "sentiment": "neutral"
       }
     ],
@@ -1042,14 +1042,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.marketbeat.com/instant-alerts/transcript-american-superconductor-q2-earnings-call-highlights-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
         "date": "Nov 05, 18:15",
-        "sentiment": "positive"
-      },
-      {
-        "title": "American Superconductor (AMSC) Q2 Earnings and Revenues Top Estimates",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/american-superconductor-amsc-q2-earnings-234524025.html?.tsrc=rss",
-        "date": "Nov 04, 23:45",
         "sentiment": "positive"
       }
     ],
