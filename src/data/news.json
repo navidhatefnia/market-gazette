@@ -1,75 +1,83 @@
 {
-  "lastUpdated": "10:44 PM",
-  "date": "Friday, November 13, 2026",
+  "lastUpdated": "12:26 AM",
+  "date": "Saturday, November 14, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Stock Market Today, Nov. 13: Cerebras Surges Over 11% on Record Q3 Revenue and Raised 2026 Guidance",
+        "title": "Scott Bessent and Lutnick clash over Nvidia chips and China",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-cerebras-surges-over-11-on-record-q3-revenue-and-raised-2026-guidance/?.tsrc=rss",
-        "date": "Nov 13, 22:30",
+        "url": "https://www.thestreet.com/technology/scott-bessent-and-lutnick-clash-over-nvidia-chips-and-china?.tsrc=rss",
+        "date": "Nov 13, 23:55",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August \u2014  SPCX, NVDA, ARM, AZN In Focus",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2?.tsrc=rss",
+        "date": "Nov 13, 23:37",
         "sentiment": "positive"
       },
       {
-        "title": "ASML Holding (ENXTAM:ASML) Faces Sector Selling, Is The 25% Undervaluation Case Still Intact?",
+        "title": "Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-faces-222140528.html?.tsrc=rss",
-        "date": "Nov 13, 22:21",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Nov. 25 Could Be a Huge Day for the Stock Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/13/nov-25-could-be-a-huge-day-for-the-stock-market/?.tsrc=rss",
-        "date": "Nov 13, 22:21",
+        "url": "https://www.fool.com/investing/2026/11/13/sandisk-stock-fell-back-under-usd900-on-friday-i-d-start-with-a-small-position/?.tsrc=rss",
+        "date": "Nov 13, 23:37",
         "sentiment": "neutral"
       },
       {
-        "title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+        "title": "Why Newsmax Stock Popped on Friday",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/?.tsrc=rss",
-        "date": "Nov 13, 22:20",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang?.tsrc=rss",
-        "date": "Nov 13, 22:16",
-        "sentiment": "negative"
-      },
-      {
-        "title": "What Is a Business Development Company? 2 BDC Stocks to Buy for Income.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/13/what-is-a-business-development-company-2-bdc-stocks-to-buy-for-income/?.tsrc=rss",
-        "date": "Nov 13, 22:14",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss",
-        "date": "Nov 13, 22:13",
+        "url": "https://www.fool.com/investing/2026/11/13/why-newsmax-stock-popped-on-friday/?.tsrc=rss",
+        "date": "Nov 13, 23:22",
         "sentiment": "neutral"
       },
       {
-        "title": "OptimumBank Holdings, Inc. Q3 2026 Earnings Call Summary",
+        "title": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; SpaceX Starship Flight 15 Booster Diverts.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-optimumbank-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-        "date": "Nov 13, 22:12",
+        "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-market.html?.tsrc=rss",
+        "date": "Nov 13, 23:17",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Why Intel Stock Slumped Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/13/why-intel-stock-slumped-today/?.tsrc=rss",
+        "date": "Nov 13, 23:09",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html?.tsrc=rss",
+        "date": "Nov 13, 23:07",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-coreweave-falls-over-6-on-ai-cloud-selling-and-reported-usd4-billion-loan-talks/?.tsrc=rss",
+        "date": "Nov 13, 23:04",
+        "sentiment": "negative"
       }
     ],
     "AMD": [
       {
+        "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html?.tsrc=rss",
+        "date": "Nov 13, 23:07",
+        "sentiment": "negative"
+      },
+      {
         "title": "Stock Market Today, Nov. 13: Cerebras Surges Over 11% on Record Q3 Revenue and Raised 2026 Guidance",
         "summary": "",
         "source": "Yahoo Finance",
@@ -84,6 +92,14 @@
         "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/?.tsrc=rss",
         "date": "Nov 13, 22:20",
         "sentiment": "negative"
+      },
+      {
+        "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
+        "date": "Nov 13, 22:15",
+        "sentiment": "neutral"
       },
       {
         "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
@@ -116,25 +132,17 @@
         "url": "https://www.tikr.com/blog/amd-sinks-9-marvell-down-5-as-chip-rally-reverses-and-treasury-yields-hit-5?ref=yahoofinance&tlnk=yf-261113-c83jxhmp&.tsrc=rss",
         "date": "Nov 13, 22:05",
         "sentiment": "negative"
-      },
-      {
-        "title": "Better Chip Stock: Nvidia vs. AMD",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/13/better-chip-stock-nvidia-vs-amd/?.tsrc=rss",
-        "date": "Nov 13, 21:43",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html?.tsrc=rss",
-        "date": "Nov 13, 21:31",
-        "sentiment": "positive"
       }
     ],
     "MU": [
+      {
+        "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html?.tsrc=rss",
+        "date": "Nov 13, 23:00",
+        "sentiment": "neutral"
+      },
       {
         "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
         "summary": "",
@@ -190,14 +198,6 @@
         "url": "https://finance.yahoo.com/m/d27797d9-4ab8-3825-9e2a-b5baba66f462/chart-of-the-day%3A-sandisk.html?.tsrc=rss",
         "date": "Nov 13, 19:33",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Micron Stocks Fall 3.96% as Nvidia CEO Exit Drags Memory Shares Lower",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-3-96-175931806.html?.tsrc=rss",
-        "date": "Nov 13, 17:59",
-        "sentiment": "negative"
       }
     ],
     "SMCI": [
@@ -763,14 +763,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-receives-final-us-50-120000795.html?.tsrc=rss",
         "date": "Nov 09, 12:00",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Is Agnico Eagle Stock Increasing Your Market Risk?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/aem/articles/623269/is-agnico-eagle-stock-increasing-your-market-risk/2026-11-06?.tsrc=rss",
-        "date": "Nov 06, 23:17",
-        "sentiment": "negative"
       }
     ],
     "USAU": [
@@ -784,6 +776,14 @@
       }
     ],
     "AAPL": [
+      {
+        "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
+        "date": "Nov 13, 22:15",
+        "sentiment": "neutral"
+      },
       {
         "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
         "summary": "",
@@ -839,17 +839,33 @@
         "url": "https://finance.yahoo.com/video/ackman-huangs-exit-anthropic-ipo-194527836.html?.tsrc=rss",
         "date": "Nov 13, 19:45",
         "sentiment": "neutral"
-      },
-      {
-        "title": "JardogsHealth Forms Strategic Advisory Council with Leaders from Discover Card, MTV, DoorDash and Apple",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/healthcare/articles/jardogshealth-forms-strategic-advisory-council-192900019.html?.tsrc=rss",
-        "date": "Nov 13, 19:29",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html?.tsrc=rss",
+        "date": "Nov 13, 23:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
+        "date": "Nov 13, 22:15",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "With Nvidia Floundering, AI Bulls Need More Than Spending. Watch Revenue.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/5320ea39-b186-36f7-b3d6-568e574e4bf6/with-nvidia-floundering%2C-ai.html?.tsrc=rss",
+        "date": "Nov 13, 22:13",
+        "sentiment": "neutral"
+      },
       {
         "title": "What Does Dominion Energy Offer That NiSource Does Not?",
         "summary": "",
@@ -889,30 +905,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/inside-jim-cramer-charitable-trust-203302856.html?.tsrc=rss",
         "date": "Nov 13, 20:33",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic\u2019s Best Financial Metric Is Also Its Biggest Risk",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/51e6bed3-7414-3720-93c3-da1f75ffbe18/anthropic%E2%80%99s-best-financial.html?.tsrc=rss",
-        "date": "Nov 13, 19:53",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/13/wall-street-is-writing-off-nvidia-stock-heres-why/?.tsrc=rss",
-        "date": "Nov 13, 19:37",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Is Oppenheimer Wrong to Give Up on Reddit? Wall Street Still Sees $150",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/is-oppenheimer-wrong-to-give-up-on-reddit-wall-street-still-sees-150?ref=yahoofinance&tlnk=yf-261113-pj4j8gq4&.tsrc=rss",
-        "date": "Nov 13, 19:31",
-        "sentiment": "positive"
       }
     ],
     "AMSC": [
@@ -950,6 +942,14 @@
       }
     ],
     "AMAT": [
+      {
+        "title": "Applied Materials (AMAT) Stock Slips After Record Q4 Earnings Results",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-stock-slips-231447868.html?.tsrc=rss",
+        "date": "Nov 13, 23:14",
+        "sentiment": "positive"
+      },
       {
         "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
         "summary": "",
@@ -1004,14 +1004,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/technology/ai/articles/amat-q4-earnings-call-highlights-181400500.html?.tsrc=rss",
         "date": "Nov 13, 18:14",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Applied Materials Stocks Fall 2.58% Despite 53% Revenue Jump and Upbeat Outlook",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stocks-fall-2-173329558.html?.tsrc=rss",
-        "date": "Nov 13, 17:33",
         "sentiment": "positive"
       }
     ],
