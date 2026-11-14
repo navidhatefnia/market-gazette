@@ -1,74 +1,90 @@
 {
-  "lastUpdated": "12:23 PM",
+  "lastUpdated": "03:15 PM",
   "date": "Saturday, November 14, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
+        "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/why-a-rising-tsmc-challenger-could-reshape-the-chi/?.tsrc=rss",
-        "date": "Nov 14, 12:04",
+        "url": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
+        "date": "Nov 14, 14:58",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia's 60% target cut exposes a Wall Street split",
+        "title": "Should You Invest in the Stock Market Now or Wait for a Pullback? History Offers a Clear Answer.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/wall-street-split-on-nvidia-stock?.tsrc=rss",
-        "date": "Nov 14, 12:03",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Strategy's Michael Saylor Says Bitcoin Is Now a Bipartisan Issue That Crosses Party Lines. Here's Why He's Right.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/strategys-michael-saylor-says-bitcoin-is-now-a-bip/?.tsrc=rss",
-        "date": "Nov 14, 12:02",
+        "url": "https://www.fool.com/investing/2026/11/14/should-you-invest-stock-market-now-wait-pullback/?.tsrc=rss",
+        "date": "Nov 14, 14:56",
         "sentiment": "neutral"
       },
       {
-        "title": "Not Only Did President Donald Trump Fail to Keep His Social Security Promise, but He May Have Accelerated the Program's Path to Insolvency",
+        "title": "SpaceX Just Announced 2 New AI Supercomputing Campuses. I'd Wait Before Buying the Stock.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/retirement/2026/11/14/donald-trump-fail-to-keep-social-security-promise-accelerated-program-path-to-insolvency/?.tsrc=rss",
-        "date": "Nov 14, 11:56",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Prediction: ASML Will Join the $800 Billion Club in 2029",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/prediction-asml-will-join-the-800-billion-club/?.tsrc=rss",
-        "date": "Nov 14, 11:51",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia\u2019s Interim CEO Pushed Back on a \u201c$250 Billion Credit Backstop\u201d for OpenAI. Oracle Has the Most at Stake",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/nvidias-interim-ceo-pushed-back-on-a-250-billion-credit-backstop-for-openai-oracle-has-the-most-at-stake?ref=yahoofinance&tlnk=yf-261114-v5cmv78g&.tsrc=rss",
-        "date": "Nov 14, 11:42",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
-        "date": "Nov 14, 11:40",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Is a Buying Opportunity.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/most-investors-are-wrong-about-who-owns-the-most-b/?.tsrc=rss",
-        "date": "Nov 14, 11:22",
+        "url": "https://www.fool.com/investing/2026/11/14/spacex-just-announced-2-new-ai-supercomputing-campuses-i-d-wait-before-buying-the-stock/?.tsrc=rss",
+        "date": "Nov 14, 14:46",
         "sentiment": "positive"
+      },
+      {
+        "title": "A 63-Year-Old Trying To Harvest A $40,000 Loss In Nvidia Stock Before Year-End Faces A Potential IRA Trap. A 2008 IRS Ruling Means One Easy Mistake Could Wipe Out The Write-Off Permanently",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/personal-finance/2026/11/14/a-63-year-old-trying-to-harvest-a-40000-loss-in-nvidia-stock-before-year-end-faces-a-potential-ira-trap-a-2008-irs-ruling-means-one-easy-mistake-could-wipe-out-the-write-off-permanently/?.tsrc=rss",
+        "date": "Nov 14, 14:43",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+        "date": "Nov 14, 14:38",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Prediction: This Will Be CoreWeave\u2019s Stock Price After 1 Year Following Its Stunning Results (Hint: It Implies a Big Move)",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/prediction-this-will-be-coreweave-s-stock-price-after-1-year-following-its-stunning-results-hint-it-implies-a-big-move/?.tsrc=rss",
+        "date": "Nov 14, 14:29",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Think Nvidia Stock Is a Bargain? 6 Reasons the Face of the AI Build-Out Can Plunge Another 50% Following Jensen Huang's Resignation.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/think-nvidia-stock-bargain-6-reasons-face-ai-build-out-can-plunge-50-after-jensen-huang-resignation/?.tsrc=rss",
+        "date": "Nov 14, 14:26",
+        "sentiment": "positive"
+      },
+      {
+        "title": "If Surging Inflation Triggers a Market Crash, History Says Investors Should Do This 1 Thing First",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/if-surging-inflation-triggers-a-market-crash-history-says-investors-should-do-this-1-thing-first/?.tsrc=rss",
+        "date": "Nov 14, 14:10",
+        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+        "date": "Nov 14, 14:38",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Why Advanced Micro Devices Stock Surged This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/market-movers/2026/11/14/why-advanced-micro-devices-stock-surged-this-week/?.tsrc=rss",
+        "date": "Nov 14, 13:06",
+        "sentiment": "positive"
+      },
       {
         "title": "Review & Preview: Moving On",
         "summary": "",
@@ -116,22 +132,6 @@
         "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss",
         "date": "Nov 13, 22:13",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Xanadu Breakthroughs & Partnerships Advance Roadmap \u2013 Quarterly Update Report",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/xanadu-breakthroughs-partnerships-advance-roadmap-221337932.html?.tsrc=rss",
-        "date": "Nov 13, 22:13",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/13/thierry-borgeat-says-chip-stocks-peak-every-two-years-his-chart-points-to-another-top/?.tsrc=rss",
-        "date": "Nov 13, 22:07",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
@@ -150,6 +150,14 @@
         "url": "https://www.fool.com/investing/2026/11/14/nvidia-alphabet-microsoft-and-micron-are-buying-anthropic-ipo/?.tsrc=rss",
         "date": "Nov 14, 10:22",
         "sentiment": "positive"
+      },
+      {
+        "title": "Micron Jumps 12% as CoreWeave\u2019s \u201cBreakout Quarter\u201d Revives the Memory Trade",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/micron-jumps-12-as-coreweaves-breakout-quarter-revives-the-memory-trade?ref=yahoofinance&tlnk=yf-261114-rp2r842h&.tsrc=rss",
+        "date": "Nov 14, 03:50",
+        "sentiment": "neutral"
       },
       {
         "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
@@ -189,14 +197,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html?.tsrc=rss",
         "date": "Nov 13, 21:30",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Intel CEO\u2019s warning offers a 2027 signal for Micron investors",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/stocks/intel-micron-memory-shortage?.tsrc=rss",
-        "date": "Nov 13, 21:06",
         "sentiment": "negative"
       }
     ],
@@ -410,6 +410,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk\u2019s Terafab Eyes a Million Wafers",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/asml-soars-10-in-a-week-as-chip-stocks-bounce-and-musks-terafab-eyes-a-million-wafers?ref=yahoofinance&tlnk=yf-261114-g2565jf3&.tsrc=rss",
+        "date": "Nov 14, 09:26",
+        "sentiment": "neutral"
+      },
+      {
         "title": "ASML Holding (ENXTAM:ASML) Faces Sector Selling, Is The 25% Undervaluation Case Still Intact?",
         "summary": "",
         "source": "Yahoo Finance",
@@ -455,14 +463,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/2026/11/13/taiwan-semiconductor-just-became-even-more-of-an-ai-anchor-on-nvidias-25-plummet/?.tsrc=rss",
         "date": "Nov 13, 13:45",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "XNDU Stock Fell From $42 to $2.80. GlobalFoundries and ASML May Explain the Bounce Case",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/xndu-stock-fell-42-2-133920573.html?.tsrc=rss",
-        "date": "Nov 13, 13:39",
         "sentiment": "neutral"
       }
     ],
@@ -574,19 +574,19 @@
         "sentiment": "positive"
       },
       {
+        "title": "Golden Dome\u2019s $185 Billion Question: Who Actually Gets Paid?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketbeat.com/articles/golden-domes-185-billion-question-who-actually-gets-paid/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 13, 12:35",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Cathie Wood buys $16 million in AI stock, dumps $10 million",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-buys-16-million-120108566.html?.tsrc=rss",
         "date": "Nov 13, 12:01",
-        "sentiment": "positive"
-      },
-      {
-        "title": "JPMorgan Active Growth ETF (JGRO) Buys $12.6 Million More Tesla on Nov. 11",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-growth-etf-jgro-110403405.html?.tsrc=rss",
-        "date": "Nov 13, 11:04",
         "sentiment": "positive"
       }
     ],
@@ -729,6 +729,22 @@
     ],
     "AAPL": [
       {
+        "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/d99d659c-8aca-30a4-b3b1-85b9d02c443d/apple-leads-five-stocks.html?.tsrc=rss",
+        "date": "Nov 14, 13:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Elon Musk, Trump, Kress, Nvidia\u2019s Board On Jensen Huang\u2019s Exit: Mag 7 Voices This Week",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-trump-kress-nvidia-board-on-jensen-huang-exit/cNbPJ1xR9Qk?.tsrc=rss",
+        "date": "Nov 14, 12:30",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Is Apple Stock a Buy Right Now?",
         "summary": "",
         "source": "Yahoo Finance",
@@ -775,25 +791,25 @@
         "url": "https://finance.yahoo.com/m/9546104e-d989-381a-ab16-3923f84e3dcc/the-price-tag-on-jensen.html?.tsrc=rss",
         "date": "Nov 13, 20:32",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Meta tests prediction-market app for employees, WSJ reports",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html?.tsrc=rss",
-        "date": "Nov 13, 20:30",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/7fead099-1330-32b1-9551-beb1295f72e5/3-favorite-warren-buffett.html?.tsrc=rss",
-        "date": "Nov 13, 20:27",
-        "sentiment": "positive"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
+        "date": "Nov 14, 14:38",
+        "sentiment": "negative"
+      },
+      {
+        "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/spacex-hollows-out-its-ai-video-division-elon-musk-now-has-different-priorities/?.tsrc=rss",
+        "date": "Nov 14, 13:16",
+        "sentiment": "neutral"
+      },
       {
         "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
         "summary": "",
@@ -841,22 +857,6 @@
         "url": "https://www.fool.com/coverage/better-buy/2026/11/13/booking-holdings-vs-gamestop-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
         "date": "Nov 14, 00:32",
         "sentiment": "positive"
-      },
-      {
-        "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html?.tsrc=rss",
-        "date": "Nov 13, 23:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
-        "date": "Nov 13, 22:15",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
@@ -894,6 +894,14 @@
       }
     ],
     "AMAT": [
+      {
+        "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk\u2019s Terafab Eyes a Million Wafers",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/asml-soars-10-in-a-week-as-chip-stocks-bounce-and-musks-terafab-eyes-a-million-wafers?ref=yahoofinance&tlnk=yf-261114-g2565jf3&.tsrc=rss",
+        "date": "Nov 14, 09:26",
+        "sentiment": "neutral"
+      },
       {
         "title": "Applied Materials (AMAT) Stock Slips After Record Q4 Earnings Results",
         "summary": "",
@@ -948,14 +956,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html?.tsrc=rss",
         "date": "Nov 13, 18:55",
-        "sentiment": "positive"
-      },
-      {
-        "title": "AMAT Q4 Earnings Call Highlights AI Demand and 2027 Growth Outlook",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amat-q4-earnings-call-highlights-181400500.html?.tsrc=rss",
-        "date": "Nov 13, 18:14",
         "sentiment": "positive"
       }
     ],
