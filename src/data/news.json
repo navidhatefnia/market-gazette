@@ -1,74 +1,90 @@
 {
-  "lastUpdated": "03:15 PM",
+  "lastUpdated": "05:15 PM",
   "date": "Saturday, November 14, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
+        "title": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; What Should You Do?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
-        "date": "Nov 14, 14:58",
+        "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-market.html?.tsrc=rss",
+        "date": "Nov 14, 17:07",
         "sentiment": "neutral"
       },
       {
-        "title": "Should You Invest in the Stock Market Now or Wait for a Pullback? History Offers a Clear Answer.",
+        "title": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/should-you-invest-stock-market-now-wait-pullback/?.tsrc=rss",
-        "date": "Nov 14, 14:56",
+        "url": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/?.tsrc=rss",
+        "date": "Nov 14, 17:03",
+        "sentiment": "negative"
+      },
+      {
+        "title": "The S&P 500 Has Gone 18 Months Without a 10% Drop. Here's How the Next Year Has Gone After Streaks This Long.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/the-s-and-p-500-has-gone-18-months-without-a-10-drop-here-s-how-the-next-year-has-gone-after-streaks-this-long/?.tsrc=rss",
+        "date": "Nov 14, 16:58",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Prediction: This Quantum Computing Stock Will Be Worth More Than IonQ 5 Years From Now",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/prediction-this-quantum-computing-stock-will-be-wo/?.tsrc=rss",
+        "date": "Nov 14, 16:42",
         "sentiment": "neutral"
       },
       {
-        "title": "SpaceX Just Announced 2 New AI Supercomputing Campuses. I'd Wait Before Buying the Stock.",
+        "title": "\u201cBank of Nvidia\u201d Has $164.5 Billion Riding on the AI Boom. Here\u2019s How Jensen Huang\u2019s Exit Could Put It at Risk",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/spacex-just-announced-2-new-ai-supercomputing-campuses-i-d-wait-before-buying-the-stock/?.tsrc=rss",
-        "date": "Nov 14, 14:46",
-        "sentiment": "positive"
-      },
-      {
-        "title": "A 63-Year-Old Trying To Harvest A $40,000 Loss In Nvidia Stock Before Year-End Faces A Potential IRA Trap. A 2008 IRS Ruling Means One Easy Mistake Could Wipe Out The Write-Off Permanently",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/personal-finance/2026/11/14/a-63-year-old-trying-to-harvest-a-40000-loss-in-nvidia-stock-before-year-end-faces-a-potential-ira-trap-a-2008-irs-ruling-means-one-easy-mistake-could-wipe-out-the-write-off-permanently/?.tsrc=rss",
-        "date": "Nov 14, 14:43",
+        "url": "https://247wallst.com/investing/2026/11/14/bank-of-nvidia-has-164-5-billion-riding-on-the-ai-boom-heres-how-jensen-huangs-could-put-it-at-risk/?.tsrc=rss",
+        "date": "Nov 14, 16:37",
         "sentiment": "negative"
       },
       {
-        "title": "Harvard Cut Nvidia by a Third and Bought AMD",
+        "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
-        "date": "Nov 14, 14:38",
-        "sentiment": "negative"
+        "url": "https://finance.yahoo.com/technology/ai/articles/asian-governments-react-nvidia-ceo-163415812.html?.tsrc=rss",
+        "date": "Nov 14, 16:34",
+        "sentiment": "neutral"
       },
       {
-        "title": "Prediction: This Will Be CoreWeave\u2019s Stock Price After 1 Year Following Its Stunning Results (Hint: It Implies a Big Move)",
+        "title": "Super Micro Gets Swept Up in Spreading Nvidia Scandal. Says Megaspeed Was \u201cNever a Customer\u201d",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/prediction-this-will-be-coreweave-s-stock-price-after-1-year-following-its-stunning-results-hint-it-implies-a-big-move/?.tsrc=rss",
-        "date": "Nov 14, 14:29",
+        "url": "https://247wallst.com/investing/2026/11/14/super-micro-gets-swept-up-in-spreading-nvidia-scandal-says-megaspeed-was-never-a-customer/?.tsrc=rss",
+        "date": "Nov 14, 16:32",
         "sentiment": "positive"
       },
       {
-        "title": "Think Nvidia Stock Is a Bargain? 6 Reasons the Face of the AI Build-Out Can Plunge Another 50% Following Jensen Huang's Resignation.",
+        "title": "After Jensen Huang\u2019s Departure, Nvidia Just Did Something It Hasn\u2019t Done Since 2019",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/think-nvidia-stock-bargain-6-reasons-face-ai-build-out-can-plunge-50-after-jensen-huang-resignation/?.tsrc=rss",
-        "date": "Nov 14, 14:26",
-        "sentiment": "positive"
-      },
-      {
-        "title": "If Surging Inflation Triggers a Market Crash, History Says Investors Should Do This 1 Thing First",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/14/if-surging-inflation-triggers-a-market-crash-history-says-investors-should-do-this-1-thing-first/?.tsrc=rss",
-        "date": "Nov 14, 14:10",
+        "url": "https://www.fool.com/investing/2026/11/14/after-jensen-huang-s-departure-nvidia-just-did-something-it-hasn-t-done-since-2019/?.tsrc=rss",
+        "date": "Nov 14, 16:30",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
+        "date": "Nov 14, 15:41",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+        "date": "Nov 14, 15:07",
+        "sentiment": "positive"
+      },
       {
         "title": "Harvard Cut Nvidia by a Third and Bought AMD",
         "summary": "",
@@ -84,6 +100,14 @@
         "url": "https://www.fool.com/coverage/market-movers/2026/11/14/why-advanced-micro-devices-stock-surged-this-week/?.tsrc=rss",
         "date": "Nov 14, 13:06",
         "sentiment": "positive"
+      },
+      {
+        "title": "Arista Grew 58.5% Last Quarter: Does Nvidia\u2019s CEO Exit Make It a Buy, or a Risk?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/arista-grew-58-5-last-quarter-does-nvidias-ceo-exit-make-it-a-buy-or-a-risk?ref=yahoofinance&tlnk=yf-261114-3pfj9g6c&.tsrc=rss",
+        "date": "Nov 14, 07:29",
+        "sentiment": "neutral"
       },
       {
         "title": "Review & Preview: Moving On",
@@ -108,30 +132,6 @@
         "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-cerebras-surges-over-11-on-record-q3-revenue-and-raised-2026-guidance/?.tsrc=rss",
         "date": "Nov 13, 22:30",
         "sentiment": "positive"
-      },
-      {
-        "title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/?.tsrc=rss",
-        "date": "Nov 13, 22:20",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html?.tsrc=rss",
-        "date": "Nov 13, 22:15",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/?.tsrc=rss",
-        "date": "Nov 13, 22:13",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
@@ -202,6 +202,14 @@
     ],
     "SMCI": [
       {
+        "title": "Super Micro Gets Swept Up in Spreading Nvidia Scandal. Says Megaspeed Was \u201cNever a Customer\u201d",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/super-micro-gets-swept-up-in-spreading-nvidia-scandal-says-megaspeed-was-never-a-customer/?.tsrc=rss",
+        "date": "Nov 14, 16:32",
+        "sentiment": "positive"
+      },
+      {
         "title": "Super Micro, run by Jensen Huang\u2019s friend, says Megaspeed was \u2018never\u2019 its customer",
         "summary": "",
         "source": "Yahoo Finance",
@@ -256,14 +264,6 @@
         "url": "https://www.barchart.com/story/news/8823186/smci-stock-alert-super-micro-computer-slammed-by-alice-huang-linked-server-smuggling-probe?.tsrc=rss",
         "date": "Nov 13, 15:13",
         "sentiment": "positive"
-      },
-      {
-        "title": "SanDisk Stock At $937: Why So Cheap?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/sndk/articles/624470/sandisk-stock-at-937-why-so-cheap/2026-11-13?.tsrc=rss",
-        "date": "Nov 13, 14:56",
-        "sentiment": "neutral"
       }
     ],
     "CENX": [
@@ -729,6 +729,22 @@
     ],
     "AAPL": [
       {
+        "title": "Apple users are about to lose something they've had for 28 years",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years?.tsrc=rss",
+        "date": "Nov 14, 16:07",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia lost $1.6 trillion after Jensen Huang's exit, but Apple's and Uber's CEO transitions offer a blueprint",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-lost-1-6-trillion-154500086.html?.tsrc=rss",
+        "date": "Nov 14, 15:45",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds",
         "summary": "",
         "source": "Yahoo Finance",
@@ -775,25 +791,33 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/1-999-sellout-china-renaissance-211310813.html?.tsrc=rss",
         "date": "Nov 13, 21:13",
         "sentiment": "negative"
-      },
-      {
-        "title": "Inside Jim Cramer\u2019s Charitable Trust: 5 Stocks He Actually Owns",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/inside-jim-cramer-charitable-trust-203302856.html?.tsrc=rss",
-        "date": "Nov 13, 20:33",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/9546104e-d989-381a-ab16-3923f84e3dcc/the-price-tag-on-jensen.html?.tsrc=rss",
-        "date": "Nov 13, 20:32",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Anthropic\u2019s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/?.tsrc=rss",
+        "date": "Nov 14, 15:50",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
+        "date": "Nov 14, 15:07",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Billionaire Bill Ackman Says There\u2019s a Huge Disconnect in Wall Street\u2019s Expectations for Amazon, Microsoft, Meta, and Alphabet",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
+        "date": "Nov 14, 15:05",
+        "sentiment": "neutral"
+      },
       {
         "title": "Harvard Cut Nvidia by a Third and Bought AMD",
         "summary": "",
@@ -833,30 +857,6 @@
         "url": "https://www.tikr.com/blog/scott-galloway-predicts-anthropics-first-trade-opens-15-to-40-higher-thats-great-news-for-alphabet-and-amazon?ref=yahoofinance&tlnk=yf-261114-5vwf9544&.tsrc=rss",
         "date": "Nov 14, 09:50",
         "sentiment": "neutral"
-      },
-      {
-        "title": "3 Cash Flow Stocks Trading Up To 49% Below Fair Value",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html?.tsrc=rss",
-        "date": "Nov 14, 05:14",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Is Alphabet \u201cthe Most Obvious Buy\u201d? Morgan Stanley Sees TPU Sales Jumping to $84 Billion",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/is-alphabet-the-most-obvious-buy-morgan-stanley-sees-tpu-sales-jumping-to-84-billion?ref=yahoofinance&tlnk=yf-261114-xv78r2hc&.tsrc=rss",
-        "date": "Nov 14, 04:06",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Booking Holdings vs. GameStop: Which Consumer Stock Is a Better Buy for 2027?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/13/booking-holdings-vs-gamestop-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-        "date": "Nov 14, 00:32",
-        "sentiment": "positive"
       }
     ],
     "AMSC": [
