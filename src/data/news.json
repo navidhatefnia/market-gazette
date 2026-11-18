@@ -1,81 +1,97 @@
 {
-  "lastUpdated": "11:54 PM",
-  "date": "Tuesday, November 17, 2026",
+  "lastUpdated": "01:48 AM",
+  "date": "Wednesday, November 18, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Dow Jones Futures Rise, Techs Jump As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+        "title": "Dow Jones Futures Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
-        "date": "Nov 17, 23:49",
+        "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise-as.html?.tsrc=rss",
+        "date": "Nov 18, 01:38",
         "sentiment": "positive"
       },
       {
-        "title": "Nvidia's Q3 numbers were pretty good. Its earnings call optics were another story.",
+        "title": "SoFi Is Targeting 100 Million Products by 2030. Here\u2019s What $10,000 Invested Today Could Be Worth if It Gets There.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/nvidias-q3-numbers-were-pretty-good-its-earnings-call-optics-were-another-story-234451647.html?.tsrc=rss",
-        "date": "Nov 17, 23:44",
+        "url": "https://www.fool.com/investing/2026/11/17/sofi-targeting-100-million-products-2030-what-10000-invested-today-could-be-worth-if-it-gets-there/?.tsrc=rss",
+        "date": "Nov 18, 01:25",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia\u2019s 103% Revenue Growth Took a Backseat to Its Internal Drama",
+        "title": "Should You Buy Anthropic Stock on Day 1 or Wait?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/17/nvidias-103-revenue-growth-took-a-backseat-to-its-internal-drama/?.tsrc=rss",
-        "date": "Nov 17, 23:35",
+        "url": "https://www.fool.com/investing/2026/11/17/should-you-buy-anthropic-stock-on-day-1-or-wait/?.tsrc=rss",
+        "date": "Nov 18, 01:20",
         "sentiment": "positive"
       },
       {
-        "title": "Billionaire Stanley Druckenmiller Says He's 'Staying Away' From Stocks. Here's What He Bought and Sold Last Quarter",
+        "title": "Could IBM (IBM) Reshape Scientific Computing With Its New Quantum Classical Platform?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/17/billionaire-stanley-druckenmiller-says-he-s-staying-away-from-stocks-here-s-what-he-bought-and-sold-last-quarter/?.tsrc=rss",
-        "date": "Nov 17, 23:34",
+        "url": "https://finance.yahoo.com/technology/ai/articles/could-ibm-ibm-reshape-scientific-011708713.html?.tsrc=rss",
+        "date": "Nov 18, 01:17",
         "sentiment": "neutral"
       },
       {
-        "title": "AI Agents vs. Banks: Who Will Win? I'm Betting on Banks.",
+        "title": "NVIDIA Q3 Earnings Call Highlights",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/?.tsrc=rss",
-        "date": "Nov 17, 23:33",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Nvidia just sent a powerful signal to SpaceX stock investors",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/stocks/nvidia-spacex-stake-q3-13f?.tsrc=rss",
-        "date": "Nov 17, 23:33",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-nvidia-q3-earnings-call-highlights-2026-11-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 18, 01:12",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+        "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-doubles-quarterly-revenue-first-215151401.html?.tsrc=rss",
-        "date": "Nov 17, 23:32",
+        "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html?.tsrc=rss",
+        "date": "Nov 18, 01:11",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia earnings special coverage: \"The street wants to believe in Nvidia after Jensen\"",
+        "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-special-coverage-the-street-wants-to-believe-in-nvidia-after-jensen-233044562.html?.tsrc=rss",
-        "date": "Nov 17, 23:30",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html?.tsrc=rss",
+        "date": "Nov 18, 01:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter. Here's What It Means for the Stock",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/17/nvidia-has-a-usd118-billion-promise-tucked-inside-its-blowout-quarter-here-s-what-it-means-for-the-stock/?.tsrc=rss",
+        "date": "Nov 18, 01:00",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
       {
-        "title": "Dow Jones Futures Rise, Techs Jump As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+        "title": "Dow Jones Futures Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
-        "date": "Nov 17, 23:49",
+        "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-rise-as.html?.tsrc=rss",
+        "date": "Nov 18, 01:38",
         "sentiment": "positive"
+      },
+      {
+        "title": "NVIDIA Q3 Earnings Call Highlights",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-nvidia-q3-earnings-call-highlights-2026-11-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 18, 01:12",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html?.tsrc=rss",
+        "date": "Nov 18, 01:05",
+        "sentiment": "neutral"
       },
       {
         "title": "Nvidia Is Only 17% of SMH. After Its Beat, the Chip ETF Jumped Almost as Much as Nvidia Did",
@@ -116,25 +132,17 @@
         "url": "https://247wallst.com/investing/2026/11/17/billionaire-david-tepper-grew-his-spacex-stake-17-fold-while-dumping-amd-and-broadcom/?.tsrc=rss",
         "date": "Nov 17, 21:10",
         "sentiment": "neutral"
-      },
-      {
-        "title": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/asus-showcases-full-stack-ai-204300656.html?.tsrc=rss",
-        "date": "Nov 17, 20:43",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Prediction: These Will Be Nvidia\u2019s and AMD\u2019s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy).",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/17/prediction-these-will-be-nvidia-s-and-amd-s-stock-prices-by-the-end-of-2027-hint-only-1-is-a-buy/?.tsrc=rss",
-        "date": "Nov 17, 19:46",
-        "sentiment": "positive"
       }
     ],
     "MU": [
+      {
+        "title": "Micron Technology (MU) Keeps DRAM Price Fixing Lawsuit Alive After Judge Rejection",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-keeps-dram-001843894.html?.tsrc=rss",
+        "date": "Nov 18, 00:18",
+        "sentiment": "neutral"
+      },
       {
         "title": "Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron?",
         "summary": "",
@@ -190,17 +198,17 @@
         "url": "https://finance.yahoo.com/m/8de18bcc-f636-3e12-8e8b-a141738198d9/micron-drops-again.-what.html?.tsrc=rss",
         "date": "Nov 17, 18:12",
         "sentiment": "neutral"
-      },
-      {
-        "title": "A $7.2 Billion Fund Dumps These 3 Stocks",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/a-7-2-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-536g3rmv&.tsrc=rss",
-        "date": "Nov 17, 18:05",
-        "sentiment": "neutral"
       }
     ],
     "SMCI": [
+      {
+        "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html?.tsrc=rss",
+        "date": "Nov 18, 01:05",
+        "sentiment": "neutral"
+      },
       {
         "title": "3 Founder Led Stocks With Revenue Growth Up To 20%",
         "summary": "",
@@ -256,14 +264,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/three-stocks-highest-exposure-nvidia-155154902.html?.tsrc=rss",
         "date": "Nov 17, 15:51",
         "sentiment": "neutral"
-      },
-      {
-        "title": "What Is Driving The Move In Super Micro Computer Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/smci/articles/625665/what-is-driving-the-move-in-super-micro-computer-stock/2026-11-17?.tsrc=rss",
-        "date": "Nov 17, 15:20",
-        "sentiment": "positive"
       }
     ],
     "CENX": [],
@@ -735,6 +735,14 @@
         "sentiment": "negative"
       },
       {
+        "title": "Nvidia with a positive Q3 despite SEC probing Nvidia amid Huang Scandal",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/nvidia-with-a-positive-q3-despite-sec-probing-nvidia-amid-huang-scandal-223224298.html?.tsrc=rss",
+        "date": "Nov 17, 22:32",
+        "sentiment": "positive"
+      },
+      {
         "title": "Fund Manager Lists Three Reasons He Still Won\u2019t Buy Tesla Stock",
         "summary": "",
         "source": "Yahoo Finance",
@@ -781,17 +789,17 @@
         "url": "https://finance.yahoo.com/m/17dca0b9-abeb-3c4b-820e-e165d5a02385/chime-financial%2C-stock-of-the.html?.tsrc=rss",
         "date": "Nov 17, 21:08",
         "sentiment": "positive"
-      },
-      {
-        "title": "Anthropic\u2019s IPO Price Isn\u2019t So Outlandish. Here\u2019s the Case for the Stock.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/b191fb08-44aa-3b9a-8661-c6bbc45c3098/anthropic%E2%80%99s-ipo-price-isn%E2%80%99t.html?.tsrc=rss",
-        "date": "Nov 17, 21:06",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Jim Cramer Warns the Anthropic IPO Windfall Is Going to the Super Rich. Here\u2019s the Backlash He Sees Coming",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/17/jim-cramer-warns-the-anthropic-ipo-windfall-is-going-to-the-super-rich-heres-the-backlash-he-sees-coming/?.tsrc=rss",
+        "date": "Nov 18, 00:07",
+        "sentiment": "neutral"
+      },
       {
         "title": "Amazon and Google Could Own $400 Billion of Anthropic Stock",
         "summary": "",
@@ -846,14 +854,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/481d5163-b671-396e-a2dc-5c0e57fb9c0b/berkshire-hathaway-slashes.html?.tsrc=rss",
         "date": "Nov 17, 21:11",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic\u2019s IPO Price Isn\u2019t So Outlandish. Here\u2019s the Case for the Stock.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/b191fb08-44aa-3b9a-8661-c6bbc45c3098/anthropic%E2%80%99s-ipo-price-isn%E2%80%99t.html?.tsrc=rss",
-        "date": "Nov 17, 21:06",
         "sentiment": "neutral"
       }
     ],
