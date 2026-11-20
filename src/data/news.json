@@ -1,206 +1,222 @@
 {
-  "lastUpdated": "02:14 PM",
+  "lastUpdated": "05:06 PM",
   "date": "Friday, November 20, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Sector Update: Tech Stocks Fall Premarket Friday",
+        "title": "Why Micron Stock Crashed Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-140915827.html?.tsrc=rss",
-        "date": "Nov 20, 14:09",
+        "url": "https://www.fool.com/investing/2026/11/20/why-micron-stock-crashed-today/?.tsrc=rss",
+        "date": "Nov 20, 16:54",
         "sentiment": "neutral"
       },
       {
-        "title": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang\u2019s Return, Analyst Says",
+        "title": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63470295/musk-nvidia-huang?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-        "date": "Nov 20, 14:08",
+        "url": "https://finance.yahoo.com/m/457bf80a-48dc-38fe-adfd-dff2047f04a1/ai-stocks%27-wild-ride-gets.html?.tsrc=rss",
+        "date": "Nov 20, 16:52",
         "sentiment": "neutral"
       },
       {
-        "title": "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+        "title": "SpaceX Eyes \u201cAt Least $32 Billion\u201d of AI Chip Debt the Day Its Biggest Compute Tenant Goes Public",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-tech.html?.tsrc=rss",
-        "date": "Nov 20, 14:05",
+        "url": "https://www.tikr.com/blog/spacex-eyes-at-least-32-billion-of-ai-chip-debt-the-day-its-biggest-compute-tenant-goes-public?ref=yahoofinance&tlnk=yf-261120-95gg2jvh&.tsrc=rss",
+        "date": "Nov 20, 16:52",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Meta and Microsoft Aren't Cutting Server CPU Orders -- Why AMD and Intel Could Benefit",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/meta-microsoft-arent-cutting-server-165207063.html?.tsrc=rss",
+        "date": "Nov 20, 16:52",
         "sentiment": "negative"
       },
       {
-        "title": "Cathie Wood's Ark Has Been Selling Palantir Stock. Under $160, I'd Buy It Now.",
+        "title": "Ripple Is Rapidly Expanding the Potential Use Cases for Its Stablecoin. Here's Why That's Bearish for XRP.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/20/cathie-wood-s-ark-has-been-selling-palantir-stock-under-usd160-i-d-buy-it-now/?.tsrc=rss",
-        "date": "Nov 20, 14:04",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic Stock Falls Sharply After Record IPO",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/ca3ca304-3c18-390a-b39d-ddebc8a727e5/anthropic-stock-falls-sharply.html?.tsrc=rss",
-        "date": "Nov 20, 14:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic stock sinks sharply, while S&P 500 hits worst losing streak since 2024",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/anthropic-stock-sinks-sharply-while-sp-500-hits-worst-losing-streak-since-2024-135521277.html?.tsrc=rss",
-        "date": "Nov 20, 13:55",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Update: US Equity Futures Drop Pre-Bell as Anthropic Shares Decline One Day After Debut",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-135320294.html?.tsrc=rss",
-        "date": "Nov 20, 13:53",
+        "url": "https://www.fool.com/investing/2026/11/20/ripple-is-rapidly-expanding-the-potential-use-case/?.tsrc=rss",
+        "date": "Nov 20, 16:50",
         "sentiment": "negative"
       },
       {
-        "title": "Nvidia\u2019s financing risks could keep AI chip stocks under pressure, analyst says",
+        "title": "BC-Most Active Stocks",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-risks-could-keep-135314222.html?.tsrc=rss",
-        "date": "Nov 20, 13:53",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-164606636.html?.tsrc=rss",
+        "date": "Nov 20, 16:46",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/20/chip-stocks-just-had-a-reversal-last-seen-in-march-2020/?.tsrc=rss",
+        "date": "Nov 20, 16:43",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Anthropic Stock Is Falling Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/?.tsrc=rss",
+        "date": "Nov 20, 16:42",
         "sentiment": "negative"
       }
     ],
     "AMD": [
       {
-        "title": "If AMD Grows at 15% a Year, Here\u2019s What $5,000 Could Become by 2030",
+        "title": "Meta and Microsoft Aren't Cutting Server CPU Orders -- Why AMD and Intel Could Benefit",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/if-amd-grows-at-15-a-year-heres-what-5000-could-become-by-2030/?.tsrc=rss",
-        "date": "Nov 20, 14:06",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Here\u2019s The Real Asymmetry That Keeps Me Buying NVIDIA in the $140s",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/heres-the-real-asymmetry-that-keeps-me-buying-nvidia-in-the-140s/?.tsrc=rss",
-        "date": "Nov 20, 13:45",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Should You Sell Nvidia Stock For A Tax Loss?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/nvda/articles/627207/should-you-sell-nvidia-stock-for-a-tax-loss/2026-11-20?.tsrc=rss",
-        "date": "Nov 20, 13:43",
+        "url": "https://finance.yahoo.com/technology/articles/meta-microsoft-arent-cutting-server-165207063.html?.tsrc=rss",
+        "date": "Nov 20, 16:52",
         "sentiment": "negative"
       },
       {
-        "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+        "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html?.tsrc=rss",
-        "date": "Nov 20, 13:36",
+        "url": "https://247wallst.com/investing/2026/11/20/chip-stocks-just-had-a-reversal-last-seen-in-march-2020/?.tsrc=rss",
+        "date": "Nov 20, 16:43",
         "sentiment": "neutral"
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Nasdaq, Nvidia, Advanced Micro Devices, SanDisk, Nebius Arm Holdings and Anthropic",
+        "title": "AMD Falls on China Risk; Ross Tumbles on Q4 Guidance | Stock Movers",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-130700415.html?.tsrc=rss",
-        "date": "Nov 20, 13:07",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dow Jones Futures: Techs Tumble, Anthropic Dives After Ugly Market Reversal To New Lows",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
-        "date": "Nov 20, 12:55",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Amazon, Nvidia Fell As Anthropic Gained $185 Billion",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/amzn/articles/627187/amazon-nvidia-fell-as-anthropic-gained-185-billion/2026-11-20?.tsrc=rss",
-        "date": "Nov 20, 12:51",
-        "sentiment": "positive"
-      },
-      {
-        "title": "AI Stocks Tumble Across the Globe as Slowdown Fears Mount",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?.tsrc=rss",
-        "date": "Nov 20, 12:32",
+        "url": "https://finance.yahoo.com/video/amd-falls-china-risk-ross-161925499.html?.tsrc=rss",
+        "date": "Nov 20, 16:19",
         "sentiment": "negative"
+      },
+      {
+        "title": "Anthropic shares slide towards IPO price as AI investors reassess valuation",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.proactiveinvestors.com/companies/news/1102201/anthropic-shares-slide-towards-ipo-price-as-ai-investors-reassess-valuation-1102201.html?.tsrc=rss",
+        "date": "Nov 20, 16:16",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today\u2019s Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/801603d1-8318-3eb0-99a6-10147f0d5ed5/anthropic%2C-nvidia%2C-amd%2C.html?.tsrc=rss",
+        "date": "Nov 20, 15:59",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/20/applied-digital-and-core-scientific-sink-12-as-ai-infrastructure-sell-off-deepens-terawulf-tumbles-10/?.tsrc=rss",
+        "date": "Nov 20, 15:56",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Is Micron's Record Inventory A Risk For The Stock?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/mu/articles/627203/is-micron-s-record-inventory-a-risk-for-the-stock/2026-11-20?.tsrc=rss",
+        "date": "Nov 20, 15:55",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Anthropic Shares Retreat After Blockbuster Debut Amid AI Anxiety",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html?.tsrc=rss",
+        "date": "Nov 20, 15:41",
+        "sentiment": "neutral"
       }
     ],
     "MU": [
       {
-        "title": "SanDisk Tumbles 8% as TrendForce Turns Bearish on 2027 NAND Prices; Micron Falls 5%, SK Hynix Slides 4%",
+        "title": "Why Micron Stock Crashed Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/sandisk-tumbles-8-as-trendforce-turns-bearish-on-2027-nand-prices-micron-falls-5-sk-hynix-slides-4/?.tsrc=rss",
-        "date": "Nov 20, 14:09",
+        "url": "https://www.fool.com/investing/2026/11/20/why-micron-stock-crashed-today/?.tsrc=rss",
+        "date": "Nov 20, 16:54",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A $19 Billion Fund Just Bought These 3 Stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/a-19-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261120-8mr35qm6&.tsrc=rss",
+        "date": "Nov 20, 16:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/20/chip-stocks-just-had-a-reversal-last-seen-in-march-2020/?.tsrc=rss",
+        "date": "Nov 20, 16:43",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness \u2014 UBS Says Risk-Reward In Equities Has Become \u2018More Balanced\u2019",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-other-chipmakers-plunge-amid-ai-trade-weakness-ubs-says-risk-reward-in-equities-has-become-more-balanced/cNbSZa1R91c?.tsrc=rss",
+        "date": "Nov 20, 16:11",
         "sentiment": "negative"
       },
       {
-        "title": "Micron\u2019s President Says Memory Has Been Tight \u201cAcross Really Multiple Years.\u201d TrendForce Sees DRAM Prices Rising Through 2027",
+        "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today\u2019s Market",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/microns-president-says-memory-has-been-tight-across-really-multiple-years-trendforce-sees-dram-prices-rising-through-2027?ref=yahoofinance&tlnk=yf-261120-c72c5gfg&.tsrc=rss",
-        "date": "Nov 20, 13:45",
+        "url": "https://finance.yahoo.com/m/801603d1-8318-3eb0-99a6-10147f0d5ed5/anthropic%2C-nvidia%2C-amd%2C.html?.tsrc=rss",
+        "date": "Nov 20, 15:59",
         "sentiment": "neutral"
       },
       {
-        "title": "Should You Sell Nvidia Stock For A Tax Loss?",
+        "title": "Is Micron's Record Inventory A Risk For The Stock?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/nvda/articles/627207/should-you-sell-nvidia-stock-for-a-tax-loss/2026-11-20?.tsrc=rss",
-        "date": "Nov 20, 13:43",
+        "url": "https://www.trefis.com/stock/mu/articles/627203/is-micron-s-record-inventory-a-risk-for-the-stock/2026-11-20?.tsrc=rss",
+        "date": "Nov 20, 15:55",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Anthropic Shares Retreat After Blockbuster Debut Amid AI Anxiety",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html?.tsrc=rss",
+        "date": "Nov 20, 15:41",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia Earns \u201cHighest Risk\u201d as Focus Turns to New Semis Trade",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/nvidia-earns-highest-risk-as-focus-turns-to-new-semis-trade?ref=yahoofinance&tlnk=yf-261120-g8mj8g56&.tsrc=rss",
+        "date": "Nov 20, 15:29",
         "sentiment": "negative"
-      },
-      {
-        "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html?.tsrc=rss",
-        "date": "Nov 20, 13:36",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/20/nvidia-and-micron-cant-make-ai-chips-without-this-growth-stock-heres-why-it-could-soar/?.tsrc=rss",
-        "date": "Nov 20, 13:20",
-        "sentiment": "positive"
-      },
-      {
-        "title": "This Could Be the Most Undervalued AI Stock Heading Into 2027",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/this-could-be-the-most-undervalued-ai-stock-heading-into-2027/?.tsrc=rss",
-        "date": "Nov 20, 13:04",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The S&P 500 Just Had Its Biggest Reversal Since March 2020",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/the-sp-500-just-had-its-biggest-reversal-since-march-2020/?.tsrc=rss",
-        "date": "Nov 20, 12:57",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/76b48d2e-2d9d-3c2f-9f97-1bd6f67ffb01/the-stock-market-has-problems.html?.tsrc=rss",
-        "date": "Nov 20, 12:49",
-        "sentiment": "neutral"
       }
     ],
     "SMCI": [
+      {
+        "title": "HPE's Q4 Earnings Likely to Reflect Rising Demand Across All Offerings",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hpes-q4-earnings-likely-reflect-142300207.html?.tsrc=rss",
+        "date": "Nov 20, 14:23",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Zacks Industry Outlook Highlights Western Digital, Super Micro Computer and Quantum",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-western-131900064.html?.tsrc=rss",
+        "date": "Nov 20, 13:19",
+        "sentiment": "positive"
+      },
       {
         "title": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
         "summary": "",
@@ -248,22 +264,6 @@
         "url": "https://www.barchart.com/story/news/8921952/who-is-cenly-chen-inside-the-alleged-family-ties-between-nvidia-supermicro-and-illicit-gpu-sales?.tsrc=rss",
         "date": "Nov 19, 17:51",
         "sentiment": "positive"
-      },
-      {
-        "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/vertivs-800-vdc-push-boosts-164600968.html?.tsrc=rss",
-        "date": "Nov 19, 16:46",
-        "sentiment": "positive"
-      },
-      {
-        "title": "SMCI vs. NTAP: Which Stock Is the Better Value Option?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/smci-vs-ntap-stock-better-154002713.html?.tsrc=rss",
-        "date": "Nov 19, 15:40",
-        "sentiment": "neutral"
       }
     ],
     "CENX": [
@@ -330,6 +330,22 @@
     ],
     "ASML": [
       {
+        "title": "European Stocks Close Sharply Lower in Friday Trading Amid Tech Selloff",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-sharply-lower-164711944.html?.tsrc=rss",
+        "date": "Nov 20, 16:47",
+        "sentiment": "negative"
+      },
+      {
+        "title": "AMAT's AGS Gains From Growing Installed Base: What's Ahead?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amats-ags-gains-growing-installed-150200974.html?.tsrc=rss",
+        "date": "Nov 20, 15:02",
+        "sentiment": "positive"
+      },
+      {
         "title": "A $3 Billion Fund Is Betting Big on Applied Materials",
         "summary": "",
         "source": "Yahoo Finance",
@@ -376,22 +392,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/why-ken-fisher-keeps-adding-181001507.html?.tsrc=rss",
         "date": "Nov 19, 18:10",
         "sentiment": "neutral"
-      },
-      {
-        "title": "ASML Rides on Improving Profitability: Will It Sustain?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-rides-improving-profitability-sustain-170800985.html?.tsrc=rss",
-        "date": "Nov 19, 17:08",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Intel Soars 8% on First Outside 18A Customer as CEO Says \u201cI Just Cannot Supply Enough\u201d",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/intel-soars-8-on-first-outside-18a-customer-as-ceo-says-i-just-cannot-supply-enough?ref=yahoofinance&tlnk=yf-261119-f6cmv7fm&.tsrc=rss",
-        "date": "Nov 19, 15:01",
-        "sentiment": "positive"
       }
     ],
     "AU": [
@@ -445,6 +445,14 @@
       }
     ],
     "PLTR": [
+      {
+        "title": "If You Invest $500 in Palantir Each Month Starting Now, This is What You\u2019d Have in 5 Years",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/20/if-you-invest-500-in-palantir-each-month-starting-now-this-is-what-youd-have-in-5-years/?.tsrc=rss",
+        "date": "Nov 20, 16:04",
+        "sentiment": "neutral"
+      },
       {
         "title": "Cathie Wood's Ark Has Been Selling Palantir Stock. Under $160, I'd Buy It Now.",
         "summary": "",
@@ -500,14 +508,6 @@
         "url": "https://www.fool.com/coverage/better-buy/2026/11/19/salesforce-vs-palantir-technologies-which-software-stock-is-a-better-buy-for-2027/?.tsrc=rss",
         "date": "Nov 19, 19:52",
         "sentiment": "positive"
-      },
-      {
-        "title": "How Does Palantir Technologies (PLTR) FedStart Milestone Change Its Federal AI Case?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/does-palantir-technologies-pltr-fedstart-191135783.html?.tsrc=rss",
-        "date": "Nov 19, 19:11",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [
@@ -698,147 +698,146 @@
     ],
     "AAPL": [
       {
-        "title": "Automox Makes Canopy Generally Available to Extend Existing MDMs",
+        "title": "Underweighting Apple (AAPL) Detracts from the Fund\u2019s Relative Quarterly Returns",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/automox-makes-canopy-generally-available-140000120.html?.tsrc=rss",
-        "date": "Nov 20, 14:00",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/underweighting-apple-aapl-detracts-fund-165211632.html?.tsrc=rss",
+        "date": "Nov 20, 16:52",
         "sentiment": "neutral"
       },
       {
-        "title": "3 Tech Dividend Stocks Retirees Shouldn\u2019t Overlook",
+        "title": "Apple's secret AI agent shows John Ternus is done sitting out the AI race",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/3-tech-dividend-stocks-retirees-shouldnt-overlook/?.tsrc=rss",
-        "date": "Nov 20, 13:47",
+        "url": "https://finance.yahoo.com/markets/article/apples-secret-ai-agent-shows-john-ternus-is-done-sitting-out-the-ai-race-164226953.html?.tsrc=rss",
+        "date": "Nov 20, 16:42",
         "sentiment": "neutral"
       },
       {
-        "title": "Own Dell Or HPE? Look Past The Record Backlog",
+        "title": "Asia Offers Explosive Innovation at Bargain Prices. 16 Stock Picks From Our Roundtable Experts.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/dell/articles/627165/own-dell-or-hpe-look-past-the-record-backlog/2026-11-20?.tsrc=rss",
-        "date": "Nov 20, 13:02",
+        "url": "https://finance.yahoo.com/m/2b9b2e76-5522-34df-b265-ec18f3dc350c/asia-offers-explosive.html?.tsrc=rss",
+        "date": "Nov 20, 16:18",
         "sentiment": "positive"
       },
       {
-        "title": "343 Companies Report $28.5 Billion In Trump Tariff Refunds. Here's Where The Money Is Going.",
+        "title": "Anthropic shares slide towards IPO price as AI investors reassess valuation",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.ibtimes.com/us-companies-tariff-refunds-supreme-court-ruling-3810008?.tsrc=rss",
-        "date": "Nov 20, 12:48",
+        "url": "https://www.proactiveinvestors.com/companies/news/1102201/anthropic-shares-slide-towards-ipo-price-as-ai-investors-reassess-valuation-1102201.html?.tsrc=rss",
+        "date": "Nov 20, 16:16",
         "sentiment": "neutral"
       },
       {
-        "title": "Apple Might Be About to Become an AI Stock\u2014but It\u2019s Still Dodging the Tech Selloff",
+        "title": "Banks race to patch vulnerabilities amid amplified tech outage risk",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/218adf20-fceb-3955-ab5b-5c4bc9cf9107/apple-might-be-about-to.html?.tsrc=rss",
-        "date": "Nov 20, 12:44",
+        "url": "https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329/?.tsrc=rss",
+        "date": "Nov 20, 15:48",
         "sentiment": "negative"
       },
       {
-        "title": "Apple Is Building an AI Agent That Can Use Your Computer for You",
+        "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/apple-is-building-an-ai-agent-that-can-use-your-computer-for-you/?.tsrc=rss",
-        "date": "Nov 20, 12:38",
+        "url": "https://finance.yahoo.com/m/681ca0c6-76b1-321b-bdd4-bb83acc818fb/apple-stock-polishes-breakout.html?.tsrc=rss",
+        "date": "Nov 20, 15:35",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Does Huang's Exit Sink Nvidia Stock? History Is Split",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/nvda/articles/627190/does-huang-s-exit-sink-nvidia-stock-history-is-split/2026-11-20?.tsrc=rss",
+        "date": "Nov 20, 15:25",
         "sentiment": "neutral"
       },
       {
-        "title": "This Week In Cloud AI - AI Action Engine Revolutionizes Cloud Cost Management",
+        "title": "$1 Million In Microsoft 10 Years Ago: Worth It?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-action-123755581.html?.tsrc=rss",
-        "date": "Nov 20, 12:37",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Mark Gurman Says Apple Is \u201cFive Plus Years Behind\u201d in AI. Its Delayed Glasses Are Meta\u2019s Opening",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/mark-gurman-says-apple-is-five-plus-years-behind-in-ai-its-delayed-glasses-are-metas-opening?ref=yahoofinance&tlnk=yf-261120-92c97fc8&.tsrc=rss",
-        "date": "Nov 20, 12:35",
+        "url": "https://www.trefis.com/stock/msft/articles/627168/1-million-in-microsoft-10-years-ago-worth-it/2026-11-20?.tsrc=rss",
+        "date": "Nov 20, 15:22",
         "sentiment": "neutral"
       }
     ],
     "GOOGL": [
       {
-        "title": "Anthropic Sinks 14% on Day Two as AI Sell-Off Spreads; CoreWeave Falls 6%, Amazon Slips 2%",
+        "title": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/anthropic-sinks-14-on-day-two-as-ai-sell-off-spreads-coreweave-falls-6-amazon-slips-2/?.tsrc=rss",
-        "date": "Nov 20, 14:07",
+        "url": "https://finance.yahoo.com/m/457bf80a-48dc-38fe-adfd-dff2047f04a1/ai-stocks%27-wild-ride-gets.html?.tsrc=rss",
+        "date": "Nov 20, 16:52",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "SpaceX Eyes \u201cAt Least $32 Billion\u201d of AI Chip Debt the Day Its Biggest Compute Tenant Goes Public",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/spacex-eyes-at-least-32-billion-of-ai-chip-debt-the-day-its-biggest-compute-tenant-goes-public?ref=yahoofinance&tlnk=yf-261120-95gg2jvh&.tsrc=rss",
+        "date": "Nov 20, 16:52",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A $12 Billion Fund Dumps These 3 Stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/a-12-billion-fund-dumps-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261120-p3fxqc5q&.tsrc=rss",
+        "date": "Nov 20, 16:43",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Investors Might Be Making a Big Mistake by Overlooking This Growth Stock",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/20/investors-might-be-making-a-big-mistake-by-overlooking-this-growth-stock/?.tsrc=rss",
+        "date": "Nov 20, 16:34",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Scott Bessent Says Trump-Xi Talks Did Not Address Jensen Huang, Left Nvidia H200 Policy Unchanged",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/scott-bessent-says-trump-xi-talks-did-not-address-jensen-huang-left-nvidia-h200-policy-unchanged/cNbSZuYR915?.tsrc=rss",
+        "date": "Nov 20, 16:32",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia Stock Falls 40% From Its High. It\u2019s Getting Ugly but There\u2019s Hope.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/30e2a4ab-b95f-395f-9f4d-e4058f562e01/nvidia-stock-falls-40%25-from.html?.tsrc=rss",
+        "date": "Nov 20, 16:27",
         "sentiment": "negative"
       },
       {
-        "title": "Spirit of St. Louis AI Innovation Center Launches First Competition to Address Humanitarian Challenges Using AI for Good",
+        "title": "Veteran investors talk new book, 'demystifying' financial jargon to invest sooner and smarter",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/spirit-st-louis-ai-innovation-134300226.html?.tsrc=rss",
-        "date": "Nov 20, 13:43",
+        "url": "https://finance.yahoo.com/video/veteran-investors-talk-new-book-demystifying-financial-jargon-to-invest-sooner-and-smarter-161606156.html?.tsrc=rss",
+        "date": "Nov 20, 16:16",
         "sentiment": "neutral"
       },
       {
-        "title": "Jim Cramer\u2019s Favorite Chartist Sees 2 Signs of an Alphabet Stock Rally",
+        "title": "SDMC's Third Consecutive Year at Google's TV Summit, Showcasing Home Physical AI",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/jim-cramers-favorite-chartist-sees-2-signs-of-an-alphabet-stock-rally/?.tsrc=rss",
-        "date": "Nov 20, 13:37",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Google's Gemini Tasks Seen As Challenger To Meta's Muse In AI Battle",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/e541372f-4da6-3077-8e49-a78384b2e543/google%27s-gemini-tasks-seen-as.html?.tsrc=rss",
-        "date": "Nov 20, 13:11",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "A $12 Billion Fund Just Bought These 3 Stocks",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/unisphere-establishment-alphabet-cadence-kkr-stocks?ref=yahoofinance&tlnk=yf-261120-6cm2cv28&.tsrc=rss",
-        "date": "Nov 20, 13:04",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Can Microsoft catch up in the frontier AI race?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html?.tsrc=rss",
-        "date": "Nov 20, 13:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Amazon, Nvidia Fell As Anthropic Gained $185 Billion",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/amzn/articles/627187/amazon-nvidia-fell-as-anthropic-gained-185-billion/2026-11-20?.tsrc=rss",
-        "date": "Nov 20, 12:51",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Apple Is Building an AI Agent That Can Use Your Computer for You",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/20/apple-is-building-an-ai-agent-that-can-use-your-computer-for-you/?.tsrc=rss",
-        "date": "Nov 20, 12:38",
-        "sentiment": "neutral"
+        "url": "https://finance.yahoo.com/technology/ai/articles/sdmcs-third-consecutive-googles-tv-155700409.html?.tsrc=rss",
+        "date": "Nov 20, 15:57",
+        "sentiment": "negative"
       }
     ],
-    "AMSC": [
-      {
-        "title": "5 Best Renewable & Clean Energy Stocks To Buy According to Analysts",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/5-best-renewable-clean-energy-144150141.html?.tsrc=rss",
-        "date": "Nov 13, 14:41",
-        "sentiment": "positive"
-      }
-    ],
+    "AMSC": [],
     "AMAT": [
+      {
+        "title": "AMAT's AGS Gains From Growing Installed Base: What's Ahead?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amats-ags-gains-growing-installed-150200974.html?.tsrc=rss",
+        "date": "Nov 20, 15:02",
+        "sentiment": "positive"
+      },
       {
         "title": "A $3 Billion Fund Is Betting Big on Applied Materials",
         "summary": "",
@@ -894,17 +893,17 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/asml-rides-improving-profitability-sustain-170800985.html?.tsrc=rss",
         "date": "Nov 19, 17:08",
         "sentiment": "positive"
-      },
-      {
-        "title": "What Have Lattice Stock Holders Had To Sit Through?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/lscc/articles/626876/what-have-lattice-stock-holders-had-to-sit-through/2026-11-19?.tsrc=rss",
-        "date": "Nov 19, 17:04",
-        "sentiment": "neutral"
       }
     ],
     "GLD": [
+      {
+        "title": "Dow Drops 1,100 Points: 6 Defensive Moves for Worried Boomers and Gen X Investors",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/personal-finance/2026/11/20/dow-drops-1100-points-6-defensive-moves-for-worried-boomers-and-gen-x-investors/?.tsrc=rss",
+        "date": "Nov 20, 14:36",
+        "sentiment": "negative"
+      },
       {
         "title": "Gold Just Crashed Below $3,700 and December Could Make It Worse",
         "summary": "",
@@ -960,14 +959,6 @@
         "url": "https://stocktwits.com/news-articles/markets/equity/gld-slv-sink-to-near-14-month-lows-gold-silver-prices/cNbXzasR9LJ?.tsrc=rss",
         "date": "Nov 18, 10:46",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Gold is in a bear market \u2014 and hackproof in an increasingly digital world. Is now a good time to buy?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?.tsrc=rss",
-        "date": "Nov 17, 20:24",
-        "sentiment": "positive"
       }
     ]
   }
