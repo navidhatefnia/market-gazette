@@ -1,81 +1,89 @@
 {
-  "lastUpdated": "11:41 PM",
-  "date": "Thursday, November 19, 2026",
+  "lastUpdated": "01:24 AM",
+  "date": "Friday, November 20, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
+        "title": "Dow Jones Futures: Techs Slide, Anthropic Retreats After Ugly Market Reversal To New Lows",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-ugly.html?.tsrc=rss",
-        "date": "Nov 19, 23:36",
+        "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
+        "date": "Nov 20, 01:17",
         "sentiment": "neutral"
       },
       {
-        "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
+        "title": "What Elastic (ESTC) Said on Its Q2 Earnings Call",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/etf/2026/11/19/a-66-year-old-with-600000-in-voo-owns-nvidia-without-ever-buying-a-share-schd-owns-none/?.tsrc=rss",
-        "date": "Nov 19, 23:32",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-elastic-estc-said-on-its-q2-earnings-call-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "date": "Nov 20, 01:13",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The S&P 500 Just Fell 4 Straight Weeks From a Record High. Here\u2019s Why I\u2019m Buying the Dip.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/19/the-s-and-p-500-just-fell-4-straight-weeks-from-a-record-high-here-s-why-i-m-buying-the-dip/?.tsrc=rss",
+        "date": "Nov 20, 01:10",
         "sentiment": "positive"
       },
       {
-        "title": "Here's What $1,000 Invested at Anthropic's IPO Price Is Worth Now",
+        "title": "Why Universal Technical Institute Stock Tanked on Thursday",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/19/here-s-what-usd1-000-invested-at-anthropic-s-ipo-price-is-worth-now/?.tsrc=rss",
-        "date": "Nov 19, 23:32",
+        "url": "https://www.fool.com/investing/2026/11/19/why-universal-technical-institute-stock-tanked-on-thursday/?.tsrc=rss",
+        "date": "Nov 20, 01:06",
         "sentiment": "neutral"
       },
       {
-        "title": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
+        "title": "Why Is BILL Stock Going Up?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/california-ag-subpoenas-nvidia-over-232352666.html?.tsrc=rss",
-        "date": "Nov 19, 23:23",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Cathie Wood sells $85 million of tumbling semiconductor stock",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-85-million-dollars-tumbling-semiconductor-stock-nvda-nvidia?.tsrc=rss",
-        "date": "Nov 19, 23:17",
-        "sentiment": "negative"
-      },
-      {
-        "title": "He Retires at 53 on a Decade of AI-Stock Gains and Starts Fixed IRA Withdrawals of $40,000 a Year. Changing the Schedule Before 59\u00bd Triggers a 10% Penalty on Every Past Withdrawal",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/personal-finance/2026/11/19/he-retires-at-53-on-a-decade-of-ai-stock-gains-and-starts-fixed-ira-withdrawals-of-40000-a-year-changing-the-schedule-before-59%c2%bd-triggers-a-10-penalty-on-every-past-withdrawal/?.tsrc=rss",
-        "date": "Nov 19, 23:03",
+        "url": "https://www.trefis.com/stock/bill/articles/626273/why-is-bill-stock-going-up/2026-11-19?.tsrc=rss",
+        "date": "Nov 20, 01:04",
         "sentiment": "positive"
       },
       {
-        "title": "Grand Theft Auto VI outplays Nvidia and SpaceX",
+        "title": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/crypto/markets/grand-theft-auto-vi-outplays-nvidia-and-spacex?.tsrc=rss",
-        "date": "Nov 19, 23:00",
-        "sentiment": "neutral"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-accused-hiding-010413571.html?.tsrc=rss",
+        "date": "Nov 20, 01:04",
+        "sentiment": "positive"
       },
       {
-        "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+        "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/19/this-beaten-down-semiconductor-stock-could-soar-in-2027/?.tsrc=rss",
-        "date": "Nov 19, 22:45",
-        "sentiment": "neutral"
+        "url": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?.tsrc=rss",
+        "date": "Nov 20, 01:03",
+        "sentiment": "negative"
+      },
+      {
+        "title": "The market could fall 10-12% \u2014 stocks to buy and sell now",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/video/the-market-could-fall-10-12-stock-to-buy-and-sell-now?.tsrc=rss",
+        "date": "Nov 20, 01:00",
+        "sentiment": "negative"
       }
     ],
     "AMD": [
       {
-        "title": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
+        "title": "Dow Jones Futures: Techs Slide, Anthropic Retreats After Ugly Market Reversal To New Lows",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-ugly.html?.tsrc=rss",
-        "date": "Nov 19, 23:36",
+        "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
+        "date": "Nov 20, 01:17",
         "sentiment": "neutral"
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/19/1-unstoppable-stock-to-buy-before-it-joins-hot-tickers-in-the-1-3-trillion-club/?.tsrc=rss",
+        "date": "Nov 20, 00:52",
+        "sentiment": "positive"
       },
       {
         "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
@@ -83,6 +91,14 @@
         "source": "Yahoo Finance",
         "url": "https://beincrypto.com/tech-stocks-bear-market-record-highs/?.tsrc=rss",
         "date": "Nov 19, 22:40",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Shots Fired: Hunterbrook Shorts AMD Over China. Its China and Hong Kong Billing Share Is Nearly 2.5x Nvidia\u2019s",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/shots-fired-hunterbrook-shorts-amd-over-china-its-china-and-hong-kong-billing-share-is-nearly-2-5x-nvidias?ref=yahoofinance&tlnk=yf-261119-fh8ffhc8&.tsrc=rss",
+        "date": "Nov 19, 22:37",
         "sentiment": "neutral"
       },
       {
@@ -116,22 +132,6 @@
         "url": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-dow-tanks.html?.tsrc=rss",
         "date": "Nov 19, 21:45",
         "sentiment": "negative"
-      },
-      {
-        "title": "Chip Stocks Waver On Anthropic IPO, AI Prospects, AMD Short",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/cc197e22-85d3-3a44-97b9-12111805ce48/chip-stocks-waver-on.html?.tsrc=rss",
-        "date": "Nov 19, 21:18",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "AMD Shares Tumble 7% After Short Seller Questions China Ties. Chipmaker Denies Allegations.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979?.tsrc=rss",
-        "date": "Nov 19, 21:18",
-        "sentiment": "negative"
       }
     ],
     "MU": [
@@ -141,6 +141,14 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-dips-more-broader-214503318.html?.tsrc=rss",
         "date": "Nov 19, 21:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price?.tsrc=rss",
+        "date": "Nov 19, 21:12",
         "sentiment": "neutral"
       },
       {
@@ -190,14 +198,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-intel-micron-dell-stocks-185029536.html?.tsrc=rss",
         "date": "Nov 19, 18:50",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Micron CEO Has a Stark Message for Memory Chip Buyers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/micron-ceo-stark-message-memory-184731434.html?.tsrc=rss",
-        "date": "Nov 19, 18:47",
-        "sentiment": "positive"
       }
     ],
     "SMCI": [
@@ -208,6 +208,22 @@
         "url": "https://www.ibtimes.com/former-nvidia-sales-chief-china-ai-server-scheme-3809981?.tsrc=rss",
         "date": "Nov 19, 19:49",
         "sentiment": "negative"
+      },
+      {
+        "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/8922932/muddy-waters-has-issued-a-new-short-call-on-nvidia-i-still-expect-nvda-stock-to-grind-higher?.tsrc=rss",
+        "date": "Nov 19, 18:53",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Who is Cenly Chen? Inside the Alleged Family Ties Between Nvidia, Supermicro, and Illicit GPU Sales",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/8921952/who-is-cenly-chen-inside-the-alleged-family-ties-between-nvidia-supermicro-and-illicit-gpu-sales?.tsrc=rss",
+        "date": "Nov 19, 17:51",
+        "sentiment": "positive"
       },
       {
         "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
@@ -248,22 +264,6 @@
         "url": "https://www.tikr.com/blog/dell-is-down-16-in-a-week-steve-eisman-warns-it-will-also-slow-along-with-nvidia-time-to-buy?ref=yahoofinance&tlnk=yf-261119-36xcv89h&.tsrc=rss",
         "date": "Nov 19, 11:34",
         "sentiment": "negative"
-      },
-      {
-        "title": "Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-ships-201020693.html?.tsrc=rss",
-        "date": "Nov 18, 20:10",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Supermicro Has an AI Bottleneck and Is Turning to AMD",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-ai-bottleneck-turning-amd-190459248.html?.tsrc=rss",
-        "date": "Nov 18, 19:04",
-        "sentiment": "positive"
       }
     ],
     "CENX": [
@@ -689,6 +689,22 @@
     ],
     "AAPL": [
       {
+        "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/19/1-unstoppable-stock-to-buy-before-it-joins-hot-tickers-in-the-1-3-trillion-club/?.tsrc=rss",
+        "date": "Nov 20, 00:52",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Apple May Try to Challenge Meta for Personal Agent Supremacy",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/218adf20-fceb-3955-ab5b-5c4bc9cf9107/apple-may-try-to-challenge.html?.tsrc=rss",
+        "date": "Nov 19, 23:51",
+        "sentiment": "positive"
+      },
+      {
         "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence \u2014  ANT, META, AAPL, GME In Focus",
         "summary": "",
         "source": "Yahoo Finance",
@@ -735,25 +751,33 @@
         "url": "https://finance.yahoo.com/video/anthropic-has-a-17-fold-revenue-growth-hurdle-to-tackle-a-closer-look-211340437.html?.tsrc=rss",
         "date": "Nov 19, 21:13",
         "sentiment": "positive"
-      },
-      {
-        "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/681ca0c6-76b1-321b-bdd4-bb83acc818fb/apple-stock-polishes-breakout.html?.tsrc=rss",
-        "date": "Nov 19, 21:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That\u2019s What Tilt\u2019s New Investing Tool Modeled",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63457684/anthropic-ipo-nvidia?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-        "date": "Nov 19, 20:44",
-        "sentiment": "positive"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Is Your VOO Fund Secretly An AI Bet?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19?.tsrc=rss",
+        "date": "Nov 20, 00:58",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Anthropic\u2019s Margins Will Be \u201cProbably Better Than a Hyperscaler,\u201d Says Its Most Bullish Analyst. Here\u2019s What That Takes",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/anthropics-margins-will-be-probably-better-than-a-hyperscaler-says-its-most-bullish-analyst-heres-what-that-takes?ref=yahoofinance&tlnk=yf-261119-7x5g2cff&.tsrc=rss",
+        "date": "Nov 20, 00:05",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Anthropic Just Went Public at $1.5 Trillion. VOO Won\u2019t Own a Share Until Late 2027 at the Earliest",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/etf/2026/11/19/anthropic-just-went-public-at-1-5-trillion-voo-wont-own-a-share-until-late-2027-at-the-earliest/?.tsrc=rss",
+        "date": "Nov 19, 23:52",
+        "sentiment": "neutral"
+      },
       {
         "title": "Anthropic\u2019s Record IPO Is Good News for Hut 8. Here\u2019s the Number That Matters",
         "summary": "",
@@ -793,30 +817,6 @@
         "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-googles-stake/?.tsrc=rss",
         "date": "Nov 19, 22:18",
         "sentiment": "negative"
-      },
-      {
-        "title": "Anthropic Closes Up 17% While Nasdaq Falls; Mohamed El-Erian Calls It \u2018Making Room\u2019 For AI",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-closes-up-17-while-nasdaq-falls-mohamed-el-erian-calls-it-making-room-for-ai/cNbinSRR90u?.tsrc=rss",
-        "date": "Nov 19, 22:01",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Trump\u2019s Latest Media Lawsuit Can Proceed, Judge Rules. What Could Happen If He Prevails.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/468da353-772e-3a65-89a1-9052970c436e/trump%E2%80%99s-latest-media-lawsuit.html?.tsrc=rss",
-        "date": "Nov 19, 21:56",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today\u2019s Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/65710a12-1ba7-3685-a3c3-30d9e0878af7/anthropic%2C-amd%2C-alphabet%2C.html?.tsrc=rss",
-        "date": "Nov 19, 21:47",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [
