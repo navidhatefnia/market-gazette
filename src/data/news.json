@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "10:16 PM",
+  "lastUpdated": "11:52 PM",
   "date": "Saturday, November 21, 2026",
   "news": {
     "NVDA": [
+      {
+        "title": "Alphabet Stock Just Hit a 1-Year Low. Why Is Google's Parent Borrowing So Much Money?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
+        "date": "Nov 21, 23:20",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.cryptoprowl.com/releases/nvidia-falls-48-from-peak-as-ai-selloff-spreads-to-bitcoin-and-crypto-8017?.tsrc=rss",
+        "date": "Nov 21, 22:50",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Nvidia's new China threat could reach your 401(k)",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/retirement/nvidias-new-china-threat-could-reach-your-401k?.tsrc=rss",
+        "date": "Nov 21, 22:47",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novo Nordisk's Wegovy Pill Is Capturing 80% of New Oral Obesity Prescriptions. Is NVO Stock a Buy?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/novo-nordisks-wegovy-pill-is-capturing-80-of-new-oral-obesity-prescriptions-is-nvo-stock-a-buy/?.tsrc=rss",
+        "date": "Nov 21, 22:35",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Defense Stocks Fell After the Midterms. Here\u2019s the 1 Defense Name I\u2019d Buy Anyway -- and Why It Isn\u2019t Lockheed Martin.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/defense-stocks-fell-after-the-midterms-heres-the-1-defense-name-id-buy-anyway-and-why-it-isnt-lockheed-martin/?.tsrc=rss",
+        "date": "Nov 21, 22:25",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Is Tilray a Buy at Its Record Low, or Is It a Value Trap?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/is-tilray-a-buy-at-its-record-low-or-is-it-a-value-trap/?.tsrc=rss",
+        "date": "Nov 21, 22:11",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Prediction: This Will Be Nvidia\u2019s Stock Price in 2027 After Its Phenomenal Q3 Results",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/prediction-this-will-be-nvidia-s-stock-price-in-2027-after-its-phenomenal-q3-results/?.tsrc=rss",
+        "date": "Nov 21, 22:07",
+        "sentiment": "neutral"
+      },
       {
         "title": "Nvidia faces US accounting probe amid deepening turmoil: media",
         "summary": "",
@@ -10,65 +66,17 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-us-accounting-probe-215354861.html?.tsrc=rss",
         "date": "Nov 21, 21:53",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/21/renaissance-technologies-grew-its-sandisk-stake-more-than-55-fold-to-481-million/?.tsrc=rss",
-        "date": "Nov 21, 21:43",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Verizon Pays Out $11.7 Billion a Year in Dividends. Here\u2019s the Free Cash Flow Math Behind Its 6.2%-Yielding Payout.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/21/verizon-pays-out-usd11-7-billion-a-year-in-dividends-here-s-the-free-cash-flow-math-behind-its-6-2-yielding-payout/?.tsrc=rss",
-        "date": "Nov 21, 21:23",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Worried About Black Monday? What Wall Street Says Could Happen.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/32305bc8-6a1c-3b7f-af69-650d80df753a/worried-about-black-monday%3F.html?.tsrc=rss",
-        "date": "Nov 21, 21:22",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/21/micron-stock-just-hit-its-lowest-price-since-may-i-d-buy-more-now/?.tsrc=rss",
-        "date": "Nov 21, 21:12",
-        "sentiment": "positive"
-      },
-      {
-        "title": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-selloff-opened-ways-play-211024484.html?.tsrc=rss",
-        "date": "Nov 21, 21:10",
-        "sentiment": "negative"
-      },
-      {
-        "title": "A tale of two Nvidias",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tale-two-nvidias-210742550.html?.tsrc=rss",
-        "date": "Nov 21, 21:07",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Is USA Rare Earth Stock a Buy Now?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/21/is-usa-rare-earth-stock-a-buy-now/?.tsrc=rss",
-        "date": "Nov 21, 21:05",
-        "sentiment": "positive"
       }
     ],
     "AMD": [
+      {
+        "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.cryptoprowl.com/releases/nvidia-falls-48-from-peak-as-ai-selloff-spreads-to-bitcoin-and-crypto-8017?.tsrc=rss",
+        "date": "Nov 21, 22:50",
+        "sentiment": "negative"
+      },
       {
         "title": "Cathie Wood Doubles Down On \u2018Highest Conviction Names\u2019 Nvidia, Tesla and AMD As Cyclical Tech Stocks Get \u2018Slaughtered\u2019 Amid Market Pullback",
         "summary": "",
@@ -124,14 +132,6 @@
         "url": "https://www.fool.com/investing/2026/11/21/nvidia-just-issued-a-major-warning-to-amd-and-intel-stock-investors/?.tsrc=rss",
         "date": "Nov 21, 12:14",
         "sentiment": "negative"
-      },
-      {
-        "title": "Supermicro Stock In Focus After AI Revenue Outlook Lift",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-focus-ai-revenue-121208287.html?.tsrc=rss",
-        "date": "Nov 21, 12:12",
-        "sentiment": "positive"
       }
     ],
     "MU": [
@@ -764,6 +764,22 @@
     ],
     "GOOGL": [
       {
+        "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+        "date": "Nov 21, 23:39",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Alphabet Stock Just Hit a 1-Year Low. Why Is Google's Parent Borrowing So Much Money?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
+        "date": "Nov 21, 23:20",
+        "sentiment": "positive"
+      },
+      {
         "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
         "summary": "",
         "source": "Yahoo Finance",
@@ -809,22 +825,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
         "date": "Nov 21, 16:48",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Anthropic Owes $71 Billion for Compute Within a Year, \u201c87% of Current Run Rate Revenue,\u201d per Scott Galloway",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/anthropic-owes-71-billion-for-compute-within-a-year-87-of-current-run-rate-revenue-per-scott-galloway?ref=yahoofinance&tlnk=yf-261121-97jx5h99&.tsrc=rss",
-        "date": "Nov 21, 16:20",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Warren Buffett\u2019s Top 10 Stock Picks: Latest 13F",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-top-10-stock-161330448.html?.tsrc=rss",
-        "date": "Nov 21, 16:13",
         "sentiment": "neutral"
       }
     ],
