@@ -1,74 +1,82 @@
 {
-  "lastUpdated": "01:46 AM",
+  "lastUpdated": "03:24 AM",
   "date": "Tuesday, November 24, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
+        "title": "Dell Technologies (DELL) Roars Back, Gets 2 Major Catalysts Working in Its Favor",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-rejoices-jensen-huang-second-013439777.html?.tsrc=rss",
-        "date": "Nov 24, 01:34",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-roars-back-030939608.html?.tsrc=rss",
+        "date": "Nov 24, 03:09",
         "sentiment": "neutral"
       },
       {
-        "title": "CFO Colette Kress Just Made This Subtle Shift That Could Save Nvidia Shareholders",
+        "title": "Anthropic Stock Fell About 20% From Its First Trade in Its First 2 Days. Here's the Price at Which I'd Buy It.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/23/cfo-colette-kress-just-made-this-subtle-shift-that-could-save-nvidia-shareholders/?.tsrc=rss",
-        "date": "Nov 24, 01:26",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Best Move Investors Should Make",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/23/if-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-best-move-investors-should-make/?.tsrc=rss",
-        "date": "Nov 24, 01:20",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia reinstates Jensen Huang as CEO",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/?.tsrc=rss",
-        "date": "Nov 24, 01:19",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/?.tsrc=rss",
-        "date": "Nov 24, 01:17",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/?.tsrc=rss",
-        "date": "Nov 24, 01:12",
+        "url": "https://www.fool.com/investing/2026/11/23/anthropic-stock-fell-about-20-from-its-first-trade-in-its-first-2-days-here-s-the-price-at-which-i-d-buy-it/?.tsrc=rss",
+        "date": "Nov 24, 03:07",
         "sentiment": "positive"
       },
       {
-        "title": "U.S. stock futures steady after Nvidia-led Wall Street rally",
+        "title": "Navitas Semiconductor (NVTS) Just Posted a Monster Comeback. Here\u2019s What Changed",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-nvidia-004836470.html?.tsrc=rss",
-        "date": "Nov 24, 00:48",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/navitas-semiconductor-nvts-just-posted-030519692.html?.tsrc=rss",
+        "date": "Nov 24, 03:05",
         "sentiment": "neutral"
       },
       {
-        "title": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
+        "title": "Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/?.tsrc=rss",
-        "date": "Nov 24, 00:42",
+        "url": "https://beincrypto.com/ai-stocks-dead-cat-bounce-iren/?.tsrc=rss",
+        "date": "Nov 24, 03:05",
+        "sentiment": "negative"
+      },
+      {
+        "title": "BE Stock Clocks Best Gains In Nearly 5 Months: Bloom Energy Bears Dominate Sentiment But Bulls Smell A Comeback: \u2018AI Buildout Is Only 15%\u2019",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-best-gains-five-months-bulls-see-comback-ai-trade-nvidia/cNbrMHBR9jv?.tsrc=rss",
+        "date": "Nov 24, 03:03",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Sunway Group Accelerates Secure and Sovereign Enterprise-wide Artificial Intelligence With HPE",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/sunway-group-accelerates-secure-sovereign-030000590.html?.tsrc=rss",
+        "date": "Nov 24, 03:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Taiwan Stocks Jump 9%, Beating Korea and Japan on Huang's Nvidia Return",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/taiwan-stocks-jump-huang-nvidia-return/?.tsrc=rss",
+        "date": "Nov 24, 02:54",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Jensen Huang\u2019s Return Won\u2019t End California Probe Into Nvidia\u2019s China Activities, Attorney General Reportedly Says: Crypto Bettors Don\u2019t See an Arrest",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63567819/jensen-huang-nvidia-ceo-california-attorney-general-polymarket?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+        "date": "Nov 24, 02:53",
         "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Jensen Huang\u2019s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom \u2013 And Analysts See Risks Ahead",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-return-as-nvidia-ceo-sparks-ai-stock-rally-but-congressional-probes-loom-and-analysts-see-risks-ahead/cNbrt2TR9ju?.tsrc=rss",
+        "date": "Nov 24, 02:35",
+        "sentiment": "negative"
+      },
       {
         "title": "Hewlett Packard Enterprise Q4 Earnings Call Highlights",
         "summary": "",
@@ -124,17 +132,17 @@
         "url": "https://247wallst.com/investing/2026/11/23/steve-eisman-says-stock-picking-is-back-now-that-ai-is-no-longer-one-trade/?.tsrc=rss",
         "date": "Nov 23, 22:07",
         "sentiment": "neutral"
-      },
-      {
-        "title": "It's not over for Jensen Huang",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html?.tsrc=rss",
-        "date": "Nov 23, 21:58",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
+      {
+        "title": "Dow, Nasdaq and Bitcoin Jump on Huang's Return, but Why Did Bitcoin Reverse?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/bitcoin-reversal-huang-return-nasdaq/?.tsrc=rss",
+        "date": "Nov 24, 02:00",
+        "sentiment": "neutral"
+      },
       {
         "title": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
         "summary": "",
@@ -189,14 +197,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/video/jensen-huang-is-back-does-washington-have-a-seat-in-the-boardroom-221214249.html?.tsrc=rss",
         "date": "Nov 23, 22:12",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "From Resignation to Reinstatement: Huang's Market Impact",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/resignation-reinstatement-huangs-market-impact-215600680.html?.tsrc=rss",
-        "date": "Nov 23, 21:56",
         "sentiment": "neutral"
       }
     ],
@@ -486,6 +486,14 @@
     ],
     "PLTR": [
       {
+        "title": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rebound-puts-ai-021257945.html?.tsrc=rss",
+        "date": "Nov 24, 02:12",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
         "summary": "",
         "source": "Yahoo Finance",
@@ -540,14 +548,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-rzlv-stock-14-183045994.html?.tsrc=rss",
         "date": "Nov 23, 18:30",
         "sentiment": "positive"
-      },
-      {
-        "title": "Palantir Stocks Jump 11.67% as AI Software Rebound Revisits a 158% Rule of 40",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-jump-11-67-175310860.html?.tsrc=rss",
-        "date": "Nov 23, 17:53",
-        "sentiment": "neutral"
       }
     ],
     "NST.AX": [
@@ -754,6 +754,14 @@
     ],
     "AAPL": [
       {
+        "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/etf/2026/11/23/qqq-paid-a-300000-holder-1524-in-dividends-over-the-past-year-while-vym-paid-7164/?.tsrc=rss",
+        "date": "Nov 24, 02:03",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Own HP Stock? Memory Costs Are The Risk",
         "summary": "",
         "source": "Yahoo Finance",
@@ -807,14 +815,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.trefis.com/stock/nvda/articles/627446/nvidia-s-forecast-needs-1-4-trillion-of-ai-spending-in-2027-who-pays/2026-11-23?.tsrc=rss",
         "date": "Nov 23, 18:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia Is Now Second To Apple In The World\u2019s Most Valued Companies On Jensen Huang Optimism",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-is-now-second-to-apple-in-the-world-s-most-valued-companies-on-jensen-huang-optimism/cNbpeYcR9j0?.tsrc=rss",
-        "date": "Nov 23, 17:25",
         "sentiment": "neutral"
       }
     ],
