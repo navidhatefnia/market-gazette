@@ -1,141 +1,189 @@
 {
-  "lastUpdated": "09:26 PM",
+  "lastUpdated": "11:34 PM",
   "date": "Tuesday, November 24, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Dell handily tops estimates, lifts sales and profit guidance",
+        "title": "Why AMD Stock Fell Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/article/dell-handily-tops-estimates-lifts-sales-and-profit-guidance-212145887.html?.tsrc=rss",
-        "date": "Nov 24, 21:21",
+        "url": "https://www.fool.com/investing/2026/11/24/why-amd-stock-fell-today/?.tsrc=rss",
+        "date": "Nov 24, 23:25",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3A.html?.tsrc=rss",
+        "date": "Nov 24, 23:21",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A scandal like the one haunting Nvidia just reached AMD, its biggest rival",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/stocks/scandal-like-one-haunting-nvidia-just-reached-amd-its-biggest-rival?.tsrc=rss",
+        "date": "Nov 24, 23:17",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Intel Stock Fell Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/24/why-intel-stock-fell-today/?.tsrc=rss",
+        "date": "Nov 24, 23:16",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Why Compass Minerals International Stock Rocketed Higher Today",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/24/why-compass-minerals-international-stock-rocketed-higher-today/?.tsrc=rss",
+        "date": "Nov 24, 23:06",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "California AG Sees 'Bright Red Flags' Regarding Nvidia",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/california-ag-sees-bright-red-230340002.html?.tsrc=rss",
+        "date": "Nov 24, 23:03",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/?.tsrc=rss",
+        "date": "Nov 24, 23:01",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novanta Shares Just Jumped And We\u2019re Buying This Robotics Play",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/videos/novanta-shares-just-jumped-and-were-buying-this-robotics-play/?.tsrc=rss",
+        "date": "Nov 24, 22:59",
         "sentiment": "positive"
-      },
-      {
-        "title": "She Retires at 65 With a $900,000 All-Stock 401(k) as the S&P 500 Swings From Its Worst Week to Its Best Day Since April 2025. The 8.6% Drop Erases $77,400, and the Rebound Still Leaves Her $38,409 Short",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/personal-finance/2026/11/24/she-retires-at-65-with-a-900000-all-stock-401k-right-after-the-sp-500s-worst-week-since-april-2025-the-8-6-drop-erases-77400-and-mondays-best-day-since-april-2025-still-leaves-her-38409/?.tsrc=rss",
-        "date": "Nov 24, 21:15",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia's Historic 31% Rally Unravels In Just One Day. AI Stocks Plunge As Nasdaq Sinks 2%.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.ibtimes.com/us-stocks-mixed-ai-selloff-consumer-confidence-3810150?.tsrc=rss",
-        "date": "Nov 24, 21:14",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Microsoft (MSFT) Is One of the Safest Ways to Own AI",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-safest-ways-210600451.html?.tsrc=rss",
-        "date": "Nov 24, 21:06",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Did Nvidia Make a Big Mistake by Reinstating Jensen Huang as CEO so Quickly?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/24/did-nvidia-make-a-big-mistake-by-reinstating-jensen-huang-as-ceo/?.tsrc=rss",
-        "date": "Nov 24, 21:05",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "The Biggest Earnings Winners Grind Dell And Sandisk Into The Dust",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/e45ffa23-8286-379b-b6e0-081e46a83f75/the-biggest-earnings-winners.html?.tsrc=rss",
-        "date": "Nov 24, 21:03",
-        "sentiment": "positive"
-      },
-      {
-        "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-down-210145373.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why MaxLinear (MXL) Stock Is Plunging Today: Chip Stocks Sell Off",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-maxlinear-mxl-stock-plunging-210142402.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
       }
     ],
     "AMD": [
       {
-        "title": "Microsoft (MSFT) Is One of the Safest Ways to Own AI",
+        "title": "Why AMD Stock Fell Today",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-one-safest-ways-210600451.html?.tsrc=rss",
-        "date": "Nov 24, 21:06",
+        "url": "https://www.fool.com/investing/2026/11/24/why-amd-stock-fell-today/?.tsrc=rss",
+        "date": "Nov 24, 23:25",
         "sentiment": "neutral"
       },
       {
-        "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
+        "title": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-down-210145373.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
+        "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3A.html?.tsrc=rss",
+        "date": "Nov 24, 23:21",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "A scandal like the one haunting Nvidia just reached AMD, its biggest rival",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.thestreet.com/investing/stocks/scandal-like-one-haunting-nvidia-just-reached-amd-its-biggest-rival?.tsrc=rss",
+        "date": "Nov 24, 23:17",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stock Market Today, Nov. 24: AMD Plunges 9% as 337 Million-Share Resale Filing Adds to AI Sell-Off",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/?.tsrc=rss",
+        "date": "Nov 24, 22:39",
         "sentiment": "negative"
       },
       {
-        "title": "Why MaxLinear (MXL) Stock Is Plunging Today: Chip Stocks Sell Off",
+        "title": "Morning Movers: Dick\u2019s Sporting and Dollar Tree gain following quarterly reports",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-maxlinear-mxl-stock-plunging-210142402.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html?.tsrc=rss",
+        "date": "Nov 24, 22:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Nvidia, Chip Stocks Fall As Data Center Spending Fears Return",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/f1d585fa-8dde-3feb-9be2-ba2cfa946702/nvidia%2C-chip-stocks-fall-as.html?.tsrc=rss",
+        "date": "Nov 24, 21:58",
         "sentiment": "negative"
       },
       {
-        "title": "Rambus (RMBS) Stock Is Down 11.4% Today: Chip Sector AI Selloff",
+        "title": "Stock Market Today: Nasdaq Dives As Jensen Huang Tells Nvidia Staff This; Walmart Tests Entry",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rambus-rmbs-stock-down-11-210135197.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
+        "url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+        "date": "Nov 24, 21:51",
+        "sentiment": "neutral"
       },
       {
-        "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
+        "title": "Stock Market Today, Nov. 24: Nvidia Gives Back $240 Billion in Market Value Despite Wall Street Upgrade Signaling 29% Upside",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-energy-aeis-stock-down-210130944.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why MKS (MKSI) Stock Is Down Today: Chip Stocks Slide on AI Selloff",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-mks-mksi-stock-down-210130421.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why Is Semtech (SMTC) Stock Plunging Today? Chip Selloff, Analog Peer ADI Drops",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-semtech-smtc-stock-plunging-210116284.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Is AMD Among the Morgan Stanley\u2019s Best Semiconductor and Server Stocks to Buy for 2027?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/amd-among-morgan-stanley-best-205409840.html?.tsrc=rss",
-        "date": "Nov 24, 20:54",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/?.tsrc=rss",
+        "date": "Nov 24, 21:49",
         "sentiment": "positive"
       }
     ],
     "MU": [
       {
+        "title": "3 AI Investment Stocks We\u2019re Buying Today And Why We\u2019re Selling On Micron",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/videos/3-ai-investment-stocks-were-buying-today-and-why-were-selling-on-micron/?.tsrc=rss",
+        "date": "Nov 24, 23:19",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Morning Movers: Dick\u2019s Sporting and Dollar Tree gain following quarterly reports",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html?.tsrc=rss",
+        "date": "Nov 24, 22:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Nvidia, Chip Stocks Fall As Data Center Spending Fears Return",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/f1d585fa-8dde-3feb-9be2-ba2cfa946702/nvidia%2C-chip-stocks-fall-as.html?.tsrc=rss",
+        "date": "Nov 24, 21:58",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html?.tsrc=rss",
+        "date": "Nov 24, 21:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today\u2019s Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/f7fa0ed2-2c68-3b80-9261-c35639090d03/nvidia%2C-anthropic%2C-micron%2C.html?.tsrc=rss",
+        "date": "Nov 24, 21:33",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html?.tsrc=rss",
+        "date": "Nov 24, 21:23",
+        "sentiment": "neutral"
+      },
+      {
         "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
         "summary": "",
         "source": "Yahoo Finance",
@@ -150,57 +198,25 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/why-maxlinear-mxl-stock-plunging-210142402.html?.tsrc=rss",
         "date": "Nov 24, 21:01",
         "sentiment": "negative"
-      },
-      {
-        "title": "Rambus (RMBS) Stock Is Down 11.4% Today: Chip Sector AI Selloff",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rambus-rmbs-stock-down-11-210135197.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-energy-aeis-stock-down-210130944.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why MKS (MKSI) Stock Is Down Today: Chip Stocks Slide on AI Selloff",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-mks-mksi-stock-down-210130421.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why Is Semtech (SMTC) Stock Plunging Today? Chip Selloff, Analog Peer ADI Drops",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-semtech-smtc-stock-plunging-210116284.html?.tsrc=rss",
-        "date": "Nov 24, 21:01",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why Is CEVA (CEVA) Stock Down Today? AI Chip Selloff Drags Shares",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceva-ceva-stock-down-204653822.html?.tsrc=rss",
-        "date": "Nov 24, 20:46",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Why Is Applied Materials (AMAT) Stock Down Today? Chip Selloff Drags Suppliers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-materials-amat-stock-204649720.html?.tsrc=rss",
-        "date": "Nov 24, 20:46",
-        "sentiment": "negative"
       }
     ],
     "SMCI": [
+      {
+        "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today\u2019s Market",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/f7fa0ed2-2c68-3b80-9261-c35639090d03/nvidia%2C-anthropic%2C-micron%2C.html?.tsrc=rss",
+        "date": "Nov 24, 21:33",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nvidia degrades U.S. national security as Chinese military snags its chips",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-degrades-u-national-security-194325156.html?.tsrc=rss",
+        "date": "Nov 24, 19:43",
+        "sentiment": "neutral"
+      },
       {
         "title": "5 Best Affordable Growth Stocks to Buy for 2027",
         "summary": "",
@@ -226,14 +242,6 @@
         "sentiment": "positive"
       },
       {
-        "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today\u2019s Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/f7fa0ed2-2c68-3b80-9261-c35639090d03/nvidia%2C-anthropic%2C-micron%2C.html?.tsrc=rss",
-        "date": "Nov 24, 17:37",
-        "sentiment": "neutral"
-      },
-      {
         "title": "The U.S. Just Blacklisted the Firm Suspected of Funneling Nvidia Chips to China",
         "summary": "",
         "source": "Yahoo Finance",
@@ -256,14 +264,6 @@
         "url": "https://www.tikr.com/blog/dell-just-dropped-26-in-a-month-steve-eisman-warns-it-will-slow-along-with-nvidia-is-he-right?ref=yahoofinance&tlnk=yf-261124-jr476wwx&.tsrc=rss",
         "date": "Nov 24, 12:35",
         "sentiment": "negative"
-      },
-      {
-        "title": "Jim Cramer Says Dell Is \u201cOne of the Few\u201d AI Stocks to Ride. Its November 24 Report Must Prove It",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/jim-cramer-says-dell-is-one-of-the-few-ai-stocks-to-ride-its-november-24-report-must-prove-it?ref=yahoofinance&tlnk=yf-261124-63mj9xvw&.tsrc=rss",
-        "date": "Nov 24, 08:36",
-        "sentiment": "neutral"
       }
     ],
     "CENX": [
@@ -462,6 +462,14 @@
     ],
     "PLTR": [
       {
+        "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html?.tsrc=rss",
+        "date": "Nov 24, 21:45",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Dropbox (DBX) Stock Is Up 5.8% Today Without Company News",
         "summary": "",
         "source": "Yahoo Finance",
@@ -516,14 +524,6 @@
         "url": "https://finance.yahoo.com/m/47423e5b-bbb4-3535-9f26-0554a5a1c0eb/how-did-cathie-wood-play-the.html?.tsrc=rss",
         "date": "Nov 24, 14:49",
         "sentiment": "neutral"
-      },
-      {
-        "title": "AI-Enabled Battlefield Management and Decision Support Systems Global Market Report 2026 | Lockheed Martin, RTX, Palantir Capitalize on Edge AI as Market Hits $17.88B by 2030",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-enabled-battlefield-management-decision-144200975.html?.tsrc=rss",
-        "date": "Nov 24, 14:42",
-        "sentiment": "positive"
       }
     ],
     "NST.AX": [
@@ -545,6 +545,14 @@
       }
     ],
     "CDE": [
+      {
+        "title": "Stock Market Today, Nov. 24: Hecla Mining Slides as Silver Prices Fall on Rate-Hike Worries",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-hecla-mining-slides-as-silver-prices-fall-on-rate-hike-worries/?.tsrc=rss",
+        "date": "Nov 24, 22:13",
+        "sentiment": "negative"
+      },
       {
         "title": "Should You Buy Hecla Mining Stock For Its Cash?",
         "summary": "",
@@ -576,17 +584,17 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-issued-fresh-051155524.html?.tsrc=rss",
         "date": "Nov 18, 05:11",
         "sentiment": "positive"
-      },
-      {
-        "title": "Coeur to Participate in National Bank\u2019s CEO Mining Conference",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/coeur-participate-national-bank-ceo-213000825.html?.tsrc=rss",
-        "date": "Nov 17, 21:30",
-        "sentiment": "neutral"
       }
     ],
     "PAAS": [
+      {
+        "title": "Stock Market Today, Nov. 24: Hecla Mining Slides as Silver Prices Fall on Rate-Hike Worries",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-hecla-mining-slides-as-silver-prices-fall-on-rate-hike-worries/?.tsrc=rss",
+        "date": "Nov 24, 22:13",
+        "sentiment": "negative"
+      },
       {
         "title": "Can Pan American Silver Stock Hit $48?",
         "summary": "",
@@ -626,14 +634,6 @@
         "url": "https://finance.yahoo.com/markets/commodities/articles/wayfinder-metals-signs-loi-earn-113000185.html?.tsrc=rss",
         "date": "Nov 19, 11:30",
         "sentiment": "positive"
-      },
-      {
-        "title": "Pan American Silver Reports High-Grade Exploration Results and New Vein Discoveries at La Colorada",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/pan-american-silver-reports-high-224200835.html?.tsrc=rss",
-        "date": "Nov 17, 22:42",
-        "sentiment": "neutral"
       }
     ],
     "RGLD": [
@@ -698,6 +698,38 @@
     ],
     "AAPL": [
       {
+        "title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/m/34be458f-965e-30c4-8fb7-e730267a65a9/tech-keeps-eating-hollywood.html?.tsrc=rss",
+        "date": "Nov 24, 23:00",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/maple-raises-5-3m-build-211952973.html?.tsrc=rss",
+        "date": "Nov 24, 21:19",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-above-fair-value-211324050.html?.tsrc=rss",
+        "date": "Nov 24, 21:13",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-apple-philip-205300421.html?.tsrc=rss",
+        "date": "Nov 24, 20:53",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Trump Warns of \u201cPaying 200 Percent on Chips\u201d in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
         "summary": "",
         "source": "Yahoo Finance",
@@ -728,41 +760,25 @@
         "url": "https://www.fool.com/coverage/better-buy/2026/11/24/intuit-vs-palo-alto-networks-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
         "date": "Nov 24, 19:20",
         "sentiment": "positive"
-      },
-      {
-        "title": "Why Dividend Growth ETFs Deserve a Place in Tech-Heavy Portfolios",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-dividend-growth-etfs-deserve-183300364.html?.tsrc=rss",
-        "date": "Nov 24, 18:33",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Is Netflix Stock Worth More Than Its Competitors?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/nflx/articles/628356/is-netflix-stock-worth-more-than-its-competitors-2/2026-11-24?.tsrc=rss",
-        "date": "Nov 24, 17:58",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Why Did Alphabet Stock Move?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/googl/articles/628636/why-did-alphabet-stock-move/2026-11-24?.tsrc=rss",
-        "date": "Nov 24, 17:24",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple Stock Has 3 Things Going for It in 2027. Here\u2019s My Price Target",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/24/apple-stock-has-3-things-going-for-it-in-2027-heres-my-price-target/?.tsrc=rss",
-        "date": "Nov 24, 17:03",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/24/stephanie-link-says-marvell-could-earn-30-a-share-by-2031-is-she-right/?.tsrc=rss",
+        "date": "Nov 24, 22:07",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Billionaire Charlie Munger\u2019s Protege Li Lu: Himalaya Capital Has 45% of Its $3.78 Billion Portfolio in Alphabet",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/24/billionaire-charlie-mungers-protege-li-lu-himalaya-capital-has-45-of-its-3-78-billion-portfolio-in-alphabet/?.tsrc=rss",
+        "date": "Nov 24, 21:58",
+        "sentiment": "neutral"
+      },
       {
         "title": "Microsoft (MSFT) Is One of the Safest Ways to Own AI",
         "summary": "",
@@ -810,22 +826,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/why-dividend-growth-etfs-deserve-183300364.html?.tsrc=rss",
         "date": "Nov 24, 18:33",
         "sentiment": "positive"
-      },
-      {
-        "title": "ASML Is the Most Important Company You\u2019ve Never Heard Of. Should You Buy the Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/24/asml-is-the-most-important-company-youve-never-heard-of-should-you-buy-the-stock/?.tsrc=rss",
-        "date": "Nov 24, 18:23",
-        "sentiment": "positive"
-      },
-      {
-        "title": "What Would A Short Seller Say About IBM Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/ibm/articles/628477/what-would-a-short-seller-say-about-ibm-stock/2026-11-24?.tsrc=rss",
-        "date": "Nov 24, 18:18",
-        "sentiment": "negative"
       }
     ],
     "AMSC": [],
