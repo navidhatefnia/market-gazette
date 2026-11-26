@@ -1,74 +1,114 @@
 {
-  "lastUpdated": "03:34 PM",
+  "lastUpdated": "06:33 PM",
   "date": "Thursday, November 26, 2026",
   "news": {
     "NVDA": [
+      {
+        "title": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/nvidia-stock-has-found-its-next-big-catalyst-making-the-stock-a-once-in-a-decade-buying-opportunity/?.tsrc=rss",
+        "date": "Nov 26, 18:17",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Big News For Nvidia Stock Fans",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html?.tsrc=rss",
+        "date": "Nov 26, 18:14",
+        "sentiment": "neutral"
+      },
       {
         "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-        "date": "Nov 26, 15:25",
+        "date": "Nov 26, 18:11",
         "sentiment": "positive"
       },
       {
-        "title": "Marvell Reports Tuesday. How Often Has It Dropped 10%?",
+        "title": "Billionaire John Overdeck\u2019s former fund, Two Sigma Raised Its Nvidia Stake 67% to $2.39 Billion",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/mrvl/articles/629177/marvell-reports-tuesday-how-often-has-it-dropped-10/2026-11-26?.tsrc=rss",
-        "date": "Nov 26, 15:15",
+        "url": "https://247wallst.com/investing/2026/11/26/billionaire-john-overdecks-former-fund-two-sigma-raised-its-nvidia-stake-67-to-2-39-billion/?.tsrc=rss",
+        "date": "Nov 26, 18:05",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Here's What Would Prove Me Wrong About Netflix Stock",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/here-s-what-would-prove-me-wrong-about-netflix-stock/?.tsrc=rss",
+        "date": "Nov 26, 18:01",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alphabet Could Be the Safest Way to Own Anthropic. Here\u2019s the Math.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/alphabet-could-be-the-safest-way-to-own-anthropic-here-s-the-math/?.tsrc=rss",
+        "date": "Nov 26, 17:47",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Should You Buy Nvidia After Its Sharp Decline? Warren Buffett\u2019s Long-Held Investment Philosophy Provides a Clear Answer",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/should-you-buy-nvidia-warren-buffett-investment-philosophy-provides-a-clear-answer/?.tsrc=rss",
+        "date": "Nov 26, 17:35",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "NVIDIA Stocks Fall 3.91% as S&P Puts AA Rating on Downgrade Watch",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-3-91-173102633.html?.tsrc=rss",
+        "date": "Nov 26, 17:31",
         "sentiment": "negative"
-      },
-      {
-        "title": "SpaceX Just Slid 11% in a Week. Can Elon Musk\u2019s FCC Win for 1 Million Satellites Get SPCX Stock Back Above Its $135 IPO Price?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/spacex-just-slid-11-in-a-week-can-elon-musks-fcc-win-for-1-million-satellites-get-spcx-stock-back-above-its-135-ipo-price/?.tsrc=rss",
-        "date": "Nov 26, 15:08",
-        "sentiment": "positive"
-      },
-      {
-        "title": "ETO Markets Marks 13th Anniversary With \u201cRace Beyond Limits\u201d Global Brand Strategy",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/eto-markets-marks-13th-anniversary-145900039.html?.tsrc=rss",
-        "date": "Nov 26, 14:59",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Michael Burry Just Flipped Bullish and Went on a Shopping Spree for Stocks",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/michael-burry-just-flipped-bullish-and-went-on-a-shopping-spree-for-stocks/?.tsrc=rss",
-        "date": "Nov 26, 14:52",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Investing $500 a Month in Coca-Cola, Realty Income, and Altria Could Generate Over $1,000 in Monthly Dividend Income by 2046",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/26/investing-usd500-a-month-in-coca-cola-realty-income-and-altria-could-generate-over-usd1-000-in-monthly-dividend-income-by-2046/?.tsrc=rss",
-        "date": "Nov 26, 14:51",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dow Investors Chased Tech Swings\u2014While Amgen Quietly Surged 77%",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/healthcare/articles/dow-investors-chased-tech-swings-144540662.html?.tsrc=rss",
-        "date": "Nov 26, 14:45",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Stocks\u2019 Swoon and Higher Interest Rates Are a Bad Combo for the Economy",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/faf3cdb5-65de-33b2-bf66-cb69fde1728a/stocks%E2%80%99-swoon-and-higher.html?.tsrc=rss",
-        "date": "Nov 26, 14:44",
-        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "nVent Electric (NVT) Brings AI Data Center Cooling And Power Systems To SC26",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html?.tsrc=rss",
+        "date": "Nov 26, 17:13",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-expands-ai-inference-reach-161400247.html?.tsrc=rss",
+        "date": "Nov 26, 16:14",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/?.tsrc=rss",
+        "date": "Nov 26, 16:06",
+        "sentiment": "negative"
+      },
+      {
+        "title": "S&P\u2019s NVIDIA Warning is Backward Looking Governance Theater That Gives Everyone an Opportunity to Buy at $150",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/sps-nvidia-warning-is-backward-looking-governance-theater-that-gives-everyone-an-opportunity-to-buy-at-150/?.tsrc=rss",
+        "date": "Nov 26, 15:45",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "CoreWeave\u2019s Default Odds Hit a Record. Core Scientific Has a Big Problem",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.tikr.com/blog/coreweaves-default-odds-hit-a-record-core-scientific-has-a-big-problem?ref=yahoofinance&tlnk=yf-261126-x54g96m4&.tsrc=rss",
+        "date": "Nov 26, 15:35",
+        "sentiment": "positive"
+      },
       {
         "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
         "summary": "",
@@ -92,46 +132,6 @@
         "url": "https://www.trefis.com/stock/nvda/articles/629186/does-s-p-s-credit-warning-matter-for-nvidia-stock/2026-11-26?.tsrc=rss",
         "date": "Nov 26, 12:03",
         "sentiment": "negative"
-      },
-      {
-        "title": "Is The Client Unit Still Carrying AMD Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.trefis.com/stock/amd/articles/629201/is-the-client-unit-still-carrying-amd-stock/2026-11-26?.tsrc=rss",
-        "date": "Nov 26, 11:23",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Cathie Wood and Philippe Laffont Are on Opposite Sides of AMD Stock. Here's Who I Think Is Right.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/26/cathie-wood-and-philippe-laffont-are-on-opposite-sides-of-amd-stock-here-s-who-i-think-is-right/?.tsrc=rss",
-        "date": "Nov 26, 11:13",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-stocks-plunge-110624788.html?.tsrc=rss",
-        "date": "Nov 26, 11:06",
-        "sentiment": "negative"
-      },
-      {
-        "title": "State Street Tech Select SPDR (XLK) Adds Apple and Nvidia on Nov. 24",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110452004.html?.tsrc=rss",
-        "date": "Nov 26, 11:04",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Direxion Daily Technology Bull 3X (TECL) Adds Apple and Nvidia on Nov. 24",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110431437.html?.tsrc=rss",
-        "date": "Nov 26, 11:04",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
@@ -140,7 +140,39 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-        "date": "Nov 26, 15:25",
+        "date": "Nov 26, 18:11",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Micron Stock Faces Surprising New Threat From Huawei",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-faces-surprising-threat-180348513.html?.tsrc=rss",
+        "date": "Nov 26, 18:03",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-4-53-172600974.html?.tsrc=rss",
+        "date": "Nov 26, 17:26",
+        "sentiment": "negative"
+      },
+      {
+        "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/this-ai-investing-prodigy-lost-65-in-a-single-quarter-and-is-still-up-88-5-in-2026-heres-the-lesson-for-investors/?.tsrc=rss",
+        "date": "Nov 26, 16:55",
+        "sentiment": "positive"
+      },
+      {
+        "title": "SK Hynix Just Revealed the Next Generation of DRAM. Can It Beat Micron in the Next Memory Supercycle?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/sk-hynix-just-revealed-the-next-generation-of-dram-can-it-beat-micron-in-the-next-memory-supercycle/?.tsrc=rss",
+        "date": "Nov 26, 16:44",
         "sentiment": "positive"
       },
       {
@@ -166,41 +198,25 @@
         "url": "https://finance.yahoo.com/m/75ebee7a-b584-3441-9bac-c4a6ec75020e/micron-may-now-face-a-threat.html?.tsrc=rss",
         "date": "Nov 26, 13:01",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Micron Can\u2019t Stop Sliding. UBS Cut Its Target, but Still Sees 83% Upside",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/micron-cant-stop-sliding-ubs-cut-its-target-but-still-sees-83-upside?ref=yahoofinance&tlnk=yf-261126-5mxg7gm6&.tsrc=rss",
-        "date": "Nov 26, 12:21",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tepper Trims Alphabet by ~46% and Dumps Broadcom & AMD While Backing Micron and Oracle",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle/?.tsrc=rss",
-        "date": "Nov 26, 12:15",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Micron's $50 Billion Taiwan Investment Faces Fresh Labor Risk",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-taiwan-investment-113553440.html?.tsrc=rss",
-        "date": "Nov 26, 11:35",
-        "sentiment": "negative"
-      },
-      {
-        "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-two-cheapest-ai-112351523.html?.tsrc=rss",
-        "date": "Nov 26, 11:23",
-        "sentiment": "neutral"
       }
     ],
     "SMCI": [
+      {
+        "title": "Big News For Nvidia Stock Fans",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html?.tsrc=rss",
+        "date": "Nov 26, 18:14",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "DELL's AI Server Sales Surge: Can the Growth Momentum Continue?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/dells-ai-server-sales-surge-160100190.html?.tsrc=rss",
+        "date": "Nov 26, 16:01",
+        "sentiment": "positive"
+      },
       {
         "title": "NetApp Stock Ahead of Q2 Earnings: Should You Buy, Hold or Sell?",
         "summary": "",
@@ -248,22 +264,6 @@
         "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-reportedly-halts-ai-server-shipments-to-southeast-asia-ahead-of-jensen-huang-s-congress-testimony/cNbxLXJR9ZN?.tsrc=rss",
         "date": "Nov 26, 08:11",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Nvidia halts chip shipments to south-east Asia",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-chip-shipments-south-050019884.html?.tsrc=rss",
-        "date": "Nov 26, 05:00",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "TD Cowen Just Cut Its Dell Target From $550 to $325 After a Record Quarter",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/td-cowen-just-cut-its-dell-target-from-550-to-325-after-a-record-quarter?ref=yahoofinance&tlnk=yf-261126-835vp4w8&.tsrc=rss",
-        "date": "Nov 26, 02:27",
-        "sentiment": "neutral"
       }
     ],
     "CENX": [
@@ -290,14 +290,6 @@
         "url": "https://www.tikr.com/blog/inside-david-einhorns-portfolio-every-move-he-made-in-the-third-quarter?ref=yahoofinance&tlnk=yf-261119-r5m89w85&.tsrc=rss",
         "date": "Nov 19, 20:05",
         "sentiment": "neutral"
-      },
-      {
-        "title": "David Einhorn Is Buying PG&E",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/david-einhorn-is-buying-pge?ref=yahoofinance&tlnk=yf-261119-fj57q4m9&.tsrc=rss",
-        "date": "Nov 19, 16:09",
-        "sentiment": "positive"
       }
     ],
     "WPM": [
@@ -319,6 +311,14 @@
       }
     ],
     "ENR.DE": [
+      {
+        "title": "Siemens Energy Signs Major Deal to Revive Venezuela's Power Grid",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html?.tsrc=rss",
+        "date": "Nov 26, 17:23",
+        "sentiment": "positive"
+      },
       {
         "title": "Siemens Energy shares jump 3% after Venezuela power deals",
         "summary": "",
@@ -438,6 +438,22 @@
     ],
     "PLTR": [
       {
+        "title": "Palantir Closed 212 Deals Worth at Least $1 Million. Here\u2019s What That Means for Its Growth",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/palantir-closed-212-deals-worth-at-least-1-million-heres-what-that-means-for-its-growth/?.tsrc=rss",
+        "date": "Nov 26, 16:03",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Michael Burry exits Nasdaq-100 short",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.proactiveinvestors.com/companies/news/1102534/michael-burry-exits-nasdaq-100-short-1102534.html?.tsrc=rss",
+        "date": "Nov 26, 14:47",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Michael Burry Turns Bullish, Exits Nasdaq Shorts but Eyes Nvidia at $200",
         "summary": "",
         "source": "Yahoo Finance",
@@ -483,22 +499,6 @@
         "source": "Yahoo Finance",
         "url": "https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25?.tsrc=rss",
         "date": "Nov 25, 23:31",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/?.tsrc=rss",
-        "date": "Nov 25, 23:20",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Goldman Sachs bets on Palantir's 'mega customers' after NYC demo",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.thestreet.com/investing/palantir-mega-customers-goldman-sachs?.tsrc=rss",
-        "date": "Nov 25, 20:13",
         "sentiment": "neutral"
       }
     ],
@@ -625,6 +625,38 @@
     "USAU": [],
     "AAPL": [
       {
+        "title": "Apple Removes Talkie From App Store After Reports of Inappropriate AI Messages",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-removes-talkie-app-store-180937483.html?.tsrc=rss",
+        "date": "Nov 26, 18:09",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Apple, Exxon and Lowe\u2019s Are Rewarding Shareholders Beyond Their Regular Dividends",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/apple-exxon-and-lowes-are-rewarding-shareholders-beyond-their-regular-dividends/?.tsrc=rss",
+        "date": "Nov 26, 17:07",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss",
+        "date": "Nov 26, 15:28",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/vzs-apple-deals-loyalty-benefits-152600217.html?.tsrc=rss",
+        "date": "Nov 26, 15:26",
+        "sentiment": "positive"
+      },
+      {
         "title": "If You Invest $1,000 in Apple Today, Here\u2019s What It Could Be Worth by 2029",
         "summary": "",
         "source": "Yahoo Finance",
@@ -641,117 +673,85 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Michael Burry exits Nasdaq-100 short",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.proactiveinvestors.com/companies/news/1102534/michael-burry-exits-nasdaq-100-short-1102534.html?.tsrc=rss",
+        "date": "Nov 26, 14:47",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Netflix vs. Apple: Which Streaming Stock Has an Edge Right Now?",
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-vs-apple-streaming-stock-142100099.html?.tsrc=rss",
         "date": "Nov 26, 14:21",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Global Wearable Healthcare Devices Market Report 2026 | Capitalize on 24.9% CAGR Through 2030 as Apple, Abbott, Medtronic and Dexcom Scale AI and Remote Monitoring",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/healthcare/articles/global-wearable-healthcare-devices-market-141800552.html?.tsrc=rss",
-        "date": "Nov 26, 14:18",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Michael Burry Makes Surprising Pivot on Stock Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-makes-surprising-pivot-141451027.html?.tsrc=rss",
-        "date": "Nov 26, 14:14",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Apple Pulls Popular AI App Over Alarming Safety Concerns",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-pulls-popular-ai-app-141351113.html?.tsrc=rss",
-        "date": "Nov 26, 14:13",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Keek Social Inc. Provides Corporate Update",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/keek-social-inc-provides-corporate-141000185.html?.tsrc=rss",
-        "date": "Nov 26, 14:10",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the Stock?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-drops-15-buy-sell-134800192.html?.tsrc=rss",
-        "date": "Nov 26, 13:48",
-        "sentiment": "negative"
       }
     ],
     "GOOGL": [
       {
-        "title": "AI's self-improvement era is nearly here. It will be felt everywhere",
+        "title": "George Soros and 64 Other Big Funds Bought Meta Last Quarter. David Tepper and 33 Others Sold. Who\u2019s Right?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/ais-self-improvement-era-nearly-150000618.html?.tsrc=rss",
-        "date": "Nov 26, 15:00",
+        "url": "https://www.tikr.com/blog/george-soros-and-64-other-big-funds-bought-meta-last-quarter-david-tepper-and-33-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261126-jj5cfjgh&.tsrc=rss",
+        "date": "Nov 26, 18:09",
         "sentiment": "neutral"
       },
       {
-        "title": "Europe Cloud Computing Market Surges to $ 550.42 billion at a CAGR 11.0% by 2030 | Report by MarketsandMarkets\u2122",
+        "title": "Alphabet Could Be the Safest Way to Own Anthropic. Here\u2019s the Math.",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html?.tsrc=rss",
-        "date": "Nov 26, 15:00",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Brazil's Data Center Market: Strategic Investment Analysis and Growth Opportunities (2026-2031) with Profiles of Prominent Operators and Infrastructure Providers",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/brazils-data-center-market-strategic-140400060.html?.tsrc=rss",
-        "date": "Nov 26, 14:04",
-        "sentiment": "positive"
-      },
-      {
-        "title": "3 AI Infrastructure Stocks That Pay You While You Wait",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/3-ai-infrastructure-stocks-that-pay-you-while-you-wait/?.tsrc=rss",
-        "date": "Nov 26, 14:03",
+        "url": "https://www.fool.com/investing/2026/11/26/alphabet-could-be-the-safest-way-to-own-anthropic-here-s-the-math/?.tsrc=rss",
+        "date": "Nov 26, 17:47",
         "sentiment": "neutral"
       },
       {
-        "title": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the Stock?",
+        "title": "Amazon Has 59 Buy Ratings and Not a Single Sell. Here\u2019s Where its Headed",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-drops-15-buy-sell-134800192.html?.tsrc=rss",
-        "date": "Nov 26, 13:48",
+        "url": "https://247wallst.com/investing/2026/11/26/amazon-has-59-buy-ratings-and-not-a-single-sell-heres-where-its-headed/?.tsrc=rss",
+        "date": "Nov 26, 17:10",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alphabet (GOOGL) Dropped, So What Is Behind The Latest Attention?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-dropped-behind-latest-170937914.html?.tsrc=rss",
+        "date": "Nov 26, 17:09",
         "sentiment": "negative"
       },
       {
-        "title": "Tesla's Self-Driving Expansion in Europe Faces a Crucial Test",
+        "title": "I'm an Investing Expert: What Warren Buffett's Cash Stockpile Says About Stocks",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/teslas-self-driving-expansion-europe-134400727.html?.tsrc=rss",
-        "date": "Nov 26, 13:44",
+        "url": "https://moneylion.com/trending/money/investing-expert-warren-buffett-cash-stockpile-stock-market-signs?.tsrc=rss",
+        "date": "Nov 26, 17:00",
         "sentiment": "neutral"
       },
       {
-        "title": "A Magnificent Seven Stock Has a Surprising Path to New Highs",
+        "title": "Was CrowdStrike\u2019s $43.9 Billion Bid for Zscaler the Right Move at the Wrong Time?",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/a-magnificent-seven-stock-has-a-surprising-path-to-new-highs/?.tsrc=rss",
-        "date": "Nov 26, 13:38",
+        "url": "https://247wallst.com/investing/2026/11/26/was-crowdstrikes-43-9-billion-bid-for-zscaler-the-right-move-at-the-wrong-time/?.tsrc=rss",
+        "date": "Nov 26, 17:00",
         "sentiment": "neutral"
       },
       {
-        "title": "Will Anthropic\u2019s Float Tripling by February Sink a Stock Already Below Its IPO Price?",
+        "title": "A 26-year-old Google worker earns $323K but spends under $20K a year \u2014 his plan for financial freedom",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/will-anthropics-float-tripling-by-february-sink-a-stock-already-below-its-ipo-price?ref=yahoofinance&tlnk=yf-261126-rh7435mm&.tsrc=rss",
-        "date": "Nov 26, 13:02",
+        "url": "https://finance.yahoo.com/markets/articles/26-old-google-worker-earns-160000076.html?.tsrc=rss",
+        "date": "Nov 26, 16:00",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Reddit\u2019s stock has taken a battering this year, but its COO says it\u2019s barely started banking \u2018over a decade of karma\u2019 from devoted users",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-taken-battering-coo-154622474.html?.tsrc=rss",
+        "date": "Nov 26, 15:46",
         "sentiment": "neutral"
       }
     ],
