@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01:04 AM",
+  "lastUpdated": "02:23 AM",
   "date": "Thursday, November 26, 2026",
   "news": {
     "NVDA": [
@@ -8,8 +8,40 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B.html?.tsrc=rss",
-        "date": "Nov 26, 00:56",
+        "date": "Nov 26, 02:02",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss",
+        "date": "Nov 26, 01:19",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/?.tsrc=rss",
+        "date": "Nov 26, 01:03",
+        "sentiment": "positive"
+      },
+      {
+        "title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/alarming-unsurprising-trump-administration-cut-010000318.html?.tsrc=rss",
+        "date": "Nov 26, 01:00",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
+        "date": "Nov 26, 01:00",
+        "sentiment": "negative"
       },
       {
         "title": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
@@ -34,41 +66,17 @@
         "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC?.tsrc=rss",
         "date": "Nov 26, 00:09",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Here\u2019s How Many Coca-Cola Shares It Takes to Earn $1,300 Every Quarter in Dividends",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/25/heres-how-many-coca-cola-shares-it-takes-to-earn-1300-every-quarter-in-dividends/?.tsrc=rss",
-        "date": "Nov 25, 23:48",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Altimeter\u2019s Brad Gerstner Says Nvidia Was Priced for \u201cNegative Growth for 2028 and 2029.\u201d Wall Street Expects 29%",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29?ref=yahoofinance&tlnk=yf-261125-3qj6vf95&.tsrc=rss",
-        "date": "Nov 25, 23:39",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% Upside",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.tikr.com/blog/applied-digital-dropped-14-in-a-week-despite-a-5-4-billion-lease-lucid-still-sees-227-upside?ref=yahoofinance&tlnk=yf-261125-mhcw2483&.tsrc=rss",
-        "date": "Nov 25, 23:37",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/?.tsrc=rss",
-        "date": "Nov 25, 23:24",
-        "sentiment": "neutral"
       }
     ],
     "AMD": [
+      {
+        "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss",
+        "date": "Nov 26, 01:19",
+        "sentiment": "neutral"
+      },
       {
         "title": "Big AI Buyers Want a Second Source. Is AMD (AMD) It?",
         "summary": "",
@@ -124,14 +132,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-could-rally-213100517.html?.tsrc=rss",
         "date": "Nov 25, 21:31",
         "sentiment": "positive"
-      },
-      {
-        "title": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today?.tsrc=rss",
-        "date": "Nov 25, 21:08",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
@@ -140,7 +140,15 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B.html?.tsrc=rss",
-        "date": "Nov 26, 00:56",
+        "date": "Nov 26, 02:02",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss",
+        "date": "Nov 26, 01:19",
         "sentiment": "neutral"
       },
       {
@@ -189,14 +197,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/18e72c51-c6d7-33b1-aa90-ccce17a9b32f/anthropic%2C-nvidia%2C-micron%2C-hp.html?.tsrc=rss",
         "date": "Nov 25, 21:41",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today?.tsrc=rss",
-        "date": "Nov 25, 21:08",
         "sentiment": "neutral"
       }
     ],
@@ -645,8 +645,16 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B.html?.tsrc=rss",
-        "date": "Nov 26, 00:56",
+        "date": "Nov 26, 02:02",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
+        "date": "Nov 26, 01:00",
+        "sentiment": "negative"
       },
       {
         "title": "Is the market experiencing a 'dead cat' bounce?",
@@ -695,17 +703,17 @@
         "url": "https://www.trefis.com/stock/dell/articles/628977/what-s-behind-dell-stock-s-fall/2026-11-25?.tsrc=rss",
         "date": "Nov 25, 20:06",
         "sentiment": "negative"
-      },
-      {
-        "title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
-        "date": "Nov 25, 19:30",
-        "sentiment": "neutral"
       }
     ],
     "GOOGL": [
+      {
+        "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
+        "date": "Nov 26, 01:00",
+        "sentiment": "negative"
+      },
       {
         "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
         "summary": "",
@@ -761,14 +769,6 @@
         "url": "https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html?.tsrc=rss",
         "date": "Nov 25, 20:49",
         "sentiment": "positive"
-      },
-      {
-        "title": "SpaceX stock price crashes on concerns over compute demand",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://blockspace.media/short/spacex-stock-price-crashes-on-concerns-over-compute-demand/?.tsrc=rss",
-        "date": "Nov 25, 20:32",
-        "sentiment": "neutral"
       }
     ],
     "AMSC": [],
