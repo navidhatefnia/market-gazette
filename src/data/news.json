@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01:05 AM",
+  "lastUpdated": "02:21 AM",
   "date": "Friday, November 27, 2026",
   "news": {
     "NVDA": [
@@ -8,7 +8,7 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
-        "date": "Nov 27, 00:44",
+        "date": "Nov 27, 01:34",
         "sentiment": "positive"
       },
       {
@@ -140,7 +140,7 @@
         "summary": "",
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
-        "date": "Nov 27, 00:44",
+        "date": "Nov 27, 01:34",
         "sentiment": "positive"
       },
       {
@@ -168,6 +168,14 @@
         "sentiment": "positive"
       },
       {
+        "title": "Sandisk Trades at Under 3x Earnings After an 8-for-1 Split and a 70% Crash. Why SNDK Stock Isn\u2019t Doomed Despite NAND Price Warnings.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/9022920/sandisk-trades-at-under-3x-earnings-after-an-8-for-1-split-and-a-70-crash-why-sndk-stock-isnt-doomed-despite-nand-price-warnings?.tsrc=rss",
+        "date": "Nov 26, 19:30",
+        "sentiment": "negative"
+      },
+      {
         "title": "Micron Stock Faces Surprising New Threat From Huawei",
         "summary": "",
         "source": "Yahoo Finance",
@@ -189,14 +197,6 @@
         "source": "Yahoo Finance",
         "url": "https://247wallst.com/investing/2026/11/26/this-ai-investing-prodigy-lost-65-in-a-single-quarter-and-is-still-up-88-5-in-2026-heres-the-lesson-for-investors/?.tsrc=rss",
         "date": "Nov 26, 16:55",
-        "sentiment": "positive"
-      },
-      {
-        "title": "SK Hynix Just Revealed the Next Generation of DRAM. Can It Beat Micron in the Next Memory Supercycle?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/sk-hynix-just-revealed-the-next-generation-of-dram-can-it-beat-micron-in-the-next-memory-supercycle/?.tsrc=rss",
-        "date": "Nov 26, 16:44",
         "sentiment": "positive"
       }
     ],
@@ -588,18 +588,18 @@
         "url": "https://finance.yahoo.com/markets/commodities/articles/royal-gold-heads-3-top-001315482.html?.tsrc=rss",
         "date": "Nov 22, 00:13",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Dividend Raise Could Be A Big Deal For Royal Gold Stock (RGLD)",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-raise-could-big-deal-021135732.html?.tsrc=rss",
-        "date": "Nov 20, 02:11",
-        "sentiment": "positive"
       }
     ],
     "USAU": [],
     "AAPL": [
+      {
+        "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock?.tsrc=rss",
+        "date": "Nov 26, 19:30",
+        "sentiment": "neutral"
+      },
       {
         "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
         "summary": "",
@@ -654,14 +654,6 @@
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/markets/currencies/articles/eto-markets-marks-13th-anniversary-145900039.html?.tsrc=rss",
         "date": "Nov 26, 14:59",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Is Apple Stock Outperforming the Nasdaq?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.barchart.com/story/news/9020084/is-apple-stock-outperforming-the-nasdaq?.tsrc=rss",
-        "date": "Nov 26, 14:50",
         "sentiment": "neutral"
       }
     ],
