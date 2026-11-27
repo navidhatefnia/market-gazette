@@ -1,14 +1,46 @@
 {
-  "lastUpdated": "11:10 PM",
-  "date": "Thursday, November 26, 2026",
+  "lastUpdated": "01:05 AM",
+  "date": "Friday, November 27, 2026",
   "news": {
     "NVDA": [
       {
-        "title": "Dow Jones Futures Rise On Holiday; Look For This Bullish Market Signal",
+        "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-on.html?.tsrc=rss",
-        "date": "Nov 26, 23:04",
+        "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
+        "date": "Nov 27, 00:44",
+        "sentiment": "positive"
+      },
+      {
+        "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/1-incredibly-cheap-artificial-intelligence-ai-stock-to-buy-before-it-doubles-in-2027/?.tsrc=rss",
+        "date": "Nov 27, 00:28",
+        "sentiment": "positive"
+      },
+      {
+        "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here\u2019s What History Says Happens Next.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/these-2-ai-chip-stocks-are-down-36-to-39-from-their-highs-here-s-what-history-says-happens-next/?.tsrc=rss",
+        "date": "Nov 27, 00:20",
+        "sentiment": "negative"
+      },
+      {
+        "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/2-dividend-stocks-to-buy-in-november-and-1-to-leave-on-the-shelf/?.tsrc=rss",
+        "date": "Nov 26, 23:45",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-semiconductor-stock-through-2030-this-would-be-it/?.tsrc=rss",
+        "date": "Nov 26, 23:14",
         "sentiment": "positive"
       },
       {
@@ -34,38 +66,6 @@
         "url": "https://www.fool.com/investing/2026/11/26/prediction-these-3-consumer-stocks-will-beat-the-sp-500-over-the-next-10-years/?.tsrc=rss",
         "date": "Nov 26, 22:50",
         "sentiment": "positive"
-      },
-      {
-        "title": "Should You Buy Tesla Stock Before December?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/26/should-you-buy-tesla-stock-before-december/?.tsrc=rss",
-        "date": "Nov 26, 22:35",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/loonie-weakens-amid-thanksgiving-holiday-222803240.html?.tsrc=rss",
-        "date": "Nov 26, 22:28",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://www.fool.com/investing/2026/11/26/tech-stock-sell-off-down-13-is-microsoft-a-buy-now/?.tsrc=rss",
-        "date": "Nov 26, 22:20",
-        "sentiment": "negative"
-      },
-      {
-        "title": "\u2018Room to Spare,\u2019 Says Investor About Oracle Stock",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/room-spare-says-investor-oracle-215243159.html?.tsrc=rss",
-        "date": "Nov 26, 21:52",
-        "sentiment": "neutral"
       }
     ],
     "AMD": [
@@ -76,6 +76,14 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html?.tsrc=rss",
         "date": "Nov 26, 19:47",
         "sentiment": "positive"
+      },
+      {
+        "title": "KHC, PINS, AMD: 3 Bets I\u2019d Consider Waging From Thanksgiving Eve\u2019s Top 25 Unusually Active Options",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.barchart.com/story/news/9022595/khc-pins-amd-3-bets-id-consider-waging-from-thanksgiving-eves-top-25-unusually-active-options?.tsrc=rss",
+        "date": "Nov 26, 18:30",
+        "sentiment": "neutral"
       },
       {
         "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
@@ -124,23 +132,23 @@
         "url": "https://www.tikr.com/blog/coreweaves-default-odds-hit-a-record-core-scientific-has-a-big-problem?ref=yahoofinance&tlnk=yf-261126-x54g96m4&.tsrc=rss",
         "date": "Nov 26, 15:35",
         "sentiment": "positive"
-      },
-      {
-        "title": "NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-data-center-sales-jump-122800006.html?.tsrc=rss",
-        "date": "Nov 26, 12:28",
-        "sentiment": "neutral"
       }
     ],
     "MU": [
       {
-        "title": "Dow Jones Futures Rise On Holiday; Look For This Bullish Market Signal",
+        "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
         "summary": "",
         "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-on.html?.tsrc=rss",
-        "date": "Nov 26, 23:04",
+        "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
+        "date": "Nov 27, 00:44",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "url": "https://www.fool.com/investing/2026/11/26/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-semiconductor-stock-through-2030-this-would-be-it/?.tsrc=rss",
+        "date": "Nov 26, 23:14",
         "sentiment": "positive"
       },
       {
@@ -190,14 +198,6 @@
         "url": "https://247wallst.com/investing/2026/11/26/sk-hynix-just-revealed-the-next-generation-of-dram-can-it-beat-micron-in-the-next-memory-supercycle/?.tsrc=rss",
         "date": "Nov 26, 16:44",
         "sentiment": "positive"
-      },
-      {
-        "title": "Jim Cramer Says Micron Stock Is \u201cComically Cheap\u201d at About 3 Times Earnings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "url": "https://247wallst.com/investing/2026/11/26/jim-cramer-says-micron-stock-is-comically-cheap-at-about-3-times-earnings/?.tsrc=rss",
-        "date": "Nov 26, 13:53",
-        "sentiment": "neutral"
       }
     ],
     "SMCI": [
